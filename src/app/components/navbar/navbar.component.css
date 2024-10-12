@@ -1,0 +1,97 @@
+.navbar {
+    background-color: #000000;
+    padding: 1rem;
+    font-family: 'Montserrat', sans-serif; /* Agrega la fuente Montserrat */
+  }
+  
+  .navbar-toggler {
+    border: none;
+    outline: none;
+    font-size: 1.1rem; /* Ajusta el tamaño de la fuente */
+    font-weight: 300; /* Ajusta el peso de la fuente */
+  }
+  
+  .navbar-toggler-icon {
+    font-size: 1.1rem; /* Ajusta el tamaño de la fuente */
+  }
+  
+  #sidebar-toggle {
+    border: none;
+    outline: none;
+    background-color: #333;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    font-size: 1.1rem; /* Ajusta el tamaño de la fuente */
+    font-weight: 300; /* Ajusta el peso de la fuente */
+    cursor: pointer;
+  }
+  
+  #sidebar-toggle:hover {
+    background-color: #ffffff;
+  }
+
+  
+  
+  .navbar-toggler {
+    margin-right: 1rem;
+  }
+  
+  .nav-link:hover {
+    background-color: #555;
+    border-radius: 1rem;
+    color: #fff;
+    
+  }
+  
+  .nav-link:active {
+    background-color: #666;
+    border-radius: 1rem;
+    color: #fff;
+    
+  }
+  
+  .nav-link:focus {
+    outline: none;
+  }
+  
+  .nav-link.active.titulo {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.1rem;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 0.15rem;
+    padding: 0.4rem 1rem;
+    border-radius: 0.2rem;
+    display: inline-block;
+    text-align: center;
+    color: #000 !important; /* Agrega el estilo de texto negro */
+  }
+ 
+  .titulo.titulo-destacado {
+    font-size: 1.2rem;
+    font-weight: 500;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  }
+
+  .titulo {
+    font-family: 'Playfair Display', sans-serif; /* O cambiar a 'Montserrat' o 'Roboto' */
+    font-size: 1.1rem;
+    font-weight: 300; /* Para hacer la letra más fina */
+    color: #000; /* Cambia a blanco (#fff) si necesitas fondo oscuro */
+    text-transform: uppercase;
+    letter-spacing: 0.15rem;
+    padding: 0.4rem 1rem;
+    border-radius: 0.2rem;
+    display: inline-block;
+    text-align: center;
+    background-color: transparent; /* O usa black si lo necesitas oscuro */
+    text-decoration: none;
+}
+
+.form-control {
+    width: 500px;
+  }
+
+  .form-control:focus {
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.5) !important;
+  }

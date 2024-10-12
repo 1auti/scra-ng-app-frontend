@@ -1,0 +1,60 @@
+<div class="container mt-4">
+  <h2 class="mb-4">Promociones de Supermercados</h2>
+
+  <!-- Supermercados -->
+  <div class="btn-group-supermercados mb-4" role="group">
+    <button type="button" class="btn btn-supermercado"
+            *ngFor="let supermercado of supermercados"
+            (click)="cambiarSupermercado(supermercado)"
+            [class.active]="supermercadoSeleccionado === supermercado">
+      {{ supermercado }}
+    </button>
+  </div>
+
+  <!-- Categorías -->
+  <div class="categorias-container mb-4">
+    <div class="btn-group-categorias" role="group">
+      <button type="button" class="btn btn-categoria"
+              *ngFor="let categoria of categoriasSupermercado[supermercadoSeleccionado]"
+              (click)="cambiarCategoria(categoria)"
+              [class.active]="categoriaSeleccionada === categoria">
+        {{ categoria }}
+      </button>
+    </div>
+
+    <!-- Subcategorías -->
+    <div class="btn-group-subcategorias mt-3" role="group" *ngIf="mostrarSubCategorias()">
+      <button type="button" class="btn btn-subcategoria"
+              *ngFor="let dia of diasSemana"
+              (click)="cambiarSubCategoria(dia)"
+              [class.active]="subCategoriaSeleccionada === dia">
+        {{ dia }}
+      </button>
+    </div>
+  </div>
+
+  <!-- Promociones -->
+  <div class="promociones" *ngIf="promociones.length > 0">
+    <div class="card" *ngFor="let promo of filtrarPromociones()">
+      <div class="card-header">{{ promo.supermercado }} - {{ promo.categoria }}</div>
+      <div class="card-body">
+        <div class="descuento">{{ promo.descuento }}</div>
+        <p class="descripcion">{{ promo.descripcion}}...</p>
+        <button class="btn-ver-mas" (click)="mostrarMasInfo(promo)">Ver Más</button>
+        <p *ngIf="promo.subCategoria">
+          <small class="text-muted">Válido: {{ promo.subCategoria }}</small>
+        </p>
+        <a href="{{ promo.link }}" *ngIf="promo.link" target="_blank">Ver legajo</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal para más información -->
+<div class="mas-info" *ngIf="promoSeleccionada" (click)="cerrarMasInfo()">
+  <div class="mas-info-content" (click)="$event.stopPropagation()">
+    <span class="close" (click)="cerrarMasInfo()">&times;</span>
+    <h2>{{ promoSeleccionada.supermercado }} - {{ promoSeleccionada.categoria }}</h2>
+    <p>{{ promoSeleccionada.masInfo }}</p>
+  </div>
+</div>

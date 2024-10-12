@@ -1,0 +1,19 @@
+<div class="arrow-container">
+    <button (click)="toggleFooter()" class="btn btn-link">
+      <i [ngClass]="getToggleIconClass()" style="font-size: 2rem;"></i>
+    </button>
+  </div>
+  
+  <!-- Footer section -->
+  <footer class="footer" *ngIf="footerVisible">
+    <div class="footer-container">
+      <h4>Supermercados disponibles</h4>
+      <div class="footer-logos">
+        <img src="../../../assets/jumbo-logo.png" alt="Jumbo" class="logo-supermercado">
+        <img src="../../../assets/logo-dia.svg" alt="DIA" class="logo-supermercado">
+        <img src="../../../assets/coto-logo.webp" alt="Coto" class="logo-supermercado">
+        <!-- Agrega más logos según sea necesario -->
+      </div>
+    </div>
+  </footer>
+  

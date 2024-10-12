@@ -1,0 +1,53 @@
+<div class="container-fluid mt-5">
+  <h1 class="text-center mb-5 titulo">Encuentra tu supermercado más cercano</h1>
+
+  <div class="row">
+    <!-- Columna para los filtros y resultados -->
+    <div class="col-md-5">
+      <!-- Búsqueda de supermercado -->
+      <div class="input-group mb-4 shadow-sm">
+        <div class="input-group-prepend">
+          <span class="input-group-text bg-primary text-white"><i class="fa fa-store"></i></span>
+        </div>
+        <input type="text" class="form-control" [(ngModel)]="filtroSupermercado" (input)="filtrar()" placeholder="Buscar supermercado">
+      </div>
+
+      <!-- Búsqueda de provincia -->
+      <div class="input-group mb-4 shadow-sm">
+        <div class="input-group-prepend">
+          <span class="input-group-text bg-primary text-white"><i class="fa fa-map-marker-alt"></i></span>
+        </div>
+        <input type="text" class="form-control" [(ngModel)]="filtroProvincia" (input)="filtrar()" placeholder="Buscar provincia">
+      </div>
+
+      <!-- Búsqueda de localidad -->
+      <div class="input-group mb-4 shadow-sm">
+        <div class="input-group-prepend">
+          <span class="input-group-text bg-primary text-white"><i class="fa fa-city"></i></span>
+        </div>
+        <input type="text" class="form-control" [(ngModel)]="filtroLocalidad" (input)="filtrar()" placeholder="Buscar localidad">
+      </div>
+
+      <!-- Contenedor con barra de desplazamiento para las sucursales -->
+      <div class="sucursales-container mb-4">
+        <div *ngFor="let sucursal of sucursalesFiltradas" class="card mb-4 shadow-sm border-0">
+          <div class="card-body">
+            <h5 class="card-title text-primary font-weight-bold">Sucursal {{sucursal.supermercado}}</h5>
+            <p class="card-text text-muted">
+              {{sucursal.direccion}}<br>
+              {{sucursal.localidad}}, {{sucursal.provincia}}
+            </p>
+            <button class="btn btn-outline-primary btn-block" (click)="verEnMapa(sucursal)">
+              <i class="fa fa-map-marker-alt"></i> Ver en el mapa
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Columna para el mapa -->
+    <div class="col-md-7">
+      <div id="map" class="rounded shadow-lg" style="height: 600px;"></div>
+    </div>
+  </div>
+</div>

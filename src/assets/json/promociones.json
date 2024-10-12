@@ -1,0 +1,1259 @@
+[
+    {
+      "id":1,
+      "supermercado": "Jumbo",
+      "categoria": "Día",
+      "subCategoria": "Lunes",
+      "imagen": "assets/jumbo-lunes.jpg",
+      "descuento": "20% Dto 1 sólo pago. 25% de descuento pagando con la APP CUENTA DNI",
+      "descripcion":"25% de descuento con Billetera Cuenta DNI, de Banco Provincia -Vigencia: lunes 14 y martes 15 de octubre del 2024. pagando con la APP CUENTA DNI en supermercados e hipermercados adheridos de BUENOS AIRES. Válido para compras físicamente en nuestras tiendas de BUENOS AIRES. Tope unificado: $ 5.000.- Por vigencia y por persona.",
+      "masInfo":"Promoción válida los días lunes 14 y martes 15 de octubre del 2024, para compras realizadas a través de la funcionalidad 'Pago Clave DNI' y/o QR de la aplicación CUENTA DNI en supermercados e hipermercados adheridos. La nómina de adheridos se podrá consultar en WWW.BANCOPROVINCIA.COM.AR. Bonificación del 25%. Tope de reintegro unificado $5.000.- por acción y por persona. El tope aplicará considerando el total de compras realizadas por cuenta durante la acción semanal de la promoción, en todos los locales adheridos a la misma. El reintegro se verá reflejado en los movimientos de la cuenta asociada a Cuenta DNI dentro de los diez (10) días hábiles siguientes de realizada la compra. Válida únicamente para venta minorista, se excluyen de la promoción las bebidas con alcohol y electrodomésticos. No acumulable con otras promociones y/o descuentos vigentes. La promoción no aplica a compras realizadas con CUENTA DNI mediante la lectura del código QR de Mercado Pago u otras billeteras digitales, ni las abonadas con tarjeta de crédito VISA y/o MASTERCARD y/o VISA DÉBITO o transferencias a través de la aplicación. El descuento promocionado aplicará sobre el precio contado en concordancia con Resolución 51 y 240 /2017 Ministerio de Producción de la Nación Secretaría de Comercio. Ejemplos representativos: (1) Quien realice una compra de $1.000.- recibirá un reintegro de $250.- (2) Quien realice, en los días de la promoción, una compra de $15.000.- en 'comercio A' y una compra de $7.000.- en 'comercio B', recibirá un reintegro de $5.000.- Para más información comuníquese al 0810 666 2364. Banco de la Provincia de Buenos Aires. CUIT 33-99924210-9 Calle 7 N°726. La Plata. Buenos Aires. www.bancoprovincia.com.ar. CARTERA DE CONSUMO."
+    },
+    {
+      "id":2,
+      "supermercado": "Jumbo",
+      "categoria": "Día",
+      "subCategoria": "Lunes",
+      "imagen": "assets/jumbo-martes.jpg",
+      "descuento": "3 Cuotas Sin Interés",
+      "descripcion":"VÁLIDO PRESENCIAL Y VIRTUAL | PROMOCIÓN VÁLIDA TODOS LOS LUNES, MARTES, MIÉRCOLES Y JUEVES PARA COMPRAS REALIZADAS CON TARJETA DE CRÉDITO CENCOSUD.",
+      "masInfo":"PROMOCIÓN VÁLIDA DESDE EL 01/10/2024 AL 31/10/2024 PARA COMPRAS REALIZADAS CON TARJETA DE CRÉDITO FÍSICA CENCOSUD. ESTA PROMOCIÓN NO APLICA PARA CLIENTES EN MORA O INHABILITADOS, NI TAMPOCO PARA COMPRAS REALIZADAS EN LOCALES 'VEA EXPRESS'. (1) PROMOCIÓN VÁLIDA TODOS LOS LUNES, MARTES, MIÉRCOLES Y JUEVES EN LOS LOCALES HABILITADOS Y SITIOS WEB, OBTENIENDO SOLO 3 CUOTAS SIN INTERÉS EN TODA LA COMPRA. EXCLUYE ELECTRODOMÉSTICOS. ESTA PROMOCIÓN NO APLICA PARA CLIENTES EN MORA O INHABILITADOS. (1) PLAN 3: TASA NOMINAL ANUAL: 0,0%, TASA EFECTIVA ANUAL: 0,0%, COSTO FINANCIERO TOTAL NOMINAL ANUAL: 0,0%. SISTEMA FRANCÉS DE AMORTIZACIÓN MENSUAL EL COSTO FINANCIERO TOTAL SE EXPRESA COMO TASA NOMINAL ANUAL CORRESPONDIENTE AL FLUJO DE FONDOS CONSIDERADO. EL COSTO FINANCIERO TOTAL NOMINAL ANUAL NO INCLUYE LA COMISIÓN MENSUAL DE ADMINISTRACIÓN DE CUENTA NI COSTOS ASOCIADOS AL MANTENIMIENTO DE LA TARJETA. CONSULTE COMISIONES Y CARGOS VIGENTES ASOCIADOS A SU CUENTA AL 0810-9999-627 O EN CENCOPAY.AR/. CENCOSUD S.A. CUIT 30-59036076-3, SUIPACHA 1111, PISO 18, CABA (DOM. NO COMERCIAL)."
+    },
+    {
+      "id":3,
+      "supermercado": "Jumbo",
+      "categoria": "Día",
+      "subCategoria": "Lunes",
+      "imagen": "assets/jumbo-banco.jpg",
+      "descuento": "3 y 6 cuotas sin interés. RODADOS, MONOPATINES CON MOTOR, PARRILLAS Y MÁS.",
+      "descripcion": "3 y 6 CUOTAS SIN INTERÉS EN RODADOS, MONOPATINES CON MOTOR, PARRILLAS, HERRAMIENTAS ELÉCTRICAS Y MUEBLES DE INTERIOR. EN LOS LOCALES HABILITADOS DE DEL PAIS, INCLUYE VENTA PRESENCIAL Y NO PRESENCIAL. ESTA PROMOCIÓN NO APLICA PARA CLIENTES EN MORA O INHABILITADOS.",
+      "masInfo": "PROMOCIÓN VÁLIDA DESDE EL 01/10/2024 AL 31/10/2024 PARA COMPRAS REALIZADAS CON TARJETA DE CRÉDITO FÍSICA CENCOSUD. ESTA PROMOCIÓN NO APLICA PARA CLIENTES EN MORA O INHABILITADOS, NI TAMPOCO PARA COMPRAS REALIZADAS EN LOCALES 'VEA EXPRESS Y DISCO EXPRESS'. (1) PROMOCIÓN VÁLIDA TODOS LOS DÍAS EN LOS LOCALES HABILITADOS Y SITIOS WEB, OBTENIENDO SOLO 3 Y 6 CUOTAS SIN INTERÉS EN RODADOS, MONOPATINES CON MOTOR, PARRILLAS, HERRAMIENTAS ELÉCTRICAS Y MUEBLES DE INTERIOR. (1) PLAN 3 Y 6: TASA NOMINAL ANUAL: 0,0%, TASA EFECTIVA ANUAL: 0,0%, COSTO FINANCIERO TOTAL NOMINAL ANUAL: 0,0%. SISTEMA FRANCÉS DE AMORTIZACIÓN MENSUAL EL COSTO FINANCIERO TOTAL SE EXPRESA COMO TASA NOMINAL ANUAL CORRESPONDIENTE AL FLUJO DE FONDOS CONSIDERADO. EL COSTO FINANCIERO TOTAL NOMINAL ANUAL NO INCLUYE LA COMISIÓN MENSUAL DE ADMINISTRACIÓN DE CUENTA NI COSTOS ASOCIADOS AL MANTENIMIENTO DE LA TARJETA. CONSULTE COMISIONES Y CARGOS VIGENTES ASOCIADOS A SU CUENTA AL 0810-9999-627 O EN CENCOPAY.AR/. CENCOSUD S.A. CUIT 30-59036076-3, SUIPACHA 1111, PISO 18, CABA (DOM. NO COMERCIAL)."
+    },
+    {
+        "id":4,
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Lunes",
+        "imagen":"",
+        "descuento":"15% Dto.Presentando su Tarjeta Clarín 365",
+        "descripcion": "Válido en compras presenciales y Online, generando tu pedido los días Lunes y Jueves. PRESENTANDO LA TARJETA CLARÍN 365 O 365 PLUS Y SEAN SOCIOS DEL PROGRAMA JUMBO MÁS. ABONANDO CON TARJETA CENCOSUD TENDRÁN UN 5% DE DESCUENTO ADICIONAL. Válido para compras en esos días, el descuento se realiza una vez que se efectúe el pago, sin importar para cuando se programe el pedido. SOLO CONSUMO FAMILIAR.",
+        "masInfo": "PARA MÁS INFORMACIÓN CONSULTE EN WWW.365.CLARIN.COM 15% de DESCUENTO, VÁLIDO GENERANDO TU PEDIDO LOS LUNES Y JUEVES DESDE EL 01/01/2024 HASTA EL 31/12/24 INCLUSIVE, PARA COMPRAS EN EL CANAL ONLINE WWW.JUMBO.COM.AR Y EN TODOS LOS LOCALES JUMBO DE LA REPÚBLICA ARGENTINA PARA MAYORES DE 18 AÑOS QUE AL MOMENTO DEL PAGO DE SU COMPRA ACREDITEN SU IDENTIDAD, PRESENTEN LA TARJETA CLARÍN 365 O 365 PLUS Y SEAN SOCIOS DEL PROGRAMA JUMBO MÁS. NO APLICABLE EN CAJAS DE AUTOSERVICIO. SOLO CONSUMO FAMILIAR. NO INCLUYE ELECTRODOMÉSTICOS, RODADOS, LIBRERÍA, CARNES, LECHES, MAYORISTAS DE FIAMBRERÍA, NI VINOS EN BRICK, MOSCATO, OPORTO, MISTELA, NI BODEGAS (LA RURAL, TRUMPETER, RUTINI, LUCA, LA POSTA, LUIGI BOSCA, CHANDON, 33 SUR, TERRAZAS DE LOS ANDES, VALMONT, LATITUD 33, CATENA ZAPATA, MERCIER, BARON B, ESCORIHUELA GASCÓN, CLOS DE LOS SIETE, EL ENEMIGO, MONTEVIEJO, NI BRIK Y NI GENEROSOS). NO ACUMULABLE CON OTRAS PROMOCIONES, DESCUENTOS. NO ACUMULABLE LOS DÍAS EMISIÓN NI REDENCIÓN DE PESOSCHECK. NO INCLUYE ACEITES DE FIDEICOMISO. ABONANDO CON TARJETA CENCOSUD TENDRÁN UN 5% DE DESCUENTO ADICIONAL. PARA MÁS INFORMACIÓN CONSULTAR EN WWW.365.COM.AR/REGLAMENTO O AL 0810.333.0365."
+    },
+    {
+        "id":5,
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Lunes",
+        "imagen":"",
+        "descuento":"25% Dto. pagos realizados a través de QR de Modo desde app Ciudad y app Modo",
+        "descripcion":"Válido compras presenciales | Promoción exclusiva abonando con tus Tarjetas de DEBITO Y CREDITO Banco Ciudad VISA. Aplica sólo a pagos realizados a través de QR de Modo desde app Ciudad y app Modo PRESENCIAL. Los días Lunes | Beneficio: 25% de reintegro. Tope: $10.000 por cuenta por cliente, por mes.",
+        "masInfo":"Promoción válida los días lunes, desde 01/08/2024 al 31/10/2024, en toda la República Argentina, en compras realizadas en comercios adheridos pagando a través de la aplicación MODO o la app mobile de Banco Ciudad con Tarjetas de CRÉDITO Banco Ciudad VISA. Se otorgará un 25% de descuento durante dicha vigencia con tope de $10.000 por cuenta, por cliente, por mes. Será requisito excluyente, previo a realizarse el reintegro, tener asociada a MODO la cuenta del Banco Ciudad. Para compras realizadas por titulares de tarjetas adicionales, el tarjeta habiente adicional deberá poseer una caja de ahorro del Banco Ciudad asociada a MODO. Quedan excluidas de la promoción las cuentas en mora y/o bloqueadas por motivos administrativos. SE EXCLUYE EL RUBRO ELECTRO, CARNES, ACEITE DE FIDEICOMISO, KIT ESENCIALES, BODEGAS CHANDON,LA RURAL,TERRAZAS DE LOS ANDES CATENA ZAPATA ,ALAMOS, EL ENEMIGO, MERCIER, BARON B,VALMONT,LATITUD 33,CLOS DE LOS 7, RUTINI, ESCORIHUELA GASCON Y BRIK. TODO EL RUBRO ALCOHOL. La presente promoción es válida solo para consumos de tipo familiar a consumidor final. El descuento podrá visualizarse vía reintegro hasta dos resúmenes posteriores a la compra para compras realizadas con tarjeta de crédito Visa. Conforme RES 915 e/2017, Res. 51- E/2017 y Res. 240 E/2017. T.N.A., T.E.A. Y C.F.T.N.A (IVA Incluido): 0,00% Fijo. T.N.A: Tasa Nominal Anual, T.E.A: Tasa Efectiva Anual, C.F.T.N.A: Costo Financiero Total expresado en forma de tasa nominal anual con IVA. El producto ofrecido corresponde a la cartera de consumo."
+    },
+    {
+        "id":6,
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Lunes",
+        "imagen":"",
+        "descuento":"6 cuotas sin interés. EN JUGUETERÍA",
+        "descripcion":"6 CUOTAS SIN INTERÉS EN JUGUETERÍA. INCLUYE VENTA PRESENCIAL Y NO PRESENCIAL. TODOS LOS DÍAS DEL MES DE SEPTIEMBRE EN LOS LOCALES HABILITADOS DEL PAÍS.",
+        "masInfo":"PROMOCIÓN VÁLIDA DESDE EL 01/10/2024 AL 31/10/2024 PARA COMPRAS REALIZADAS CON TARJETA DE CRÉDITO FÍSICA CENCOSUD. ESTA PROMOCIÓN NO APLICA PARA CLIENTES EN MORA O INHABILITADOS, NI TAMPOCO PARA COMPRAS REALIZADAS EN LOCALES 'VEA EXPRESS Y DISCO EXPRESS' . (1) PROMOCIÓN VÁLIDA TODOS LOS DÍAS EN LOS LOCALES HABILITADOS Y SITIOS WEB, OBTENIENDO SOLO 3 Y 6 CUOTAS SIN INTERÉS EN JUGUETERIA. (1) PLAN 3 Y 6: TASA NOMINAL ANUAL: 0,0%, TASA EFECTIVA ANUAL: 0,0%, COSTO FINANCIERO TOTAL NOMINAL ANUAL: 0,0%. SISTEMA FRANCÉS DE AMORTIZACIÓN MENSUAL EL COSTO FINANCIERO TOTAL SE EXPRESA COMO TASA NOMINAL ANUAL CORRESPONDIENTE AL FLUJO DE FONDOS CONSIDERADO. EL COSTO FINANCIERO TOTAL NOMINAL ANUAL NO INCLUYE LA COMISIÓN MENSUAL DE ADMINISTRACIÓN DE CUENTA NI COSTOS ASOCIADOS AL MANTENIMIENTO DE LA TARJETA. CONSULTE COMISIONES Y CARGOS VIGENTES ASOCIADOS A SU CUENTA AL 0810-9999-627 O EN CENCOPAY.AR/. CENCOSUD S.A. CUIT 30-59036076-3, SUIPACHA 1111, PISO 18, CABA (DOM. NO COMERCIAL)."
+    },
+    {
+        "id":7,
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Martes",
+        "imagen":"",
+        "descuento":"20% Dto. Tarjetas de Débito del Banco Supervielle",
+        "descripcion":"VÁLIDO PRESENCIAL EXCLUSIVO APP SUPERVIELLE: 20% de ahorro con tope mensual por cuenta de $8.000 para pagos con TD de jubilados.",
+        "masInfo":"CARTERA CONSUMO. Banco Supervielle S.A., Bartolomé Mitre 434, C.A.B.A., CUIT 33-50000517-9, Inscrip. I.G.J. N° 23, F° 502, L. 45, T° A de Estatutos Nac. (“el Banco”). Vigente en la República Argentina los días martes del 1 de Octubre al 31 de Octubre de 2024 para clientes que perciban su jubilación en el Banco y que realicen compras presenciales en supermercados adheridos con la tarjetas de débito Visa que forme parte de un paquete de productos del Banco. Tope de reintegro mensual por cuenta (considerando la suma de los consumos realizados por el cliente, durante el mes, en cualquiera de los supermercados adheridos): $8.000. Ej.: para una compra de $10.000, se reintegrará el 20% del precio, es decir, $2.000. El consumo y el reintegro se verán reflejados en la cuenta asociada a la compra en los 15 días posteriores a la compra. El Banco no es responsable por los productos y/o servicios comercializados por las marcas y locales participantes en las promociones."
+    },
+    {
+        "id":8,
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Martes",
+        "imagen":"",
+        "descuento":"30% Dto. Tarjetas de crédito Visa y MasterCard del Banco",
+        "descripcion":"Aplica para compras realizadas cualquier día pero con envío programado o retiro en tienda el día MARTES | Todos los martes, 30% de descuento con tarjeta de crédito exclusivo cartera identité y plan sueldo. Tope $20.000 por cuenta por mes por cuenta, para pagos con Tarjetas de Crédito.",
+        "masInfo":"CARTERA CONSUMO. Banco Supervielle S.A., Bartolomé Mitre 434, C.A.B.A., CUIT 33-50000517-9, Inscrip. I.G.J. N° 23, F° 502, L. 45, T° A de Estatutos Nac. (“el Banco”). Vigente en la República Argentina del 1 de octubre al 30 de noviembre de 2024 para clientes de que realicen compras en el sitio web, con envío programado o retiro en tienda para el día martes, abonadas con las tarjetas de crédito Visa y/o MasterCard que formen parte de un paquete de productos del Banco. Tope de reintegro mensual por cuenta (considerando la suma de los consumos realizados por el cliente, durante el mes, en cualquiera de los supermercados adheridos): $20.000. Ej.: para una compra de $10.000, se reintegrará el 20% del precio, es decir, $2.000. El consumo y el reintegro se verán reflejados en el 1er resumen posterior a la compra. El Banco no es responsable por los productos y/o servicios comercializados por las marcas y locales participantes en las promociones."
+    },
+    {
+        "id":9,
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Martes",
+        "imagen":"",
+        "descuento":"20% Dto. MODO | Débito Visa y tarjetas de Crédito Visa y/o MasterCard",
+        "descripcion":"VÁLIDO PRESENCIAL: EXCLUSIVO APP SUPERVIELLE Y APP MODO: Todos los martes, 20% de descuento con tarjeta de Crédito Y Débito Tope mensual por cuenta, por cliente y por mes de $8.000. Adicional de 5% y tope $7.000 para nuestro segmento de renta alta (Identité). Adicional de 5% y tope $7.000 para nuestro segmento de renta alta (Plan Sueldo).",
+        "masInfo":"CARTERA CONSUMO. Banco Supervielle S.A., Bartolomé Mitre 434, C.A.B.A., CUIT 33-50000517-9, Inscrip. I.G.J. N° 23, F° 502, L. 45, T° A de Estatutos Nac. ('el Banco'). Vigente en la República Argentina los días martes, del 1 de Octubre al 31 de Octubre de 2024 para clientes de que realicen compras presenciales en supermercados adheridos mediante la modalidad de pago con 'QR' a través de “MODO” desde la App de Modo, la App Supervielle o la App Supervielle Jubilados del Banco, con la tarjeta de débito Visa y las tarjetas de crédito Visa y/o MasterCard emitidas por el Banco. Se otorgará un descuento vía reintegro del 20% con tope mensual por cuenta de $8.000 (considerando la suma de los consumos realizados por el cliente, durante el mes, en cualquiera de los supermercados adheridos). Los clientes Identité (“IDT”) y quienes perciban sus haberes en el Banco (Plan Sueldo o “PC”) obtendrán un 5% adicional con tope mensual de $7.000. Ej.: para una compra de $40.000, se reintegrará el 20% del precio, es decir, $8.000. Los clientes IDT y Plan Sueldo, recibirán también un adicional de 5%, es decir $7.000. El consumo y el reintegro se verán reflejados en la cuenta asociada a MODO dentro de los 30 días de realizada la compra. Es condición necesaria tener una cuenta Supervielle adherida a MODO. La aplicación de este beneficio es de exclusiva responsabilidad de MODO. No aplica a pagos realizados a través de billeteras virtuales o 'proveedores de servicios de pago', excepto MODO. La marca “MODO” es propiedad de Play Digital S.A., CUIT 30-71682943-6, domicilio en Av. Leandro N. Alem 882, C.A.B.A. El Banco no es responsable por los productos y/o servicios comercializados por las marcas y locales participantes en las promociones."
+    },
+    {
+        "id":10,
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Martes",
+        "descuento": "20% Dto. 1 sólo pago. 25% de descuento pagando con la APP CUENTA DNI",
+        "descripcion": "25% de descuento con Billetera Cuenta DNI, de Banco Provincia -Vigencia: lunes 14 y martes 15 de octubre del 2024. pagando con la APP CUENTA DNI en supermercados e hipermercados adheridos de BUENOS AIRES. Válido para compras físicamente en nuestras tiendas de BUENOS AIRES. Tope unificado: $ 5.000.- Por vigencia y por persona.",
+        "masInfo":"Promoción válida los días lunes 14 y martes 15 de octubre del 2024, para compras realizadas a través de la funcionalidad 'Pago Clave DNI' y/o QR de la aplicación CUENTA DNI en supermercados e hipermercados adheridos. La nómina de adheridos se podrá consultar en WWW.BANCOPROVINCIA.COM.AR. Bonificación del 25%. Tope de reintegro unificado $5.000.- por acción y por persona. El tope aplicará considerando el total de compras realizadas por cuenta durante la acción semanal de la promoción, en todos los locales adheridos a la misma. El reintegro se verá reflejado en los movimientos de la cuenta asociada a Cuenta DNI dentro de los diez (10) días hábiles siguientes de realizada la compra. Válida únicamente para venta minorista, se excluyen de la promoción las bebidas con alcohol y electrodomésticos. No acumulable con otras promociones y/o descuentos vigentes. La promoción no aplica a compras realizadas con CUENTA DNI mediante la lectura del código QR de Mercado Pago u otras billeteras digitales, ni las abonadas con tarjeta de crédito VISA y/o MASTERCARD y/o VISA DÉBITO o transferencias a través de la aplicación. El descuento promocionado aplicará sobre el precio contado en concordancia con Resolución 51 y 240 /2017 Ministerio de Producción de la Nación Secretaría de Comercio. Ejemplos representativos: (1) Quien realice una compra de $1.000.- recibirá un reintegro de $250.- (2) Quien realice, en los días de la promoción, una compra de $15.000.- en 'comercio A' y una compra de $7.000.- en 'comercio B', recibirá un reintegro de $5.000.- Para más información comuníquese al 0810 666 2364. Banco de la Provincia de Buenos Aires. CUIT 33-99924210-9 Calle 7 N°726. La Plata. Buenos Aires.www.bancoprovincia.com.ar. CARTERA DE CONSUMO."
+    },
+    {
+        "id":11,
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Martes",
+        "descuento":"3 Cuotas Sin Interés",
+        "descripcion":"VÁLIDO PRESENCIAL Y VIRTUAL | PROMOCIÓN VÁLIDA TODOS LOS LUNES, MARTES, MIÉRCOLES Y JUEVES PARA COMPRAS REALIZADAS CON TARJETA DE CRÉDITO CENCOSUD.",
+        "masInfo":"PROMOCIÓN VÁLIDA DESDE EL 01/10/2024 AL 31/10/2024 PARA COMPRAS REALIZADAS CON TARJETA DE CRÉDITO FÍSICA CENCOSUD. ESTA PROMOCIÓN NO APLICA PARA CLIENTES EN MORA O INHABILITADOS, NI TAMPOCO PARA COMPRAS REALIZADAS EN LOCALES 'VEA EXPRESS'. (1) PROMOCIÓN VÁLIDA TODOS LOS LUNES, MARTES, MIÉRCOLES Y JUEVES EN LOS LOCALES HABILITADOS Y SITIOS WEB, OBTENIENDO SOLO 3 CUOTAS SIN INTERÉS EN TODA LA COMPRA. EXCLUYE ELECTRODOMÉSTICOS. ESTA PROMOCIÓN NO APLICA PARA CLIENTES EN MORA O INHABILITADOS. (1) PLAN 3: TASA NOMINAL ANUAL: 0,0%, TASA EFECTIVA ANUAL: 0,0%, COSTO FINANCIERO TOTAL NOMINAL ANUAL: 0,0%. SISTEMA FRANCÉS DE AMORTIZACIÓN MENSUAL EL COSTO FINANCIERO TOTAL SE EXPRESA COMO TASA NOMINAL ANUAL CORRESPONDIENTE AL FLUJO DE FONDOS CONSIDERADO. EL COSTO FINANCIERO TOTAL NOMINAL ANUAL NO INCLUYE LA COMISIÓN MENSUAL DE ADMINISTRACIÓN DE CUENTA NI COSTOS ASOCIADOS AL MANTENIMIENTO DE LA TARJETA. CONSULTE COMISIONES Y CARGOS VIGENTES ASOCIADOS A SU CUENTA AL 0810-9999-627 O EN CENCOPAY.AR/. CENCOSUD S.A. CUIT 30-59036076-3, SUIPACHA 1111, PISO 18, CABA (DOM. NO COMERCIAL)."
+    },
+    {
+        "id":12,
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Martes",
+        "descuento":"3 y 6 cuotas sin interés. RODADOS, MONOPATINES CON MOTOR, PARRILLAS Y MÁS.",
+        "descripcion":"3 y 6 CUOTAS SIN INTERÉS EN RODADOS, MONOPATINES CON MOTOR, PARRILLAS, HERRAMIENTAS ELÉCTRICAS Y MUEBLES DE INTERIOR. EN LOS LOCALES HABILITADOS DE DEL PAIS, INCLUYE VENTA PRESENCIAL Y NO PRESENCIAL. ESTA PROMOCIÓN NO APLICA PARA CLIENTES EN MORA O INHABILITADOS.",
+        "masInfo":"PROMOCIÓN VÁLIDA DESDE EL 01/10/2024 AL 31/10/2024 PARA COMPRAS REALIZADAS CON TARJETA DE CRÉDITO FÍSICA CENCOSUD. ESTA PROMOCIÓN NO APLICA PARA CLIENTES EN MORA O INHABILITADOS, NI TAMPOCO PARA COMPRAS REALIZADAS EN LOCALES 'VEA EXPRESS Y DISCO EXPRESS'. (1) PROMOCIÓN VÁLIDA TODOS LOS DÍAS EN LOS LOCALES HABILITADOS Y SITIOS WEB, OBTENIENDO SOLO 3 Y 6 CUOTAS SIN INTERÉS EN RODADOS, MONOPATINES CON MOTOR, PARRILLAS, HERRAMIENTAS ELÉCTRICAS Y MUEBLES DE INTERIOR. (1) PLAN 3 Y 6: TASA NOMINAL ANUAL: 0,0%, TASA EFECTIVA ANUAL: 0,0%, COSTO FINANCIERO TOTAL NOMINAL ANUAL: 0,0%. SISTEMA FRANCÉS DE AMORTIZACIÓN MENSUAL EL COSTO FINANCIERO TOTAL SE EXPRESA COMO TASA NOMINAL ANUAL CORRESPONDIENTE AL FLUJO DE FONDOS CONSIDERADO. EL COSTO FINANCIERO TOTAL NOMINAL ANUAL NO INCLUYE LA COMISIÓN MENSUAL DE ADMINISTRACIÓN DE CUENTA NI COSTOS ASOCIADOS AL MANTENIMIENTO DE LA TARJETA. CONSULTE COMISIONES Y CARGOS VIGENTES ASOCIADOS A SU CUENTA AL 0810-9999-627 O EN CENCOPAY.AR/. CENCOSUD S.A. CUIT 30-59036076-3, SUIPACHA 1111, PISO 18, CABA (DOM. NO COMERCIAL)."
+    },
+    {
+        "id":13,
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Martes",
+        "descuento":"25% Dto.| DÉBITO Y CRÉDITO - EXCLUSIVO CLIENTES SUSCRIPTOS AL PROGRAMA SORPRESA",
+        "descripcion":"EXCLUSIVO CLIENTES SUSCRIPTOS AL PROGRAMA SORPRESA | VÁLIDO el 08/10/2024 en forma presencial y online 25% de descuento con tarjeta de débito y crédito. Tope de reintegro $20.000 POR MES NO ACUMULABLE CON OTRAS PROMOCIONES Y/O DESCUENTOS VIGENTES. VALIDO PARA CONSUMIDOR FINAL.",
+        "masInfo":"EXCLUSIVO CLIENTES SUSCRIPTOS AL PROGRAMA SORPRESA | VÁLIDO el 08/10/2024 en forma presencial y para compras online programando la entrega para el Martes 08/10/2024. 25% de descuento con tarjeta de débito y crédito, tope de reintegro $20.000 por mes. No acumulable con otras promociones. Ejemplo: en una compra con tu Tarjeta de Débito de $ 4.000, veras reflejado en el resumen de tu cuenta un consumo de $4.000 y un reintegro de $1.000. SE EXCLUYE EL RUBRO ELECTRO, CARNES, ACEITE DE FIDEICOMISO, KIT ESENCIALES, BODEGAS CHANDON,LA RURAL,TERRAZAS DE LOS ANDES CATENA ZAPATA ,ALAMOS, EL ENEMIGO, MERCIER, BARON B,VALMONT,LATITUD 33,CLOS DE LOS 7, RUTINI, ESCORIHUELA GASCON Y BRIK. NO ACUMULABLE CON OTRAS PROMOCIONES Y/O DESCUENTOS VIGENTES. VALIDO PARA CONSUMIDOR FINAL. LOS ACCIONISTAS DE BANCO SANTANDER RÍO S.A. NO RESPONDEN EN EXCESO DE SU INTEGRACIÓN ACCIONARIA. Costo Financiero Total Nominal Anual: CFTNA. Tasa Fija Nominal y Efectiva Anual: 0%. La participación en Sorpresa Santander tiene una comisión mensual de $ 130,00 IVA incluido para personas físicas o de $ 107,44 más IVA para personas jurídicas, el que será debitado de la cuenta o tarjeta de crédito del cliente, según corresponda, el quinto día hábil del mes."
+    },
+    {
+        "id":14,
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Martes",
+        "imagen":"",
+        "descuento":"25% Dto.Desde App Hipotecario o App Modo | TARJETA DE DÉBITO Y CRÉDITO EN UN PAGO VISA",
+        "descripcion":"VÁLIDO PRESENCIAL | Todos los Martes 25% de descuento con tarjeta de debito y crédito – Desde App Hipotecario o App Modo. Tope de reintegro $6.000 por cuenta por mes.",
+        "masInfo":"PROMOCIÓN VÁLIDA EN LA REPÚBLICA ARGENTINA LOS DÍAS MARTES DESDE EL 01/06/2024 HASTA EL 31/10/2024, PARA CONSUMOS EFECTUADOS EN LOS COMERCIOS INDICADOS EN LA PIEZA REALIZANDO UN PAGO QR CON TARJETA DE DÉBITO Y CRÉDITO EN UN PAGO VISA EMITIDA POR BANCO HIPOTECARIO A TRAVÉS DE LA APP MODO DE PLAY DIGITAL S.A. O LA APP DE BANCO HIPOTECARIO S.A. (EL REINTEGRO APLICARÁ UNICAMENTE ESCANEANDO EL QR DE MODO (EL REINTEGRO NO APLICA PARA PAGOS REALIZADOS A TRAVÉS DE UN QR CORRESPONDIENTE A OTRAS BILLETERAS). BENEFICIO: 25% TOPE MENSUAL Y POR CUENTA $ 6.000. TARJETA DE DÉBITO EL REINTEGRO SE ACREDITARÁ DENTRO DE LOS 30 DÍAS DE REALIZADO EL PAGO, PARA TARJETA DE CRÉDITO EL REINTEGRO SE VERÁ REFLEJADO EN EL RESUMEN A LOS 60 DÍAS POSTERIORES AL CIERRE DE LA LIQUIDACIÓN DEL PERÍODO EN EL QUE SE REALICE EL CONSUMO. SE EXCLUYE EL RUBRO ELECTRO, CARNES, ACEITE DE FIDEICOMISO, KIT ESENCIALES, BODEGAS CHANDON, LA RURAL,TERRAZAS DE LOS ANDES CATENA ZAPATA ,ALAMOS, EL ENEMIGO, MERCIER, BARON B, VALMONT, LATITUD 33,CLOS DE LOS 7, RUTINI, ESCORIHUELA GASCON Y BRIK. TODO EL RUBRO ALCOHOL. VALIDO PARA CONSUMIDOR FINAL. NO ACUMULABLE CON OTRAS PROMOCIONES. CONSULTA BASES Y CONDICIONES EN WWW.HIPOTECARIO.COM.AR O WWW.MODO.COM.AR. BANCO HIPOTECARIO S.A. CUIT 30-50001107-2, RECONQUISTA 151 (1003) CABA. PLAY DIGITAL S.A., CUIT 30-71682943-6, AV. DEL LIBERTADOR 7208, TORRE II, PISO 4, CABA."
+    },
+    {
+        "id":"15",
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Martes",
+        "imagen":"",
+        "descuento":"6 cuotas sin interés EN JUGUETERÍA",
+        "descripcion":"6 CUOTAS SIN INTERÉS EN JUGUETERÍA. INCLUYE VENTA PRESENCIAL Y NO PRESENCIAL. TODOS LOS DÍAS DEL MES DE SEPTIEMBRE EN LOS LOCALES HABILITADOS DEL PAÍS.",
+        "masInfo":"PROMOCIÓN VÁLIDA DESDE EL 01/10/2024 AL 31/10/2024 PARA COMPRAS REALIZADAS CON TARJETA DE CRÉDITO FÍSICA CENCOSUD. ESTA PROMOCIÓN NO APLICA PARA CLIENTES EN MORA O INHABILITADOS, NI TAMPOCO PARA COMPRAS REALIZADAS EN LOCALES 'VEA EXPRESS Y DISCO EXPRESS'. (1) PROMOCIÓN VÁLIDA TODOS LOS DÍAS EN LOS LOCALES HABILITADOS Y SITIOS WEB, OBTENIENDO SOLO 3 Y 6 CUOTAS SIN INTERÉS EN JUGUETERIA. (1) PLAN 3 Y 6: TASA NOMINAL ANUAL: 0,0%, TASA EFECTIVA ANUAL: 0,0%, COSTO FINANCIERO TOTAL NOMINAL ANUAL: 0,0%. SISTEMA FRANCÉS DE AMORTIZACIÓN MENSUAL EL COSTO FINANCIERO TOTAL SE EXPRESA COMO TASA NOMINAL ANUAL CORRESPONDIENTE AL FLUJO DE FONDOS CONSIDERADO. EL COSTO FINANCIERO TOTAL NOMINAL ANUAL NO INCLUYE LA COMISIÓN MENSUAL DE ADMINISTRACIÓN DE CUENTA NI COSTOS ASOCIADOS AL MANTENIMIENTO DE LA TARJETA. CONSULTE COMISIONES Y CARGOS VIGENTES ASOCIADOS A SU CUENTA AL 0810-9999-627 O EN CENCOPAY.AR/. CENCOSUD S.A. CUIT 30-59036076-3, SUIPACHA 1111, PISO 18, CABA (DOM. NO COMERCIAL)."
+    },
+    {
+        "id":16,
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Martes",
+        "imagen":"",
+        "descuento":"15% Dto. Hasta 3 cuotas sin interés",
+        "descripcion":"Realizando la compra en tienda o programando la entrega para el Día Martes- Valido para compras realizadas en Jumbo Rosario Valido para Compras presencial y Online.- TOPE $4.000 mensual por cuenta. No acumulable con otras promociones y/o descuentos vigentes.-",
+        "masInfo":"Banco Santa Fe: C.F.T.E.A : 0,00% TNA (Tasa Nominal Anual): 0,00%. TEA (Tasa Efectiva Anual): 0,00%. Válido para cartera de consumo. No acumulable con otras promociones. Beneficio válido todos los días martes hasta el 31/10/2024 en compras realizadas en hasta tres (3) cuotas sin interés con tarjetas de crédito emitidas por Banco Santa Fe. Ejemplo: en una compra de $1.200 en tres cuotas, el reintegro será de $180 y las cuotas de $400 cada una. X REINTEGRO - TOPE $4.000 mensual por cuenta. No válido para compras realizadas en comercios que procesen sus ventas a través de plataforma única de pago en la cúal no se individualice ni identifiquen comercio, tales como Mercado de Pago, Todo Pago, Pagos PEI, Botón de pago, etc. Consulte procesamiento de pagos en el comercio antes de realizar el consumo. No valido para promociones propias del comercio. SE EXCLUYE EL RUBRO ELECTRO, CARNES, KIT ESENCIALES, BODEGAS CHANDON,LA RURAL,TERRAZAS DE LOS ANDES CATENA ZAPATA ,ALAMOS, EL ENEMIGO, MERCIER, BARON B,VALMONT,LATITUD 33,CLOS DE LOS 7, RUTINI, ESCORIHUELA GASCON Y BRIK. - No acumulable con otras promociones y/o descuentos vigentes.-. Valido para consumidor final. La vigencia y condiciones informadas pueden sufrir modificaciones por lo que se sugiere consultar nuestro sitio web www.bancosantafe.com.ar antes de realizar la compra. Los datos y ofertas incluidos en este revisten carácter exclusivamente informativo y en modo alguno suponen que los establecimientos, productos o la calidad de los mismos se encuentran promocionados y/o garantizados por el Banco Santa Fe."
+    },
+    {
+        "id":17,
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Martes",
+        "imagen":"",
+        "descuento":"15% Dto. Hasta 3 cuotas sin interés - Con tarjetas Visa y Mastercard del Banco",
+        "descripcion":"Realiza el pedido el día que prefieras y Programa tu compra para el día Martes. Valido para compras Online y Presenciales en los locales Jumbo Mendoza y Jumbo Chacras. Con Tarjeta de Crédito Visa y Mastercard. Tope de reintegro $4.000 por cuenta por mes.",
+        "masInfo":"C.F.T.E.A : 0,00% VÁLIDO PARA CARTERA DE CONSUMO Y CARTERA COMERCIAL. Vigencia desde 01/08/2024 hasta el 31/10/2024 con Tarjetas de Crédito emitidas por el Banco San Juan S.A. Aplicación del descuento: La efectivización del total del ahorro será efectuada vía reintegro en la liquidación respectiva. Promoción no acumulable con otras promociones vigentes. (1) COSTO FINANCIERO TOTAL EFECTIVO ANUAL (C.F.T.E.A.): 0,00%, TNA (Tasa Nominal Anual): 0%, TEA (Tasa Efectiva Anual): 0%. Ejemplo: en una compra de $ 1.200 abonada con tarjeta de Crédito, financiada en hasta tres cuotas y con un descuento de 15%, recibirá tres liquidaciones de su tarjeta con un consumo de $400, cada una, y un único reintegro de $ 180. Tope de reintegro: $4.000 por cuenta por mes. Los datos y ofertas incluidos en este revisten carácter exclusivamente informativo y en modo alguno suponen que los establecimientos, productos o la calidad de los mismos se encuentran promocionados y/o garantizados por el Banco San Juan S.A. Aviso -Ley 25.738. Banco San Juan S.A. es una Sociedad Anónima constituida bajo las leyes de la República Argentina. Sus accionistas limitan su responsabilidad al capital aportado.NO APLICA PARA COMPRAS CON TARJETAS A TRAVÉS DE MPOS Y BOTÓN DE PAGO NI PLANES DE FINANCIACION DEL GOBIERNO. NO VÁLIDO PARA PROMOCIONES PROPIAS DEL COMERCIO. SE EXCLUYE EL RUBRO ELECTRO, CARNES, KIT ESENCIALES, BODEGAS CHANDON,LA RURAL,TERRAZAS DE LOS ANDES CATENA ZAPATA ,ALAMOS, EL ENEMIGO, MERCIER, BARON B,VALMONT,LATITUD 33,CLOS DE LOS 7, RUTINI, ESCORIHUELA GASCON Y BRIK. VINOS EN CARTON, YERBAS, FIDEOS, YOGURES, ACEITES Y LECHES, HARINAS, AZÚCAR Y PRODUCTOS MAYORISTA DEL SECTOR FIAMBRERÍA. NO ACUMULABLE CON OTRAS PROMOCIONES Y/O DESCUENTOS VIGENTES. VALIDO PARA CONSUMIDOR FINAL."
+    },
+    {
+        "id":18,
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Martes",
+        "imagen":"",
+        "descuento":"10% Dto. 3 cuotas sin interés",
+        "descripcion":"HASTA 3 CUOTAS SIN INTERÉS. EN LINEA DE CAJAS VÁLIDO SOLO PARA VENTA PRESENCIAL | JUMBO NEUQUEN.",
+        "masInfo":"VÁLIDO DEL 01/08/2024 HASTA EL 31/10/2024. FINANCIACIÓN DE HASTA 3 CUOTAS SIN INTERÉS LOS DÍAS MARTES EN LOCALES EN LINEA DE CAJAS ADHERIDOS JUMBO NEUQUEN. SE EXCLUYE EL RUBRO ELECTRO, CARNES, KIT ESENCIALES, BODEGAS CHANDON,LA RURAL,TERRAZAS DE LOS ANDES CATENA ZAPATA ,ALAMOS, EL ENEMIGO, MERCIER, BARON B,VALMONT,LATITUD 33,CLOS DE LOS 7, RUTINI, ESCORIHUELA GASCON Y BRIK.- No acumulable con otras promociones y/o descuentos vigentes.-. VALIDO PARA CONSUMIDOR FINAL. La financiación en hasta 3 cuotas sin interés para compras realizadas con tarjetas de crédito Confiable emitidas por BPN S.A. Consultar con cada comercio cuales son las marcas de tarjetas con las que tiene activa la promoción. CFT: 0,00%.TEA: 0,00 %.TNA: 0,00 %"
+    },
+    {
+        "id":19,
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Miercoles",
+        "imagen":"",
+        "descuento":"30% Dto.Tarjetas Nativa visa y Nativa Mastercard",
+        "descripcion":"Beneficio: 30% - Vigencia: LOS DÍAS MIÉRCOLES DE OCTUBRE DEL 2024. Tarjetas Nativa visa y Nativa Mastercard TOPE DE REINTEGRO $10.000 POR USUARIO POR MES. Valido 1 pago. No acumulable con otras ofertas y/o promociones.",
+        "masInfo":"VÁLIDO PARA COMPRAS PRESENCIALES | PROMOCIÓN VÁLIDA EXCLUSIVAMENTE PARA LOS DÍAS MIÉRCOLES DE OCTUBRE DEL 2024. BENEFICIO DEL 30% PARA COMPRAS REALIZADAS EN 1 PAGO CON TARJETAS DE CRÉDITO VISA Y MASTERCARD EMITIDAS POR EL BANCO NACIÓN A TRAVÉS DE MODO O BNA+. TOPE DE DESCUENTO $10.000 POR CLIENTE Y POR MIÉRCOLES. LA DEVOLUCIÓN O REINTEGRO SE VERÁ REFLEJADO COMO UN AJUSTE DE CRÉDITO EN LA CUENTA ASOCIADA A BNA+ EN HASTA 30 DÍAS POSTERIORES A LA COMPRA. NO ACUMULABLE CON OTRAS PROMOCIONES VIGENTES. SOLO PARA CONSUMO FAMILIAR. Tope de devolución por cada miércoles y por cliente $10.000. Se excluye el rubro electro, carnes y aceites de fideicomiso, kits esenciales, Excluye VINOS EN BRICK, MOSCATO, OPORTO, MISTELA, NI BODEGAS LA RURAL, TRUMPETER, RUTINI, LUCA. LA POSTA, LUIGI BOSCA, CHANDON, 33 SUR, TERRAZAS DE LOS ANDES, VALMONT, LATITUD 33, CATENA ZAPATA, MERCIER, BARON B, ESCORIHUELA GASCÓN, CLOS DE LOS SIETE, EL ENEMIGO, ÁLAMOS, MONTEVIEJO. EXCLUSIVO CARTERA DE CONSUMO. EXCLUYE VERSIONES CORPORATIVAS. EL BANCO NACIÓN NO SE RESPONSABILIZA POR LA CALIDAD DE LOS PRODUCTOS ADQUIRIDOS."
+    },
+    {
+        "id":20,
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Miercoles",
+        "imagen":"",
+        "descuento":"30% Dto. tarjetas de Débito Visa, Clientes select (tarjetas Black y Platinium) y plan Sueldo",
+        "descripcion": "VÁLIDO para compras en tiendas y online los días miércoles del 01/08/24 hasta el 31/10/24. Promoción válida para Tarjetas: VISA Débito y Crédito en 1 pago. Clientes Select (tarjetas Black y Platinum) y clientes que acreditan sueldo en el banco que acrediten sueldo en el banco. Tope de reintegro $20.000 por mes por cliente. NO ACUMULABLE CON OTRAS PROMOCIONES Y/O DESCUENTOS VIGENTES. VALIDO PARA CONSUMIDOR FINAL.",
+        "masInfo":"CARTERA DE CONSUMO. VÁLIDO para compras en tiendas y online los días miércoles del 01/07/24 hasta el 31/10/24. No acumulable con otras promociones. Válido para tarjetas: VISA Débito y Crédito en 1 pago. Clientes Select (tarjetas Black y Platinum) y clientes que acreditan sueldo en el banco. Ejemplo: en una compra con tu Tarjeta de Débito de $ 40.000, veras reflejado en el resumen de tu cuenta un consumo de $40.000 y un reintegro de $20.000 (tope) mensual por cliente. NO INCLUYE: EL RUBRO ELECTRO, CARNES, PRODUCTOS ACORDADOS CON EL GOBIERNO, KIT ESENCIALES, BODEGAS CHANDON, LA RURAL, TERRAZAS DE LOS ANDES CATENA ZAPATA, ALAMOS, EL ENEMIGO, MERCIER, BARON B, VALMONT, LATITUD 33, CLOS DE LOS 7, RUTINI, ESCORIHUELA GASCON Y BRIK. NO ACUMULABLE CON OTRAS PROMOCIONES Y/O DESCUENTOS VIGENTES. VALIDO PARA CONSUMIDOR FINAL. LOS ACCIONISTAS DE BANCO SANTANDER ARGENTINA S.A. NO RESPONDEN EN EXCESO DE SU INTEGRACIÓN ACCIONARIA."
+    },
+    {
+        "id": 21,
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Miercoles",
+        "imagen":"",
+        "descuento":"20% Dto. 3 Cuotas Sin Interés",
+        "descripcion":"CLOS DE LOS SIETE, BARÓN B, ESCORIHUELA GASCÓN, MERCIER, MONTEVIEJO, LA POSTA, TRUMPETER, LUCA, LUIGI BOSCA, 33 SUR, EL ENEMIGO, ALAMOS NI BRIK). EL DESCUENTO SE EFECTIVIZARÁ EN EL CHECK OUT. NO ES ACUMULABLE CON OTROS DESCUENTOS Y/O PROMOCIONES.",
+        "masInfo":"PROMOCIONES VÁLIDAS DESDE EL 01/09/2024 AL 31/10/2024 PARA COMPRAS REALIZADAS CON TARJETA CENCOSUD. NO ACUMULABLES CON OTRAS PROMOCIONES Y/O DESCUENTOS. ESTAS PROMOCIONES NO APLICAN PARA CLIENTES EN MORA O INHABILITADOS, NI TAMPOCO PARA COMPRAS REALIZADAS EN LOCALES 'VEA EXPRESS'. (1) PROMOCIÓN VÁLIDA SOLO LOS DÍAS MIÉRCOLES EN LOS SITIOS WEB, OBTENIENDO UN 20% DE DESCUENTO EN TU COMPRA ONLINE. NO INCLUYE ELECTRODOMÉSTICOS, RODADOS, LIBRERÍA, CARNES, LECHES, MAYORISTAS DE FIAMBRERÍA, PRODUCTOS DE MARCAS PROPIAS (C&CO, HOME CARE, FAMILY CARE, PET FUN, JUMBO Y VEA), PRODUCTOS INCLUIDOS EN LOS LISTADOS DE PRECIOS CONVENIENTES, NI BODEGAS (CHANDON, TERRAZAS DE LOS ANDES, LA RURAL, RUTINI, CATENA ZAPATA, LEONCIO ARIZU, VALMONT, LATITUD 33, TERRAZAS, CLOS DE LOS SIETE, BARÓN B, ESCORIHUELA GASCÓN, MERCIER, MONTEVIEJO, LA POSTA, TRUMPETER, LUCA, LUIGI BOSCA, 33 SUR, EL ENEMIGO, ALAMOS NI BRIK). EL DESCUENTO SE EFECTIVIZARÁ EN EL CHECK OUT. (2) PROMOCIÓN VÁLIDA SOLO LOS DÍAS MIÉRCOLES EN LOS SITIOS WEB, OBTENIENDO SOLO 3 CUOTAS SIN INTERÉS EN TODA LA COMPRA ONLINE. NO INCLUYE ELECTRODOMÉSTICOS. INCLUYE SOLO VENTA NO PRESENCIAL. ESTA PROMOCIÓN NO APLICA PARA CLIENTES EN MORA O INHABILITADOS. (2) PLAN 3: TASA NOMINAL ANUAL: 0,0%, TASA EFECTIVA ANUAL: 0,0%, COSTO FINANCIERO TOTAL NOMINAL ANUAL: 0,0%. SISTEMA FRANCÉS DE AMORTIZACIÓN MENSUAL EL COSTO FINANCIERO TOTAL SE EXPRESA COMO TASA NOMINAL ANUAL CORRESPONDIENTE AL FLUJO DE FONDOS CONSIDERADO. EL COSTO FINANCIERO TOTAL NOMINAL ANUAL NO INCLUYE LA COMISIÓN MENSUAL DE ADMINISTRACIÓN DE CUENTA NI COSTOS ASOCIADOS AL MANTENIMIENTO DE LA TARJETA. CONSULTE COMISIONES Y CARGOS VIGENTES ASOCIADOS A SU CUENTA AL 0810-9999-627 O EN WWW.TARJETACENCOSUD.COM.AR. CENCOSUD S.A. CUIT 30-59036076-3, SUIPACHA 1111, PISO 18, CABA (DOM. NO COMERCIAL)."
+    },
+    {
+        "id":22,
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Miercoles",
+        "imagen":"",
+        "descuento":"3 Cuotas Sin Interés 3 Cuotas Sin Interés",
+        "descripcion":"VÁLIDO PRESENCIAL Y VIRTUAL | PROMOCIÓN VÁLIDA TODOS LOS LUNES, MARTES, MIÉRCOLES Y JUEVES PARA COMPRAS REALIZADAS CON TARJETA DE CRÉDITO CENCOSUD.",
+        "masInfo":"PROMOCIÓN VÁLIDA DESDE EL 01/10/2024 AL 31/10/2024 PARA COMPRAS REALIZADAS CON TARJETA DE CRÉDITO FÍSICA CENCOSUD. ESTA PROMOCIÓN NO APLICA PARA CLIENTES EN MORA O INHABILITADOS, NI TAMPOCO PARA COMPRAS REALIZADAS EN LOCALES 'VEA EXPRESS'. (1) PROMOCIÓN VÁLIDA TODOS LOS LUNES, MARTES, MIÉRCOLES Y JUEVES EN LOS LOCALES HABILITADOS Y SITIOS WEB, OBTENIENDO SOLO 3 CUOTAS SIN INTERÉS EN TODA LA COMPRA. EXCLUYE ELECTRODOMÉSTICOS. ESTA PROMOCIÓN NO APLICA PARA CLIENTES EN MORA O INHABILITADOS. (1) PLAN 3: TASA NOMINAL ANUAL: 0,0%, TASA EFECTIVA ANUAL: 0,0%, COSTO FINANCIERO TOTAL NOMINAL ANUAL: 0,0%. SISTEMA FRANCÉS DE AMORTIZACIÓN MENSUAL EL COSTO FINANCIERO TOTAL SE EXPRESA COMO TASA NOMINAL ANUAL CORRESPONDIENTE AL FLUJO DE FONDOS CONSIDERADO. EL COSTO FINANCIERO TOTAL NOMINAL ANUAL NO INCLUYE LA COMISIÓN MENSUAL DE ADMINISTRACIÓN DE CUENTA NI COSTOS ASOCIADOS AL MANTENIMIENTO DE LA TARJETA. CONSULTE COMISIONES Y CARGOS VIGENTES ASOCIADOS A SU CUENTA AL 0810-9999-627 O EN CENCOPAY.AR/. CENCOSUD S.A. CUIT 30-59036076-3, SUIPACHA 1111, PISO 18, CABA (DOM. NO COMERCIAL)."
+    },
+    {
+        "id":23,
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Miercoles",
+        "imagen":"",
+        "descuento":"10% Dto. con todos los medios de pagos, para jubilados y mayores de 60 años.",
+        "descripcion":"Exclusivo para compras presenciales y compras telefónicas llamando al 0810-999-58626. VÁLIDOS PARA LAS SUCURSALES JUMBO MENDOZA, VISTA PUEBLO, SALTA, TUCUMÁN Y NEUQUÉN 10% Descuento para Jubilados y Pensionados Debés ser socio Jumbo.- Pagando con tarjeta Cencosud 15% de descuento. Solo para consumidor final. Excluye Electro, Carnes, Bodegas Chandon, Terrazas de los Andes, La Rural, Rutini Wines, Leoncio Arizu, Luigi Bosca, Valmont, Latitud 33, Catena Zapata, Mercier, Baron B, Vinos en cartón, aceites, yerbas y leches. No acumulable con otras ofertas o promociones vigentes.",
+        "masInfo":"JUBILADOS: JUBILADOS: 15% DTO PARA JUBILADOS Y PENSIONADOS LOS DÍAS MIÉRCOLES, VÁLIDO PARA CONSUMIDOR FINAL. DESCUENTOS VÁLIDOS PARA LAS SUCURSALES JUMBO MENDOZA, VISTA PUEBLO, SALTA, TUCUMÁN Y NEUQUÉN. ,DEBERÁN PRESENTAR DNI, LC, LE, CI, DOCUMENTACIÓN DE ANSES O PAMI MENORES DE 60 AÑOS UN RECIBO DE HABERES DE DESCUENTO EXCLUSIVO PARA JUBILADOS. EL DESCUENTO SE EFECTIVIZARÁ EN LA LÍNEA DE CAJAS. NO INCLUYE ELECTRO, BODEGAS LA RURAL, RUTINI WINES, LEONCIO ARIZU, CHANDON, TERRAZAS DE LOS ANDES, VALMONT, LATITUD 33, CATENA ZAPATA, MERCIER Y BARON B, ESCORIHUELA GASCON Y BRIK, KITS ESENCIALES, Yerbas, Fideos, yogures, aceites y leches. TARJETA CENCOSUD: DESCUENTO EXCLUSIVO PARA JUBILADOS, DEBERÁN PRESENTAR DNI, LC, LE, CI, DOCUMENTACIÓN DE ANSES O PAMI MENORES DE 65 AÑOS UN RECIBO DE HABERES. PROMOCIÓN VÁLIDA PARA COMPRAS REALIZADAS CON TARJETA CENCOSUD 15% SÓLO LOS DÍAS MIÉRCOLES EN LOS LOCALES JUMBO HABILITADOS DE BUENOS AIRES. VALIDO COMPRAS PRESENCIALES Y VENTA TELEFONICA. NO INCLUYE ELECTRO, BODEGAS CHANDON, TERRAZAS DE LOS ANDES, LA RURAL, LEONCIO ARIZU, RUTINI WINES, VALMONT, LATITUD 33, CATENA ZAPATA, MERCIER, BARON B, ESCORIHUELA GASCON, BRIK. DESCUENTO NO ACUMULABLE CON OTRAS PROMOCIONES Y/O DESCUENTOS. EL DESCUENTO SE EFECTIVIZARÁ EN LA LÍNEA DE CAJAS. SISTEMA FRANCÉS DE AMORTIZACIÓN MENSUAL. EL COSTO FINANCIERO TOTAL SE EXPRESA COMO TASA NOMINAL ANUAL CORRESPONDIENTE AL FLUJO DE FONDOS CONSIDERADO. EL COSTO FINANCIERO TOTAL NOMINAL ANUAL NO INCLUYE LA COMISIÓN MENSUAL DE ADMINISTRACIÓN DE CUENTA NI COSTOS ASOCIADOS AL MANTENIMIENTO DE LA TARJETA. CONSULTE COMISIONES Y CARGOS VIGENTES ASOCIADOS A SU CUENTA AL 0810-9999-627 O PARA MAS INFORMACION EN WWW.TARJETACENCOSUD.COM.AR. CENCOSUD S.A. CUIT 30-59036076-3, SUIPACHA 1111, PISO 18, CABA (DOM. NO COMERCIAL)."
+    },
+    {
+        "id":24,
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Miercoles",
+        "imagen":"",
+        "descuento":"15% Dto. con todos los medios de pagos, para jubilados y mayores de 60 años.",
+        "descripcion":"Comprando los días Miércoles. Exclusivo para compras presenciales y compras telefónicas llamando al 0810-999-58626.Válido para los locales de CABA, GBA y Rosario. 15% Descuento para Jubilados y Pensionados Debés ser socio Jumbo.- Pagando con tarjeta Cencosud 20% de descuento. Solo para consumidor final. Excluye Electro, Carnes, Bodegas Chandon, Terrazas de los Andes, La Rural, Rutini Wines, Leoncio Arizu, Luigi Bosca, Valmont, Latitud 33, Catena Zapata, Mercier, Baron B, Vinos en cartón, aceites, yerbas y leches. No acumulable con otras ofertas o promociones vigentes.",
+        "masInfo":"JUBILADOS: JUBILADOS: 15% DTO PARA JUBILADOS Y PENSIONADOS LOS DÍAS MIÉRCOLES, VÁLIDO PARA CONSUMIDOR FINAL. Válido para los locales de CABA, GBA y Rosario. , DEBERÁN PRESENTAR DNI, LC, LE, CI, DOCUMENTACIÓN DE ANSES O PAMI MENORES DE 60 AÑOS UN RECIBO DE HABERES DE DESCUENTO EXCLUSIVO PARA JUBILADOS. EL DESCUENTO SE EFECTIVIZARÁ EN LA LÍNEA DE CAJAS. NO INCLUYE ELECTRO, BODEGAS LA RURAL, RUTINI WINES, LEONCIO ARIZU, CHANDON, TERRAZAS DE LOS ANDES, VALMONT, LATITUD 33, CATENA ZAPATA, MERCIER Y BARON B, ESCORIHUELA GASCON Y BRIK, KITS ESENCIALES, Yerbas, Fideos, yogures, aceites y leches. TARJETA CENCOSUD: DESCUENTO EXCLUSIVO PARA JUBILADOS, DEBERÁN PRESENTAR DNI, LC, LE, CI, DOCUMENTACIÓN DE ANSES O PAMI MENORES DE 65 AÑOS UN RECIBO DE HABERES. PROMOCIÓN VÁLIDA PARA COMPRAS REALIZADAS CON TARJETA CENCOSUD 20% SÓLO LOS DÍAS MIÉRCOLES EN LOS LOCALES JUMBO HABILITADOS DE BUENOS AIRES. VALIDO COMPRAS PRESENCIALES Y VENTA TELEFONICA. NO INCLUYE ELECTRO, BODEGAS CHANDON, TERRAZAS DE LOS ANDES, LA RURAL, LEONCIO ARIZU, RUTINI WINES, VALMONT, LATITUD 33, CATENA ZAPATA, MERCIER, BARON B, ESCORIHUELA GASCON, BRIK. DESCUENTO NO ACUMULABLE CON OTRAS PROMOCIONES Y/O DESCUENTOS. EL DESCUENTO SE EFECTIVIZARÁ EN LA LÍNEA DE CAJAS. SISTEMA FRANCÉS DE AMORTIZACIÓN MENSUAL. EL COSTO FINANCIERO TOTAL SE EXPRESA COMO TASA NOMINAL ANUAL CORRESPONDIENTE AL FLUJO DE FONDOS CONSIDERADO. EL COSTO FINANCIERO TOTAL NOMINAL ANUAL NO INCLUYE LA COMISIÓN MENSUAL DE ADMINISTRACIÓN DE CUENTA NI COSTOS ASOCIADOS AL MANTENIMIENTO DE LA TARJETA. CONSULTE COMISIONES Y CARGOS VIGENTES ASOCIADOS A SU CUENTA AL 0810-9999-627 O PARA MAS INFORMACION EN WWW.TARJETACENCOSUD.COM.AR. CENCOSUD S.A. CUIT 30-59036076-3, SUIPACHA 1111, PISO 18, CABA (DOM. NO COMERCIAL)."
+    },
+    {
+        "id":25,
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Miercoles",
+        "imagen":"",
+        "descuento":"3 y 6 cuotas sin interés RODADOS, MONOPATINES CON MOTOR, PARRILLAS Y MÁS.",
+        "descripcion":"3 y 6 CUOTAS SIN INTERÉS EN RODADOS, MONOPATINES CON MOTOR, PARRILLAS, HERRAMIENTAS ELÉCTRICAS Y MUEBLES DE INTERIOR. EN LOS LOCALES HABILITADOS DE DEL PAIS, INCLUYE VENTA PRESENCIAL Y NO PRESENCIAL. ESTA PROMOCIÓN NO APLICA PARA CLIENTES EN MORA O INHABILITADOS.",
+        "masInfo":"PROMOCIÓN VÁLIDA DESDE EL 01/10/2024 AL 31/10/2024 PARA COMPRAS REALIZADAS CON TARJETA DE CRÉDITO FÍSICA CENCOSUD. ESTA PROMOCIÓN NO APLICA PARA CLIENTES EN MORA O INHABILITADOS, NI TAMPOCO PARA COMPRAS REALIZADAS EN LOCALES 'VEA EXPRESS Y DISCO EXPRESS'. (1) PROMOCIÓN VÁLIDA TODOS LOS DÍAS EN LOS LOCALES HABILITADOS Y SITIOS WEB, OBTENIENDO SOLO 3 Y 6 CUOTAS SIN INTERÉS EN RODADOS, MONOPATINES CON MOTOR, PARRILLAS, HERRAMIENTAS ELÉCTRICAS Y MUEBLES DE INTERIOR. (1) PLAN 3 Y 6: TASA NOMINAL ANUAL: 0,0%, TASA EFECTIVA ANUAL: 0,0%, COSTO FINANCIERO TOTAL NOMINAL ANUAL: 0,0%. SISTEMA FRANCÉS DE AMORTIZACIÓN MENSUAL EL COSTO FINANCIERO TOTAL SE EXPRESA COMO TASA NOMINAL ANUAL CORRESPONDIENTE AL FLUJO DE FONDOS CONSIDERADO. EL COSTO FINANCIERO TOTAL NOMINAL ANUAL NO INCLUYE LA COMISIÓN MENSUAL DE ADMINISTRACIÓN DE CUENTA NI COSTOS ASOCIADOS AL MANTENIMIENTO DE LA TARJETA. CONSULTE COMISIONES Y CARGOS VIGENTES ASOCIADOS A SU CUENTA AL 0810-9999-627 O EN CENCOPAY.AR/. CENCOSUD S.A. CUIT 30-59036076-3, SUIPACHA 1111, PISO 18, CABA (DOM. NO COMERCIAL)."
+
+    },
+    {
+        "id":26,
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Miercoles",
+        "imagen":"",
+        "descuento":"6 cuotas sin interés EN JUGUETERÍA",
+        "descripcion":"6 CUOTAS SIN INTERÉS EN JUGUETERÍA. INCLUYE VENTA PRESENCIAL Y NO PRESENCIAL. TODOS LOS DÍAS DEL MES DE SEPTIEMBRE EN LOS LOCALES HABILITADOS DEL PAÍS",
+        "masInfo":"PROMOCIÓN VÁLIDA DESDE EL 01/10/2024 AL 31/10/2024 PARA COMPRAS REALIZADAS CON TARJETA DE CRÉDITO FÍSICA CENCOSUD. ESTA PROMOCIÓN NO APLICA PARA CLIENTES EN MORA O INHABILITADOS, NI TAMPOCO PARA COMPRAS REALIZADAS EN LOCALES 'VEA EXPRESS Y DISCO EXPRESS'. (1) PROMOCIÓN VÁLIDA TODOS LOS DÍAS EN LOS LOCALES HABILITADOS Y SITIOS WEB, OBTENIENDO SOLO 3 Y 6 CUOTAS SIN INTERÉS EN JUGUETERIA. (1) PLAN 3 Y 6: TASA NOMINAL ANUAL: 0,0%, TASA EFECTIVA ANUAL: 0,0%, COSTO FINANCIERO TOTAL NOMINAL ANUAL: 0,0%. SISTEMA FRANCÉS DE AMORTIZACIÓN MENSUAL EL COSTO FINANCIERO TOTAL SE EXPRESA COMO TASA NOMINAL ANUAL CORRESPONDIENTE AL FLUJO DE FONDOS CONSIDERADO. EL COSTO FINANCIERO TOTAL NOMINAL ANUAL NO INCLUYE LA COMISIÓN MENSUAL DE ADMINISTRACIÓN DE CUENTA NI COSTOS ASOCIADOS AL MANTENIMIENTO DE LA TARJETA. CONSULTE COMISIONES Y CARGOS VIGENTES ASOCIADOS A SU CUENTA AL 0810-9999-627 O EN CENCOPAY.AR/. CENCOSUD S.A. CUIT 30-59036076-3, SUIPACHA 1111, PISO 18, CABA (DOM. NO COMERCIAL)."
+
+    },
+    {
+        "id":27,
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Miercoles",
+        "imagen":"",
+        "descuento":"10% Dto. Hasta 3 cuotas sin interés | CRÉDITO VISA Y MASTERCARD del Banco Corrientes",
+        "descripcion":"Válido para compras presenciales en BsAs y GBA, comprando los días Miércoles Tarjeta de crédito: Visa y MasterCard de Banco de Corrientes",
+        "masInfo":"PROMOCIÓN VIGENTE DESDE EL 01/08/2024 AL 31/10/2024 DURANTE LOS DIAS MIERCOLES. PARA LAS COMPRAS DE PRODUCTOS CON LAS TARJETAS DE CRÉDITO VISA Y MASTERCARD DEL BANCO DE CORRIENTES. SE BONIFICARA EL 10% (DIEZ POR CIENTO) SOBRE EL IMPORTE TOTAL DE LA COMPRA Y HASTA 3 (TRES) CUOTAS SIN INTERÉS. CFTEA: 0%COSTO FINANCIERO TOTAL EFECTIVA ANUAL DE 0% .TASA NOMINAL ANUAL 0,00%. TASA EFECTIVA ANUAL: 0,00% .PROMOCIÓN NO ACUMULABLE CON OTRAS PROMOCIONES VIGENTES. PROMOCION SOLO VALIDA EN COMERCIOS ADHERIDOS A LA MISMA. NO APLICA PROMOCION PARA VENTAS REALIZADAS EN LA PLATAFORMA DE MERCADO PAGO. SE EXCLUYE EL RUBRO ELECTRO, CARNES, KIT ESENCIALES, BODEGAS CHANDON, LA RURAL, TERRAZAS DE LOS ANDES, CATENA ZAPATA, ALAMOS, EL ENEMIGO, MERCIER, BARON B, VALMONT, LATITUD 33, CLOS DE LOS 7, RUTINI, ESCHORIHUELA, GASCON Y BRIK.- NO ACUMULABLE CON OTRAS PROMOCIONES Y/O DESCUENTOS VIGENTES.-"
+    },
+    {
+        "id":28,
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Jueves",
+        "imagen":"",
+        "descuento":"25% Dto.",
+        "descripcion":"(Exclusivo Online) . Realizá tu compra el día que prefieras y programá la entrega tu entrega para LOS DÍAS JUEVES Válido Tarjetas Personales emitidas y administradas por AMERICAN EXPRESS ARGENTINA S.A Tope máximo de reintegro: $12.000 para The Platinum Card ® y Centurion ®, por día de promoción, por cuenta. Tope máximo de reintegro: $8.000 para el resto de las tarjetas, por día de promoción, por cuenta NO ACUMULABLE CON OTRAS PROMOCIONES Y/O DESCUENTOS VIGENTES. VÁLIDO PARA CONSUMIDOR FINAL.",
+        "masInfo":"BENEFICIO VÁLIDO ÚNICAMENTE PARA LOS DÍAS JUEVES DE OCTUBRE DE 2024, ABONANDO CON TODAS LAS TARJETAS PERSONALES -TITULARES O ADICIONALES- EMITIDAS Y ADMINISTRADAS POR AMERICAN EXPRESS ARGENTINA S.A. VÁLIDO PARA COMPRAS ONLINE CON ENTREGA ÚNICAMENTE LOS DÍAS JUEVES, EN LA WEB. NO VÁLIDO PARA PRODUCTOS DE ELECTRO. AMERICAN EXPRESS REALIZARÁ EL REINTEGRO DEL 25% DE LA COMPRA EN LA CUENTA DEL SOCIO TITULAR DENTRO DE LOS DOS SIGUIENTES RESUMENES DE REALIZADA. Tope máximo de reintegro: $12.000 para The Platinum Card ® y Centurion ®, por día de promoción, por cuenta. Tope máximo de reintegro: $8.000 para el resto de las tarjetas, por día de promoción, por cuenta . NO ACUMULABLE CON OTRAS PROMOCIONES. SE EXCLUYE EL RUBRO ELECTRO, CARNES, ACEITES DE FIDEICOMISO, KITS ESENCIALES, EXCLUYE BODEGAS LA RURAL, TRUMPETER, RUTINI, MONTEVIEJO, LA POSTA, LUCA, LUIGUI BOSCA, CHANDON, 33 SUR, TERRAZAS DE LOS ANDES, VALMONT, LATITUD 33, CATENA ZAPATA, MERCIER, BARON B, ESCORIHUELA GASCÓN, CLOS DE LOS SIETE, EL ENEMIGO, ÁLAMOS. LA PRESENTE PROMOCIÓN ES VÁLIDA SOLO PARA CONSUMOS DE TIPO FAMILIAR A CONSUMIDOR FINAL. NO ACUMULABLE CON OTRAS PROMOCIONES Y/O DESCUENTOS VIGENTES. VÁLIDO PARA CONSUMIDOR FINAL."
+    },
+    {
+        "id":29,
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Jueves",
+        "imagen":"",
+        "descuento":"12 Cuotas Sin Interés",
+        "descripcion":"12 CUOTAS SIN INTERÉS EN TU COMPRA DE ELECTRODOMÉSTICOS. COMPRAS REALIZADAS CON TARJETA DE CRÉDITO FÍSICA CENCOSUD. SOLO LOS DÍAS JUEVES EN LOS LOCALES HABILITADOS Y SITIOS WEB.",
+        "masInfo":"PROMOCIONES VÁLIDAS DESDE EL 01/10/2024 AL 31/10/2024 PARA COMPRAS REALIZADAS CON TARJETA DE CRÉDITO FÍSICA CENCOSUD. NO ACUMULABLES CON OTRAS PROMOCIONES Y/O DESCUENTOS. ESTAS PROMOCIONES NO APLICAN PARA CLIENTES EN MORA O INHABILITADOS, NI TAMPOCO PARA COMPRAS REALIZADAS EN LOCALES 'VEA EXPRESS'. PROMOCIÓN VÁLIDA SOLO LOS DÍAS JUEVES EN LOS LOCALES HABILITADOS Y SITIOS WEB, OBTENIENDO SOLO 12 CUOTAS SIN INTERÉS EN TODA LA COMPRA DE ELECTRODOMÉSTICOS. (2) PLAN 12: TASA NOMINAL ANUAL: 0,0%, TASA EFECTIVA ANUAL: 0,0%, COSTO FINANCIERO TOTAL NOMINAL ANUAL: 0,0%. SISTEMA FRANCÉS DE AMORTIZACIÓN MENSUAL EL COSTO FINANCIERO TOTAL SE EXPRESA COMO TASA NOMINAL ANUAL CORRESPONDIENTE AL FLUJO DE FONDOS CONSIDERADO. EL COSTO FINANCIERO TOTAL NOMINAL ANUAL NO INCLUYE LA COMISIÓN MENSUAL DE ADMINISTRACIÓN DE CUENTA NI COSTOS ASOCIADOS AL MANTENIMIENTO DE LA TARJETA. CONSULTE COMISIONES Y CARGOS VIGENTES ASOCIADOS A SU CUENTA AL 0810-9999-627 O EN HTPPS://CENCOPAY.AR//. CENCOSUD S.A. CUIT 30-59036076-3, SUIPACHA 1111, PISO 18, CABA (DOM. NO COMERCIAL)."
+    },
+    {
+        "id":30,
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Jueves",
+        "imagen":"",
+        "descuento":"3 cuotas sin interés EN TODO EL SURTIDO | para compras realizadas con Tarjetas Visa y Tarjetas Mastercard.",
+        "descripcion":"Válido para compras presenciales y online. 3 CUOTAS SIN INTERES EN TODO EL SURTIDO LOS DIAS JUEVES, VIERNES, SABADO Y DOMINGO, comprendidos entre el 02/09/2024 y el 03/11/2024. Dicha promoción no es acumulable con otras promociones vigentes.",
+        "masInfo":"CARTERA DE CONSUMO. Tasa Nominal Anual, en adelante 'TNA': 0,00%, Tasa Efectiva Anual, en adelante 'TEA': 0,00%, Costo Financiero Total Efectivo Anual, en adelante 'CFTEA': 0,00%.'CFTEA'+IVA: 0,00%. Promoción de hasta 3 cuotas sin interés en el precio de contado, para compras realizadas en el País. Válida para los días JUEVES, VIERNES, SABADO Y DOMINGO comprendidos entre el 02/09/2024 y el 03/11/2024, para compras realizadas con Tarjeta Visa, Tarjeta Mastercard. Promoción valida únicamente en los comercios adheridos. Dicha promoción no es acumulable con otras promociones vigentes. SE EXCLUYE EL RUBRO ELECTRO, CARNES, ACEITES DE FIDEICOMISO, KITS ESENCIALES, EXCLUYE BODEGAS LA RURAL, TRUMPETER, RUTINI, MONTEVIEJO, LA POSTA, LUCA, LUIGUI BOSCA, CHANDON, 33 SUR, TERRAZAS DE LOS ANDES, VALMONT, LATITUD 33, CATENA ZAPATA, MERCIER, BARON B, ESCORIHUELA GASCÓN, CLOS DE LOS SIETE, EL ENEMIGO, ÁLAMOS. LA PRESENTE PROMOCIÓN ES VÁLIDA SOLO PARA CONSUMOS DE TIPO FAMILIAR A CONSUMIDOR FINAL. NO ACUMULABLE CON OTRAS PROMOCIONES Y/O DESCUENTOS VIGENTES. VÁLIDO PARA CONSUMIDOR FINAL. Ejemplo: Una compra de $1000 y se paga en 3 cuotas: el valor de cada cuota será de $333.33. No aplica para compras realizadas con tarjetas de Credito Visa Business, Visa Rural y Tarjetas de Débito. La promoción no aplica a pagos a través de billeteras virtuales. Sólo podrán participar de la promoción aquellos clientes que al momento de comprar se encuentren al día con sus productos. Banco Galicia solo es el medio de pago para la adquisición del producto/servicio. Tasa Nominal Anual 'TNA': 0,00%, Tasa Efectiva Anual 'TEA': 0,00%, Costo Financiero Total Efectivo Anual 'CFTEA': 0,00%.'CFTEA' +IVA: 0,00%."
+    },
+    {
+        "id":31,
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Jueves",
+        "imagen":"",
+        "descuento":"20% Dto.| +10% adicional para que acrediten su sueldo en el banco",
+        "descripcion":"CLIENTES MOVE. 20% de descuento Tope de reintegro para clientes: $10.000, por cliente, por mes. Tope de reintegro adicional para clientes plan sueldo: $3.000, por cliente, por mes. Válida todos los días jueves comprendidos entre el 01/10/2024 y el 31/10/2024, para compras realizadas en 1 pago con Tarjetas Galicia escaneando el QR de MODO desde la app Galicia y/o MODO, con Tarjeta Galicia Débito y Crédito.",
+        "masInfo":"CLIENTES MOVE. CARTERA DE CONSUMO. Promoción del 20% de ahorro en compras realizadas, en el país, en un pago sobre el precio de contado, para clientes Move. Tope de reintegro: $10.000, por cliente, por mes. Válida todos los días jueves comprendidos entre el 01/10/2024 y el 31/10/2024, para compras realizadas en 1 pago con Tarjetas Galicia escaneando el QR de MODO desde la app Galicia y/o MODO, con Tarjeta Galicia Débito y Crédito. No aplica para pagos con dinero en cuenta y/o transferencia. Promoción valida únicamente en los comercios adheridos. El importe ahorrado se acreditará dentro de los 10 días hábiles posteriores a la compra en la caja de ahorro común. Para acceder a la promoción, el participante deberá tener abierta una caja de ahorro común en el Banco, en donde se acreditará el monto del reintegro. Si el cliente tuviera más de una cuenta, el crédito se realizará en cualquiera de ellas a elección del Banco. Dicha promoción no es acumulable con otras promociones vigentes. Válido para consumidor final. Ejemplo: En una compra de $1000 en un pago: el importe del ahorro es de $200. No aplica para compras con tarjetas de Débito emitidas a por Anses para Asignación Universal por hijo ni Progresar. La promoción no aplica a pagos a través de billeteras virtuales (excepto Modo), mPos y/o plataformas de pago online. MODO es marca registrada por Play Digital S.A., CUIT 30-71682943-6, con domicilio en Av. del Libertador 7208, Torre II, Piso 4, CABA (“PDSA”) y es un Proveedor de Servicios Tecnológicos de Banco de Galicia y Buenos Aires S.A.U. Sólo podrán participar de la promoción aquellos clientes que al momento de comprar se encuentren al día con sus productos. Banco Galicia solo es el medio de pago para la adquisición del producto/servicio."
+    },
+    {
+        "id":32,
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Jueves",
+        "imagen":"",
+        "descuento":"3 Cuotas Sin Interés",
+        "descripcion":"VÁLIDO PRESENCIAL Y VIRTUAL | PROMOCIÓN VÁLIDA TODOS LOS LUNES, MARTES, MIÉRCOLES Y JUEVES PARA COMPRAS REALIZADAS CON TARJETA DE CRÉDITO CENCOSUD.",
+        "masInfo":"PROMOCIÓN VÁLIDA DESDE EL 01/10/2024 AL 31/10/2024 PARA COMPRAS REALIZADAS CON TARJETA DE CRÉDITO FÍSICA CENCOSUD. ESTA PROMOCIÓN NO APLICA PARA CLIENTES EN MORA O INHABILITADOS, NI TAMPOCO PARA COMPRAS REALIZADAS EN LOCALES 'VEA EXPRESS'. (1) PROMOCIÓN VÁLIDA TODOS LOS LUNES, MARTES, MIÉRCOLES Y JUEVES EN LOS LOCALES HABILITADOS Y SITIOS WEB, OBTENIENDO SOLO 3 CUOTAS SIN INTERÉS EN TODA LA COMPRA. EXCLUYE ELECTRODOMÉSTICOS. ESTA PROMOCIÓN NO APLICA PARA CLIENTES EN MORA O INHABILITADOS. (1) PLAN 3: TASA NOMINAL ANUAL: 0,0%, TASA EFECTIVA ANUAL: 0,0%, COSTO FINANCIERO TOTAL NOMINAL ANUAL: 0,0%. SISTEMA FRANCÉS DE AMORTIZACIÓN MENSUAL EL COSTO FINANCIERO TOTAL SE EXPRESA COMO TASA NOMINAL ANUAL CORRESPONDIENTE AL FLUJO DE FONDOS CONSIDERADO. EL COSTO FINANCIERO TOTAL NOMINAL ANUAL NO INCLUYE LA COMISIÓN MENSUAL DE ADMINISTRACIÓN DE CUENTA NI COSTOS ASOCIADOS AL MANTENIMIENTO DE LA TARJETA. CONSULTE COMISIONES Y CARGOS VIGENTES ASOCIADOS A SU CUENTA AL 0810-9999-627 O EN CENCOPAY.AR/. CENCOSUD S.A. CUIT 30-59036076-3, SUIPACHA 1111, PISO 18, CABA (DOM. NO COMERCIAL)."
+    },
+    {
+        "id":33,
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Jueves",
+        "imagen":"",
+        "descuento":"3 y 6 cuotas sin interés RODADOS, MONOPATINES CON MOTOR, PARRILLAS Y MÁS.",
+        "descripcion":"3 y 6 CUOTAS SIN INTERÉS EN RODADOS, MONOPATINES CON MOTOR, PARRILLAS, HERRAMIENTAS ELÉCTRICAS Y MUEBLES DE INTERIOR. EN LOS LOCALES HABILITADOS DE DEL PAIS, INCLUYE VENTA PRESENCIAL Y NO PRESENCIAL. ESTA PROMOCIÓN NO APLICA PARA CLIENTES EN MORA O INHABILITADOS.",
+        "masInfo":"PROMOCIÓN VÁLIDA DESDE EL 01/10/2024 AL 31/10/2024 PARA COMPRAS REALIZADAS CON TARJETA DE CRÉDITO FÍSICA CENCOSUD. ESTA PROMOCIÓN NO APLICA PARA CLIENTES EN MORA O INHABILITADOS, NI TAMPOCO PARA COMPRAS REALIZADAS EN LOCALES 'VEA EXPRESS Y DISCO EXPRESS'. (1) PROMOCIÓN VÁLIDA TODOS LOS DÍAS EN LOS LOCALES HABILITADOS Y SITIOS WEB, OBTENIENDO SOLO 3 Y 6 CUOTAS SIN INTERÉS EN RODADOS, MONOPATINES CON MOTOR, PARRILLAS, HERRAMIENTAS ELÉCTRICAS Y MUEBLES DE INTERIOR. (1) PLAN 3 Y 6: TASA NOMINAL ANUAL: 0,0%, TASA EFECTIVA ANUAL: 0,0%, COSTO FINANCIERO TOTAL NOMINAL ANUAL: 0,0%. SISTEMA FRANCÉS DE AMORTIZACIÓN MENSUAL EL COSTO FINANCIERO TOTAL SE EXPRESA COMO TASA NOMINAL ANUAL CORRESPONDIENTE AL FLUJO DE FONDOS CONSIDERADO. EL COSTO FINANCIERO TOTAL NOMINAL ANUAL NO INCLUYE LA COMISIÓN MENSUAL DE ADMINISTRACIÓN DE CUENTA NI COSTOS ASOCIADOS AL MANTENIMIENTO DE LA TARJETA. CONSULTE COMISIONES Y CARGOS VIGENTES ASOCIADOS A SU CUENTA AL 0810-9999-627 O EN CENCOPAY.AR/. CENCOSUD S.A. CUIT 30-59036076-3, SUIPACHA 1111, PISO 18, CABA (DOM. NO COMERCIAL)."
+    },
+    {
+        "id":34,
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Jueves",
+        "imagen":"",
+        "descuento":"30% Dto. EN TODA LA COMPRA ABONANDO CON TU CUENTA DIGITAL CENCOPAY",
+        "descripcion":"PROMOCIÓN VÁLIDA REALIZANDO TU COMPRA EL DÍA QUE PREFIERAS DESDE EL SITIO WEB Y PROGRAMANDO TU ENTREGA PARA EL DÍA JUEVES CON RETIRO EN SUCURSAL O ENVÍO A DOMICILIO. TOPE DE REINTEGRO POR DÍA: $8.000 (OCHO MIL PESOS ARGENTINOS)",
+        "masInfo":"PROMOCIÓN VÁLIDA DESDE EL 01/10/2024 AL 31/10/2024 REALIZANDO TU COMPRA EL DÍA QUE PREFIERAS DESDE LOS SITIOS WEB Y COORDINANDO TU ENVÍO A DOMICILIO PARA LOS DÍAS JUEVES, OBTENIENDO UN 30% DE DESCUENTO EN TODA LA COMPRA ABONANDO CON TU CUENTA DIGITAL CENCOPAY. TOPE DE REINTEGRO POR DÍA: $8.000 (OCHO MIL PESOS ARGENTINOS). NO INCLUYE ELECTRODOMÉSTICOS, RODADOS, LIBRERÍA, CARNES, LECHES, MAYORISTAS DE FIAMBRERÍA, PRODUCTOS DE MARCAS PROPIAS (C&CO, HOME CARE, FAMILY CARE, PET FUN, JUMBO Y VEA), NI BODEGAS (CHANDON, TERRAZAS DE LOS ANDES, LA RURAL, RUTINI, CATENA ZAPATA, LEONCIO ARIZU, VALMONT, LATITUD 33, TERRAZAS, CLOS DE LOS SIETE, BARÓN B, ESCORIHUELA GASCÓN, MERCIER, MONTEVIEJO, LA POSTA, TRUMPETER, LUCA, LUIGI BOSCA, 33 SUR, EL ENEMIGO, ALAMOS NI BRIK). EL REINTEGRO PODRÁ APLICAR HASTA 10 DÍAS HÁBILES POSTERIORES A LA ENTREGA DEL PEDIDO. INCLUYE SOLO VENTA NO PRESENCIAL.ESTA PROMOCIÓN NO APLICA PARA COMPRAS REALIZADAS EN LOS LOCALES 'VEA EXPRESS'. ESTA PROMOCIÓN NO APLICA PARA COMPRAS REALIZADAS EN LOS LOCALES 'VEA EXPRESS'. SE DEJA CONSTANCIA QUE CENCOSUD S.A. SE LIMITA A OFRECER SERVICIOS DE PAGO Y NO SE ENCUENTRA AUTORIZADA A OPERAR COMO ENTIDAD FINANCIERA POR EL BANCO CENTRAL DE LA REPÚBLICA ARGENTINA. LOS FONDOS DEPOSITADOS EN CUENTAS DE PAGO NO CONSTITUYEN DEPÓSITOS EN UNA ENTIDAD FINANCIERA. CENCOSUD S.A, CUIT 30-59036076-3, SUIPACHA 1111, PISO 18, CABA (DOM. NO COMERCIAL). VER TÉRMINOS, CONDICIONES Y CARGOS ASOCIADOS EN CENCOPAY.AR/. EL USO INDEBIDO DE LA PROMOCIÓN PODRÁ SER SANCIONADO CON SUSPENSIÓN, INHABILITACIÓN O CESE DE LA CUENTA DIGITAL, AMPARADO EN EL APARTADO QUINTO DE LOS TÉRMINOS Y CONDICIONES. SE CONSIDERARÁ USO INDEBIDO DE LA PROMOCIÓN AQUEL USO EN EL QUE SE DETECTEN DOS O MAS CORTES TICKET DE COMPRA CON EL FIN DE SUMAR DESCUENTOS, YA HABIENDO OBTENIDO ESTE EN LA PRIMERA TRANSACCIÓN REALIZADA."
+    },
+    {
+        "id":35,
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Jueves",
+        "imagen":"",
+        "descuento":"15% Dto.Presentando su Tarjeta Clarín 365",
+        "descripcion":"Válido en compras presenciales y Online, generando tu pedido los días Lunes y Jueves. PRESENTANDO LA TARJETA CLARÍN 365 O 365 PLUS Y SEAN SOCIOS DEL PROGRAMA JUMBO MÁS. ABONANDO CON TARJETA CENCOSUD TENDRÁN UN 5% DE DESCUENTO ADICIONAL. Válido para compras en esos días, el descuento se realiza una vez que se efectúe el pago, sin importar para cuando se programe el pedido. SOLO CONSUMO FAMILIAR.",
+        "masInfo":"PARA MÁS INFORMACIÓN CONSULTE EN WWW.365.CLARIN.COM 15% de DESCUENTO, VÁLIDO GENERANDO TU PEDIDO LOS LUNES Y JUEVES DESDE EL 01/01/2024 HASTA EL 31/12/24 INCLUSIVE, PARA COMPRAS EN EL CANAL ONLINE WWW.JUMBO.COM.AR Y EN TODOS LOS LOCALES JUMBO DE LA REPÚBLICA ARGENTINA PARA MAYORES DE 18 AÑOS QUE AL MOMENTO DEL PAGO DE SU COMPRA ACREDITEN SU IDENTIDAD, PRESENTEN LA TARJETA CLARÍN 365 O 365 PLUS Y SEAN SOCIOS DEL PROGRAMA JUMBO MÁS. NO APLICABLE EN CAJAS DE AUTOSERVICIO. SOLO CONSUMO FAMILIAR. NO INCLUYE ELECTRODOMÉSTICOS, RODADOS, LIBRERÍA, CARNES, LECHES, MAYORISTAS DE FIAMBRERÍA, NI VINOS EN BRICK, MOSCATO, OPORTO, MISTELA, NI BODEGAS (LA RURAL, TRUMPETER, RUTINI, LUCA, LA POSTA, LUIGI BOSCA, CHANDON, 33 SUR, TERRAZAS DE LOS ANDES, VALMONT, LATITUD 33, CATENA ZAPATA, MERCIER, BARON B, ESCORIHUELA GASCÓN, CLOS DE LOS SIETE, EL ENEMIGO, MONTEVIEJO, NI BRIK Y NI GENEROSOS). NO ACUMULABLE CON OTRAS PROMOCIONES, DESCUENTOS. NO ACUMULABLE LOS DÍAS EMISIÓN NI REDENCIÓN DE PESOSCHECK. NO INCLUYE ACEITES DE FIDEICOMISO. ABONANDO CON TARJETA CENCOSUD TENDRÁN UN 5% DE DESCUENTO ADICIONAL. PARA MÁS INFORMACIÓN CONSULTAR EN WWW.365.COM.AR/REGLAMENTO O AL 0810.333.0365."
+    },
+    {
+        "id":36,
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Jueves",
+        "imagen":"",
+        "descuento":"30% Dto.| +10% adicional para que acrediten su sueldo en el banco",
+        "descripcion":"VÁLIDO PRESENCIAL los días Jueves | Promoción exclusiva abonando con Tarjetas Galicia Visa Débito y Visa Crédito. Aplica sólo a pagos realizados a través de QR de Modo desde app Galicia y app Modo. Tope de reintegro para clientes: $20.000, por cliente, por mes. Tope de reintegro adicional para clientes plan sueldo: $5.000, por cliente, por mes. La presente promoción no es acumulable con otras ofertas, descuentos y/o promociones vigentes.",
+        "masInfo":"CARTERA DE CONSUMO. Promoción del 30% de ahorro en compras realizadas, en el país, en un pago sobre el precio de contado, para clientes Éminent. Tope de reintegro: $20.000, por cliente, por mes. Válida todos los días jueves comprendidos entre el 01/10/2024 y el 31/10/2024, para compras realizadas en 1 pago con Tarjetas Galicia escaneando el QR de MODO desde la app Galicia y/o MODO, con Tarjeta Galicia Débito y Crédito, Tarjeta Visa. Promoción valida únicamente en los comercios adheridos. El importe ahorrado se acreditará dentro de los 10 días hábiles posteriores a la compra en la caja de ahorro común. Para acceder a la promoción, el participante deberá tener abierta una caja de ahorro común en el Banco, en donde se acreditará el monto del reintegro. Si el cliente tuviera más de una cuenta, el crédito se realizará en cualquiera de ellas a elección del Banco. Dicha promoción no es acumulable con otras promociones vigentes. Válido para consumidor final. Ejemplo: En una compra de $1000 en un pago: el importe del ahorro es de $300. No aplica para compras con tarjetas de Débito emitidas a por Anses para Asignación Universal por hijo ni Progresar. La promoción no aplica a pagos a través de billeteras virtuales (excepto Modo), mPos y/o plataformas de pago online. MODO es marca registrada por Play Digital S.A., CUIT 30-71682943-6, con domicilio en Av. del Libertador 7208, Torre II, Piso 4, CABA (“PDSA”) y es un Proveedor de Servicios Tecnológicos de Banco de Galicia y Buenos Aires S.A.U. Sólo podrán participar de la promoción aquellos clientes que al momento de comprar se encuentren al día con sus productos. Banco Galicia solo es el medio de pago para la adquisición del producto/servicio."
+    },
+    {
+        "id":37,
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Jueves",
+        "imagen":"",
+        "descuento":"25% Dto.| +10% adicional para que acrediten su sueldo en el banco",
+        "descripcion":"VÁLIDO PRESENCIAL | Promoción exclusiva abonando con tus Tarjetas Galicia Visa Débito y Visa Crédito los días JUEVES. (Excluye tarjetas MasterCard y American Express). Tope de reintegro para clientes: $15.000, por cliente, por mes. Tope de reintegro adicional para clientes plan sueldo: $5.000, por cliente, por mes. Aplica sólo a pagos realizados a través de QR de Modo desde app Galicia y app Modo. La presente promoción no es acumulable con otras ofertas, descuentos y/o promociones vigentes. Válida para consumidor final.",
+        "masInfo":"CARTERA DE CONSUMO. Promoción del 25% de ahorro en compras realizadas, en el país, en un pago sobre el precio de contado. Tope de reintegro: $15.000, por cliente, por mes. Válida todos los días jueves comprendidos entre el 01/10/2024 y el 31/10/2024, para compras realizadas en 1 pago con Tarjetas Galicia escaneando el QR de MODO desde la app Galicia y/o MODO, con Tarjeta Galicia Débito y Crédito, Tarjeta Visa. No aplica para pagos con dinero en cuenta y/o transferencia. Promoción valida únicamente en los comercios adheridos. El importe ahorrado se acreditará dentro de los 10 días hábiles posteriores a la compra en la caja de ahorro común. Para acceder a la promoción, el participante deberá tener abierta una caja de ahorro común en el Banco, en donde se acreditará el monto del reintegro. Si el cliente tuviera más de una cuenta, el crédito se realizará en cualquiera de ellas a elección del Banco. Dicha promoción no es acumulable con otras promociones vigentes. Válido para consumidor final. Ejemplo: En una compra de $1000 en un pago: el importe del ahorro es de $250. No aplica para compras con tarjetas de Débito emitidas a por Anses para Asignación Universal por hijo ni Progresar. La promoción no aplica a pagos a través de billeteras virtuales (excepto Modo), mPos y/o plataformas de pago online. MODO es marca registrada por Play Digital S.A., CUIT 30-71682943-6, con domicilio en Av. del Libertador 7208, Torre II, Piso 4, CABA (“PDSA”) y es un Proveedor de Servicios Tecnológicos de Banco de Galicia y Buenos Aires S.A.U. Sólo podrán participar de la promoción aquellos clientes que al momento de comprar se encuentren al día con sus productos. Banco Galicia solo es el medio de pago para la adquisición del producto/servicio."
+    },
+    {
+        "id":38,
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Jueves",
+        "imagen":"",
+        "descuento":"6 cuotas sin interés EN JUGUETERÍA",
+        "descripcion":"6 CUOTAS SIN INTERÉS EN JUGUETERÍA. INCLUYE VENTA PRESENCIAL Y NO PRESENCIAL. TODOS LOS DÍAS DEL MES DE SEPTIEMBRE EN LOS LOCALES HABILITADOS DEL PAÍS.",
+        "masInfo":"PROMOCIÓN VÁLIDA DESDE EL 01/10/2024 AL 31/10/2024 PARA COMPRAS REALIZADAS CON TARJETA DE CRÉDITO FÍSICA CENCOSUD. ESTA PROMOCIÓN NO APLICA PARA CLIENTES EN MORA O INHABILITADOS, NI TAMPOCO PARA COMPRAS REALIZADAS EN LOCALES 'VEA EXPRESS Y DISCO EXPRESS'. (1) PROMOCIÓN VÁLIDA TODOS LOS DÍAS EN LOS LOCALES HABILITADOS Y SITIOS WEB, OBTENIENDO SOLO 3 Y 6 CUOTAS SIN INTERÉS EN JUGUETERIA. (1) PLAN 3 Y 6: TASA NOMINAL ANUAL: 0,0%, TASA EFECTIVA ANUAL: 0,0%, COSTO FINANCIERO TOTAL NOMINAL ANUAL: 0,0%. SISTEMA FRANCÉS DE AMORTIZACIÓN MENSUAL EL COSTO FINANCIERO TOTAL SE EXPRESA COMO TASA NOMINAL ANUAL CORRESPONDIENTE AL FLUJO DE FONDOS CONSIDERADO. EL COSTO FINANCIERO TOTAL NOMINAL ANUAL NO INCLUYE LA COMISIÓN MENSUAL DE ADMINISTRACIÓN DE CUENTA NI COSTOS ASOCIADOS AL MANTENIMIENTO DE LA TARJETA. CONSULTE COMISIONES Y CARGOS VIGENTES ASOCIADOS A SU CUENTA AL 0810-9999-627 O EN CENCOPAY.AR/. CENCOSUD S.A. CUIT 30-59036076-3, SUIPACHA 1111, PISO 18, CABA (DOM. NO COMERCIAL)."
+    },
+    {
+        "id":39,
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Viernes",
+        "imagen":"",
+        "descuento":"3 cuotas sin interés EN TODO EL SURTIDO | para compras realizadas con Tarjetas Visa y Tarjetas Mastercard.",
+        "descripcion":"Válido para compras presenciales y online. 3 CUOTAS SIN INTERES EN TODO EL SURTIDO LOS DIAS JUEVES, VIERNES, SABADO Y DOMINGO, comprendidos entre el 02/09/2024 y el 03/11/2024. Dicha promoción no es acumulable con otras promociones vigentes.",
+        "masInfo":"CARTERA DE CONSUMO. Tasa Nominal Anual, en adelante 'TNA': 0,00%, Tasa Efectiva Anual, en adelante 'TEA': 0,00%, Costo Financiero Total Efectivo Anual, en adelante 'CFTEA': 0,00%.'CFTEA'+IVA: 0,00%. Promoción de hasta 3 cuotas sin interés en el precio de contado, para compras realizadas en el País. Válida para los días JUEVES, VIERNES, SABADO Y DOMINGO comprendidos entre el 02/09/2024 y el 03/11/2024, para compras realizadas con Tarjeta Visa, Tarjeta Mastercard. Promoción valida únicamente en los comercios adheridos. Dicha promoción no es acumulable con otras promociones vigentes. SE EXCLUYE EL RUBRO ELECTRO, CARNES, ACEITES DE FIDEICOMISO, KITS ESENCIALES, EXCLUYE BODEGAS LA RURAL, TRUMPETER, RUTINI, MONTEVIEJO, LA POSTA, LUCA, LUIGUI BOSCA, CHANDON, 33 SUR, TERRAZAS DE LOS ANDES, VALMONT, LATITUD 33, CATENA ZAPATA, MERCIER, BARON B, ESCORIHUELA GASCÓN, CLOS DE LOS SIETE, EL ENEMIGO, ÁLAMOS. LA PRESENTE PROMOCIÓN ES VÁLIDA SOLO PARA CONSUMOS DE TIPO FAMILIAR A CONSUMIDOR FINAL. NO ACUMULABLE CON OTRAS PROMOCIONES Y/O DESCUENTOS VIGENTES. VÁLIDO PARA CONSUMIDOR FINAL. Ejemplo: Una compra de $1000 y se paga en 3 cuotas: el valor de cada cuota será de $333.33. No aplica para compras realizadas con tarjetas de Credito Visa Business, Visa Rural y Tarjetas de Débito. La promoción no aplica a pagos a través de billeteras virtuales. Sólo podrán participar de la promoción aquellos clientes que al momento de comprar se encuentren al día con sus productos. Banco Galicia solo es el medio de pago para la adquisición del producto/servicio. Tasa Nominal Anual 'TNA': 0,00%, Tasa Efectiva Anual 'TEA': 0,00%, Costo Financiero Total Efectivo Anual 'CFTEA': 0,00%.'CFTEA'+IVA: 0,00%."
+    },
+    {
+        "id":40,
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Viernes",
+        "imagen":"",
+        "descuento":"3 y 6 cuotas sin interés RODADOS, MONOPATINES CON MOTOR, PARRILLAS Y MÁS.",
+        "descripcion":"3 y 6 CUOTAS SIN INTERÉS EN RODADOS, MONOPATINES CON MOTOR, PARRILLAS, HERRAMIENTAS ELÉCTRICAS Y MUEBLES DE INTERIOR. EN LOS LOCALES HABILITADOS DE DEL PAIS, INCLUYE VENTA PRESENCIAL Y NO PRESENCIAL. ESTA PROMOCIÓN NO APLICA PARA CLIENTES EN MORA O INHABILITADOS.",
+        "masInfo":"PROMOCIÓN VÁLIDA DESDE EL 01/10/2024 AL 31/10/2024 PARA COMPRAS REALIZADAS CON TARJETA DE CRÉDITO FÍSICA CENCOSUD. ESTA PROMOCIÓN NO APLICA PARA CLIENTES EN MORA O INHABILITADOS, NI TAMPOCO PARA COMPRAS REALIZADAS EN LOCALES 'VEA EXPRESS Y DISCO EXPRESS'. (1) PROMOCIÓN VÁLIDA TODOS LOS DÍAS EN LOS LOCALES HABILITADOS Y SITIOS WEB, OBTENIENDO SOLO 3 Y 6 CUOTAS SIN INTERÉS EN RODADOS, MONOPATINES CON MOTOR, PARRILLAS, HERRAMIENTAS ELÉCTRICAS Y MUEBLES DE INTERIOR. (1) PLAN 3 Y 6: TASA NOMINAL ANUAL: 0,0%, TASA EFECTIVA ANUAL: 0,0%, COSTO FINANCIERO TOTAL NOMINAL ANUAL: 0,0%. SISTEMA FRANCÉS DE AMORTIZACIÓN MENSUAL EL COSTO FINANCIERO TOTAL SE EXPRESA COMO TASA NOMINAL ANUAL CORRESPONDIENTE AL FLUJO DE FONDOS CONSIDERADO. EL COSTO FINANCIERO TOTAL NOMINAL ANUAL NO INCLUYE LA COMISIÓN MENSUAL DE ADMINISTRACIÓN DE CUENTA NI COSTOS ASOCIADOS AL MANTENIMIENTO DE LA TARJETA. CONSULTE COMISIONES Y CARGOS VIGENTES ASOCIADOS A SU CUENTA AL 0810-9999-627 O EN CENCOPAY.AR/. CENCOSUD S.A. CUIT 30-59036076-3, SUIPACHA 1111, PISO 18, CABA (DOM. NO COMERCIAL)."
+    
+    },
+    {
+        "id":41,
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Viernes",
+        "imagen":"",
+        "descuento":"6 cuotas sin interés EN JUGUETERÍA",
+        "descripcion":"6 CUOTAS SIN INTERÉS EN JUGUETERÍA. INCLUYE VENTA PRESENCIAL Y NO PRESENCIAL. TODOS LOS DÍAS DEL MES DE SEPTIEMBRE EN LOS LOCALES HABILITADOS DEL PAÍS.",
+        "masInfo":"PROMOCIÓN VÁLIDA DESDE EL 01/10/2024 AL 31/10/2024 PARA COMPRAS REALIZADAS CON TARJETA DE CRÉDITO FÍSICA CENCOSUD. ESTA PROMOCIÓN NO APLICA PARA CLIENTES EN MORA O INHABILITADOS, NI TAMPOCO PARA COMPRAS REALIZADAS EN LOCALES 'VEA EXPRESS Y DISCO EXPRESS'. (1) PROMOCIÓN VÁLIDA TODOS LOS DÍAS EN LOS LOCALES HABILITADOS Y SITIOS WEB, OBTENIENDO SOLO 3 Y 6 CUOTAS SIN INTERÉS EN JUGUETERIA. (1) PLAN 3 Y 6: TASA NOMINAL ANUAL: 0,0%, TASA EFECTIVA ANUAL: 0,0%, COSTO FINANCIERO TOTAL NOMINAL ANUAL: 0,0%. SISTEMA FRANCÉS DE AMORTIZACIÓN MENSUAL EL COSTO FINANCIERO TOTAL SE EXPRESA COMO TASA NOMINAL ANUAL CORRESPONDIENTE AL FLUJO DE FONDOS CONSIDERADO. EL COSTO FINANCIERO TOTAL NOMINAL ANUAL NO INCLUYE LA COMISIÓN MENSUAL DE ADMINISTRACIÓN DE CUENTA NI COSTOS ASOCIADOS AL MANTENIMIENTO DE LA TARJETA. CONSULTE COMISIONES Y CARGOS VIGENTES ASOCIADOS A SU CUENTA AL 0810-9999-627 O EN CENCOPAY.AR/. CENCOSUD S.A. CUIT 30-59036076-3, SUIPACHA 1111, PISO 18, CABA (DOM. NO COMERCIAL)."
+    },
+    {
+        "id":42,
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Sabado",
+        "imagen":"",
+        "descuento":"3 cuotas sin interés EN TODO EL SURTIDO | para compras realizadas con Tarjetas Visa y Tarjetas Mastercard.",
+        "descripcion":"Válido para compras presenciales y online. 3 CUOTAS SIN INTERES EN TODO EL SURTIDO LOS DIAS JUEVES, VIERNES, SABADO Y DOMINGO, comprendidos entre el 02/09/2024 y el 03/11/2024. Dicha promoción no es acumulable con otras promociones vigentes.",
+        "masInfo":"CARTERA DE CONSUMO. Tasa Nominal Anual, en adelante 'TNA': 0,00%, Tasa Efectiva Anual, en adelante 'TEA': 0,00%, Costo Financiero Total Efectivo Anual, en adelante 'CFTEA': 0,00%.'CFTEA'+IVA: 0,00%. Promoción de hasta 3 cuotas sin interés en el precio de contado, para compras realizadas en el País. Válida para los días JUEVES, VIERNES, SABADO Y DOMINGO comprendidos entre el 02/09/2024 y el 03/11/2024, para compras realizadas con Tarjeta Visa, Tarjeta Mastercard. Promoción valida únicamente en los comercios adheridos. Dicha promoción no es acumulable con otras promociones vigentes. SE EXCLUYE EL RUBRO ELECTRO, CARNES, ACEITES DE FIDEICOMISO, KITS ESENCIALES, EXCLUYE BODEGAS LA RURAL, TRUMPETER, RUTINI, MONTEVIEJO, LA POSTA, LUCA, LUIGUI BOSCA, CHANDON, 33 SUR, TERRAZAS DE LOS ANDES, VALMONT, LATITUD 33, CATENA ZAPATA, MERCIER, BARON B, ESCORIHUELA GASCÓN, CLOS DE LOS SIETE, EL ENEMIGO, ÁLAMOS. LA PRESENTE PROMOCIÓN ES VÁLIDA SOLO PARA CONSUMOS DE TIPO FAMILIAR A CONSUMIDOR FINAL. NO ACUMULABLE CON OTRAS PROMOCIONES Y/O DESCUENTOS VIGENTES. VÁLIDO PARA CONSUMIDOR FINAL. Ejemplo: Una compra de $1000 y se paga en 3 cuotas: el valor de cada cuota será de $333.33. No aplica para compras realizadas con tarjetas de Credito Visa Business, Visa Rural y Tarjetas de Débito. La promoción no aplica a pagos a través de billeteras virtuales. Sólo podrán participar de la promoción aquellos clientes que al momento de comprar se encuentren al día con sus productos. Banco Galicia solo es el medio de pago para la adquisición del producto/servicio. Tasa Nominal Anual 'TNA': 0,00%, Tasa Efectiva Anual 'TEA': 0,00%, Costo Financiero Total Efectivo Anual 'CFTEA': 0,00%.'CFTEA'+IVA: 0,00%."
+    },
+    {
+        "id":43,
+        "supermercado":"Jumbo",
+        "categoria":"Día",
+        "subCategoria":"Sabado",
+        "imagen":"",
+        "descuento":"3 y 6 cuotas sin interés RODADOS, MONOPATINES CON MOTOR, PARRILLAS Y MÁS.",
+        "descripcion":"3 y 6 CUOTAS SIN INTERÉS EN RODADOS, MONOPATINES CON MOTOR, PARRILLAS, HERRAMIENTAS ELÉCTRICAS Y MUEBLES DE INTERIOR. EN LOS LOCALES HABILITADOS DE DEL PAIS, INCLUYE VENTA PRESENCIAL Y NO PRESENCIAL. ESTA PROMOCIÓN NO APLICA PARA CLIENTES EN MORA O INHABILITADOS.",
+        "masInfo":"PROMOCIÓN VÁLIDA DESDE EL 01/10/2024 AL 31/10/2024 PARA COMPRAS REALIZADAS CON TARJETA DE CRÉDITO FÍSICA CENCOSUD. ESTA PROMOCIÓN NO APLICA PARA CLIENTES EN MORA O INHABILITADOS, NI TAMPOCO PARA COMPRAS REALIZADAS EN LOCALES 'VEA EXPRESS Y DISCO EXPRESS'. (1) PROMOCIÓN VÁLIDA TODOS LOS DÍAS EN LOS LOCALES HABILITADOS Y SITIOS WEB, OBTENIENDO SOLO 3 Y 6 CUOTAS SIN INTERÉS EN RODADOS, MONOPATINES CON MOTOR, PARRILLAS, HERRAMIENTAS ELÉCTRICAS Y MUEBLES DE INTERIOR. (1) PLAN 3 Y 6: TASA NOMINAL ANUAL: 0,0%, TASA EFECTIVA ANUAL: 0,0%, COSTO FINANCIERO TOTAL NOMINAL ANUAL: 0,0%. SISTEMA FRANCÉS DE AMORTIZACIÓN MENSUAL EL COSTO FINANCIERO TOTAL SE EXPRESA COMO TASA NOMINAL ANUAL CORRESPONDIENTE AL FLUJO DE FONDOS CONSIDERADO. EL COSTO FINANCIERO TOTAL NOMINAL ANUAL NO INCLUYE LA COMISIÓN MENSUAL DE ADMINISTRACIÓN DE CUENTA NI COSTOS ASOCIADOS AL MANTENIMIENTO DE LA TARJETA. CONSULTE COMISIONES Y CARGOS VIGENTES ASOCIADOS A SU CUENTA AL 0810-9999-627 O EN CENCOPAY.AR/. CENCOSUD S.A. CUIT 30-59036076-3, SUIPACHA 1111, PISO 18, CABA (DOM. NO COMERCIAL)."
+    },
+    {
+        "id":44,
+        "supermercado":44,
+        "categoria":"Día",
+        "subCategoria":"Sabado",
+        "imagen":"",
+        "descuento":"6 cuotas sin interés EN JUGUETERÍA",
+        "descripcion": "6 CUOTAS SIN INTERÉS EN JUGUETERÍA. INCLUYE VENTA PRESENCIAL Y NO PRESENCIAL. TODOS LOS DÍAS DEL MES DE SEPTIEMBRE EN LOS LOCALES HABILITADOS DEL PAÍS.",
+        "masInfo":"PROMOCIÓN VÁLIDA DESDE EL 01/10/2024 AL 31/10/2024 PARA COMPRAS REALIZADAS CON TARJETA DE CRÉDITO FÍSICA CENCOSUD. ESTA PROMOCIÓN NO APLICA PARA CLIENTES EN MORA O INHABILITADOS, NI TAMPOCO PARA COMPRAS REALIZADAS EN LOCALES 'VEA EXPRESS Y DISCO EXPRESS'. (1) PROMOCIÓN VÁLIDA TODOS LOS DÍAS EN LOS LOCALES HABILITADOS Y SITIOS WEB, OBTENIENDO SOLO 3 Y 6 CUOTAS SIN INTERÉS EN JUGUETERIA. (1) PLAN 3 Y 6: TASA NOMINAL ANUAL: 0,0%, TASA EFECTIVA ANUAL: 0,0%, COSTO FINANCIERO TOTAL NOMINAL ANUAL: 0,0%. SISTEMA FRANCÉS DE AMORTIZACIÓN MENSUAL EL COSTO FINANCIERO TOTAL SE EXPRESA COMO TASA NOMINAL ANUAL CORRESPONDIENTE AL FLUJO DE FONDOS CONSIDERADO. EL COSTO FINANCIERO TOTAL NOMINAL ANUAL NO INCLUYE LA COMISIÓN MENSUAL DE ADMINISTRACIÓN DE CUENTA NI COSTOS ASOCIADOS AL MANTENIMIENTO DE LA TARJETA. CONSULTE COMISIONES Y CARGOS VIGENTES ASOCIADOS A SU CUENTA AL 0810-9999-627 O EN CENCOPAY.AR/. CENCOSUD S.A. CUIT 30-59036076-3, SUIPACHA 1111, PISO 18, CABA (DOM. NO COMERCIAL)."
+    },
+    {
+        "id":45,
+        "supermercado":"Jumbo",
+        "categoria":"Banco",
+        "imagen":""
+    },
+    {
+        "id":46,
+        "supermercado":"Jumbo",
+        "categoria":"Banco",
+        "imagen":""
+    },
+    {
+        "id":47,
+        "supermercado":"Jumbo",
+        "categoria":"Banco",
+        "imagen":""
+    },
+    {
+        "id":48,
+        "supermercado":"Jumbo",
+        "categoria":"Banco",
+        "imagen":""
+    },
+    {
+        "id":49,
+        "supermercado":"Jumbo",
+        "categoria":"Banco",
+        "imagen":""
+    },
+    {
+        "id":50,
+        "supermercado":"Jumbo",
+        "categoria":"Banco",
+        "imagen":""
+    },
+    {
+        "id":51,
+        "supermercado":"Jumbo",
+        "categoria":"Banco",
+        "imagen":""
+    },
+    {
+        "id":52,
+        "supermercado":"Jumbo",
+        "categoria":"Banco",
+        "imagen":""
+    },
+    {
+        "id":53,
+        "supermercado":"Jumbo",
+        "categoria":"Banco",
+        "imagen":""
+    },
+    {
+        "id":54,
+        "supermercado":"Jumbo",
+        "categoria":"Banco",
+        "imagen":""
+    },
+    {
+        "id":55,
+        "supermercado":"Jumbo",
+        "categoria":"Banco",
+        "imagen":""
+    },
+    {
+        "id":56,
+        "supermercado":"Jumbo",
+        "categoria":"Banco",
+        "imagen":""
+    },
+    {
+        "id":57,
+        "supermercado":"Jumbo",
+        "categoria":"Banco",
+        "imagen":""
+    },
+    {
+        "id":58,
+        "supermercado":"Jumbo",
+        "categoria":"Banco",
+        "imagen":""
+    },
+    {
+        "id":59,
+        "supermercado":"Jumbo",
+        "categoria":"Banco",
+        "imagen":""
+    },
+    {
+        "id":60,
+        "supermercado":"Jumbo",
+        "categoria":"Banco",
+        "imagen":""
+    },
+    {
+        "id":61,
+        "supermercado":"Jumbo",
+        "categoria":"Banco",
+        "imagen":""
+    },
+    {
+        "id":62,
+        "supermercado":"Jumbo",
+        "categoria":"Tarjeta Cencosud",
+        "descuento":"12 Cuotas Sin Interés (Jueves)",
+        "imagen":"",
+        "descripcion":"12 CUOTAS SIN INTERÉS EN TU COMPRA DE ELECTRODOMÉSTICOS. COMPRAS REALIZADAS CON TARJETA DE CRÉDITO FÍSICA CENCOSUD. SOLO LOS DÍAS JUEVES EN LOS LOCALES HABILITADOS Y SITIOS WEB.",
+        "masInfo":"PROMOCIONES VÁLIDAS DESDE EL 01/10/2024 AL 31/10/2024 PARA COMPRAS REALIZADAS CON TARJETA DE CRÉDITO FÍSICA CENCOSUD. NO ACUMULABLES CON OTRAS PROMOCIONES Y/O DESCUENTOS. ESTAS PROMOCIONES NO APLICAN PARA CLIENTES EN MORA O INHABILITADOS, NI TAMPOCO PARA COMPRAS REALIZADAS EN LOCALES 'VEA EXPRESS'. PROMOCIÓN VÁLIDA SOLO LOS DÍAS JUEVES EN LOS LOCALES HABILITADOS Y SITIOS WEB, OBTENIENDO SOLO 12 CUOTAS SIN INTERÉS EN TODA LA COMPRA DE ELECTRODOMÉSTICOS. (2) PLAN 12: TASA NOMINAL ANUAL: 0,0%, TASA EFECTIVA ANUAL: 0,0%, COSTO FINANCIERO TOTAL NOMINAL ANUAL: 0,0%. SISTEMA FRANCÉS DE AMORTIZACIÓN MENSUAL EL COSTO FINANCIERO TOTAL SE EXPRESA COMO TASA NOMINAL ANUAL CORRESPONDIENTE AL FLUJO DE FONDOS CONSIDERADO. EL COSTO FINANCIERO TOTAL NOMINAL ANUAL NO INCLUYE LA COMISIÓN MENSUAL DE ADMINISTRACIÓN DE CUENTA NI COSTOS ASOCIADOS AL MANTENIMIENTO DE LA TARJETA. CONSULTE COMISIONES Y CARGOS VIGENTES ASOCIADOS A SU CUENTA AL 0810-9999-627 O EN HTPPS://CENCOPAY.AR//. CENCOSUD S.A. CUIT 30-59036076-3, SUIPACHA 1111, PISO 18, CABA (DOM. NO COMERCIAL)."
+    },
+    {
+        "id":63,
+        "supermercado":"Jumbo",
+        "categoria":"Tarjeta Cencosud",
+        "imagen":"",
+        "descuento":"20% Dto. 3 Cuotas Sin Interés (Miercoles)",
+        "descripcion":"(Exclusivo online) Haciendo tus compras los días Miércoles y programando la entrega para el día que prefieras. VER EXCLUSIONES: NO INCLUYE ELECTRODOMÉSTICOS, RODADOS, LIBRERÍA, CARNES, LECHES, MAYORISTAS DE FIAMBRERÍA, NI BODEGAS (CHANDON, TERRAZAS DE LOS ANDES, LA RURAL, RUTINI, CATENA ZAPATA, LEONCIO ARIZU, VALMONT, LATITUD 33, TERRAZAS, CLOS DE LOS SIETE, BARÓN B, ESCORIHUELA GASCÓN, MERCIER, MONTEVIEJO, LA POSTA, TRUMPETER, LUCA, LUIGI BOSCA, 33 SUR, EL ENEMIGO, ALAMOS NI BRIK). EL DESCUENTO SE EFECTIVIZARÁ EN EL CHECK OUT. NO ES ACUMULABLE CON OTROS DESCUENTOS Y/O PROMOCIONES.",
+        "masInfo":"PROMOCIONES VÁLIDAS DESDE EL 01/09/2024 AL 31/10/2024 PARA COMPRAS REALIZADAS CON TARJETA CENCOSUD. NO ACUMULABLES CON OTRAS PROMOCIONES Y/O DESCUENTOS. ESTAS PROMOCIONES NO APLICAN PARA CLIENTES EN MORA O INHABILITADOS, NI TAMPOCO PARA COMPRAS REALIZADAS EN LOCALES 'VEA EXPRESS'. (1) PROMOCIÓN VÁLIDA SOLO LOS DÍAS MIÉRCOLES EN LOS SITIOS WEB, OBTENIENDO UN 20% DE DESCUENTO EN TU COMPRA ONLINE. NO INCLUYE ELECTRODOMÉSTICOS, RODADOS, LIBRERÍA, CARNES, LECHES, MAYORISTAS DE FIAMBRERÍA, PRODUCTOS DE MARCAS PROPIAS (C&CO, HOME CARE, FAMILY CARE, PET FUN, JUMBO Y VEA), PRODUCTOS INCLUIDOS EN LOS LISTADOS DE PRECIOS CONVENIENTES, NI BODEGAS (CHANDON, TERRAZAS DE LOS ANDES, LA RURAL, RUTINI, CATENA ZAPATA, LEONCIO ARIZU, VALMONT, LATITUD 33, TERRAZAS, CLOS DE LOS SIETE, BARÓN B, ESCORIHUELA GASCÓN, MERCIER, MONTEVIEJO, LA POSTA, TRUMPETER, LUCA, LUIGI BOSCA, 33 SUR, EL ENEMIGO, ALAMOS NI BRIK). EL DESCUENTO SE EFECTIVIZARÁ EN EL CHECK OUT. (2) PROMOCIÓN VÁLIDA SOLO LOS DÍAS MIÉRCOLES EN LOS SITIOS WEB, OBTENIENDO SOLO 3 CUOTAS SIN INTERÉS EN TODA LA COMPRA ONLINE. NO INCLUYE ELECTRODOMÉSTICOS. INCLUYE SOLO VENTA NO PRESENCIAL. ESTA PROMOCIÓN NO APLICA PARA CLIENTES EN MORA O INHABILITADOS. (2) PLAN 3: TASA NOMINAL ANUAL: 0,0%, TASA EFECTIVA ANUAL: 0,0%, COSTO FINANCIERO TOTAL NOMINAL ANUAL: 0,0%. SISTEMA FRANCÉS DE AMORTIZACIÓN MENSUAL EL COSTO FINANCIERO TOTAL SE EXPRESA COMO TASA NOMINAL ANUAL CORRESPONDIENTE AL FLUJO DE FONDOS CONSIDERADO. EL COSTO FINANCIERO TOTAL NOMINAL ANUAL NO INCLUYE LA COMISIÓN MENSUAL DE ADMINISTRACIÓN DE CUENTA NI COSTOS ASOCIADOS AL MANTENIMIENTO DE LA TARJETA. CONSULTE COMISIONES Y CARGOS VIGENTES ASOCIADOS A SU CUENTA AL 0810-9999-627 O EN WWW.TARJETACENCOSUD.COM.AR. CENCOSUD S.A. CUIT 30-59036076-3, SUIPACHA 1111, PISO 18, CABA (DOM. NO COMERCIAL)."
+    },
+    {
+        "id":64,
+        "supermercado":"Jumbo",
+        "categoria":"Tarjeta Cencosud",
+        "imagen":"",
+        "descuento":"3 Cuotas Sin Interés 3 Cuotas Sin Interés (Lunes a Jueves)",
+        "descripcion": "VÁLIDO PRESENCIAL Y VIRTUAL | PROMOCIÓN VÁLIDA TODOS LOS LUNES, MARTES, MIÉRCOLES Y JUEVES PARA COMPRAS REALIZADAS CON TARJETA DE CRÉDITO CENCOSUD",
+        "masInfo":"PROMOCIÓN VÁLIDA DESDE EL 01/10/2024 AL 31/10/2024 PARA COMPRAS REALIZADAS CON TARJETA DE CRÉDITO FÍSICA CENCOSUD. ESTA PROMOCIÓN NO APLICA PARA CLIENTES EN MORA O INHABILITADOS, NI TAMPOCO PARA COMPRAS REALIZADAS EN LOCALES 'VEA EXPRESS'. (1) PROMOCIÓN VÁLIDA TODOS LOS LUNES, MARTES, MIÉRCOLES Y JUEVES EN LOS LOCALES HABILITADOS Y SITIOS WEB, OBTENIENDO SOLO 3 CUOTAS SIN INTERÉS EN TODA LA COMPRA. EXCLUYE ELECTRODOMÉSTICOS. ESTA PROMOCIÓN NO APLICA PARA CLIENTES EN MORA O INHABILITADOS. (1) PLAN 3: TASA NOMINAL ANUAL: 0,0%, TASA EFECTIVA ANUAL: 0,0%, COSTO FINANCIERO TOTAL NOMINAL ANUAL: 0,0%. SISTEMA FRANCÉS DE AMORTIZACIÓN MENSUAL EL COSTO FINANCIERO TOTAL SE EXPRESA COMO TASA NOMINAL ANUAL CORRESPONDIENTE AL FLUJO DE FONDOS CONSIDERADO. EL COSTO FINANCIERO TOTAL NOMINAL ANUAL NO INCLUYE LA COMISIÓN MENSUAL DE ADMINISTRACIÓN DE CUENTA NI COSTOS ASOCIADOS AL MANTENIMIENTO DE LA TARJETA. CONSULTE COMISIONES Y CARGOS VIGENTES ASOCIADOS A SU CUENTA AL 0810-9999-627 O EN CENCOPAY.AR/. CENCOSUD S.A. CUIT 30-59036076-3, SUIPACHA 1111, PISO 18, CABA (DOM. NO COMERCIAL)."
+    },
+    {
+        "id":65,
+        "supermercado":"Jumbo",
+        "categoria":"Tarjeta Cencosud",
+        "imagen":"",
+        "descuento":"3 y 6 cuotas sin interés RODADOS, MONOPATINES CON MOTOR, PARRILLAS Y MÁS. (Lunes a Sabado)",
+        "descripcion":"3 y 6 CUOTAS SIN INTERÉS EN RODADOS, MONOPATINES CON MOTOR, PARRILLAS, HERRAMIENTAS ELÉCTRICAS Y MUEBLES DE INTERIOR. EN LOS LOCALES HABILITADOS DE DEL PAIS, INCLUYE VENTA PRESENCIAL Y NO PRESENCIAL. ESTA PROMOCIÓN NO APLICA PARA CLIENTES EN MORA O INHABILITADOS.",
+        "masInfo":"PROMOCIÓN VÁLIDA DESDE EL 01/10/2024 AL 31/10/2024 PARA COMPRAS REALIZADAS CON TARJETA DE CRÉDITO FÍSICA CENCOSUD. ESTA PROMOCIÓN NO APLICA PARA CLIENTES EN MORA O INHABILITADOS, NI TAMPOCO PARA COMPRAS REALIZADAS EN LOCALES 'VEA EXPRESS Y DISCO EXPRESS'. (1) PROMOCIÓN VÁLIDA TODOS LOS DÍAS EN LOS LOCALES HABILITADOS Y SITIOS WEB, OBTENIENDO SOLO 3 Y 6 CUOTAS SIN INTERÉS EN RODADOS, MONOPATINES CON MOTOR, PARRILLAS, HERRAMIENTAS ELÉCTRICAS Y MUEBLES DE INTERIOR. (1) PLAN 3 Y 6: TASA NOMINAL ANUAL: 0,0%, TASA EFECTIVA ANUAL: 0,0%, COSTO FINANCIERO TOTAL NOMINAL ANUAL: 0,0%. SISTEMA FRANCÉS DE AMORTIZACIÓN MENSUAL EL COSTO FINANCIERO TOTAL SE EXPRESA COMO TASA NOMINAL ANUAL CORRESPONDIENTE AL FLUJO DE FONDOS CONSIDERADO. EL COSTO FINANCIERO TOTAL NOMINAL ANUAL NO INCLUYE LA COMISIÓN MENSUAL DE ADMINISTRACIÓN DE CUENTA NI COSTOS ASOCIADOS AL MANTENIMIENTO DE LA TARJETA. CONSULTE COMISIONES Y CARGOS VIGENTES ASOCIADOS A SU CUENTA AL 0810-9999-627 O EN CENCOPAY.AR/. CENCOSUD S.A. CUIT 30-59036076-3, SUIPACHA 1111, PISO 18, CABA (DOM. NO COMERCIAL)."
+    },
+    {
+        "id":66,
+        "supermercado":"Jumbo",
+        "categoria":"Tarjeta Cencosud",
+        "imagen":"",
+        "descuento":"6 cuotas sin interés EN JUGUETERÍA (Lunes a Sabado)",
+        "descripcion":"6 CUOTAS SIN INTERÉS EN JUGUETERÍA. INCLUYE VENTA PRESENCIAL Y NO PRESENCIAL. TODOS LOS DÍAS DEL MES DE SEPTIEMBRE EN LOS LOCALES HABILITADOS DEL PAÍS.",
+        "masInfo":"PROMOCIÓN VÁLIDA DESDE EL 01/10/2024 AL 31/10/2024 PARA COMPRAS REALIZADAS CON TARJETA DE CRÉDITO FÍSICA CENCOSUD. ESTA PROMOCIÓN NO APLICA PARA CLIENTES EN MORA O INHABILITADOS, NI TAMPOCO PARA COMPRAS REALIZADAS EN LOCALES 'VEA EXPRESS Y DISCO EXPRESS'. (1) PROMOCIÓN VÁLIDA TODOS LOS DÍAS EN LOS LOCALES HABILITADOS Y SITIOS WEB, OBTENIENDO SOLO 3 Y 6 CUOTAS SIN INTERÉS EN JUGUETERIA. (1) PLAN 3 Y 6: TASA NOMINAL ANUAL: 0,0%, TASA EFECTIVA ANUAL: 0,0%, COSTO FINANCIERO TOTAL NOMINAL ANUAL: 0,0%. SISTEMA FRANCÉS DE AMORTIZACIÓN MENSUAL EL COSTO FINANCIERO TOTAL SE EXPRESA COMO TASA NOMINAL ANUAL CORRESPONDIENTE AL FLUJO DE FONDOS CONSIDERADO. EL COSTO FINANCIERO TOTAL NOMINAL ANUAL NO INCLUYE LA COMISIÓN MENSUAL DE ADMINISTRACIÓN DE CUENTA NI COSTOS ASOCIADOS AL MANTENIMIENTO DE LA TARJETA. CONSULTE COMISIONES Y CARGOS VIGENTES ASOCIADOS A SU CUENTA AL 0810-9999-627 O EN CENCOPAY.AR/. CENCOSUD S.A. CUIT 30-59036076-3, SUIPACHA 1111, PISO 18, CABA (DOM. NO COMERCIAL)."
+    },
+    {
+        "id":67,
+        "supermercado":"Jumbo",
+        "categoria":"Planes de Financiación",
+        "imagen":"../../assets/img/jumbo/disco-ar-financiacion-banner-desk.png"
+    },
+    {
+        "id":68,
+        "supermercado":"Dia",
+        "categoria":"Día",
+        "subCategoria":"Lunes",
+        "imagen":"",
+        "descuento":"20% Dto Tope : $2.000 por Transaccion (Aplica online)",
+        "descripcion":"Tarjeta Prepaga. Del 01/06/2024 al 31/12/2024",
+        "masInfo":"PROMOCION VALIDA DEL 01 DE JUNIO DE 2024 AL 31 DE DICIEMBRE DE 2024 INCLUSIVE O HASTA AGOTAR STOCK, PAGANDO CON TARJETA VISA [PREPAGA EN COMPRAS REALIZADAS EN WWW.DIAONLINE.COM.AR . DESCUENTO DEL 20% EN LAS COMPRAS ABONADAS CON TARJETAS PREPAGAS Y REALIZADAS LOS DIAS LUNES Y JUEVES EN WWW.DIAONLINE.COM.AR CON TOPE DE $2.000 POR TRANSACCION. PROMOCION VALIDA PARA CREDENCIALES VISA PREPAGAS CONSULTE CON SU BANCO EMISOR OTROS CARGOS Y/O COMISIONES QUE RESULTAN APLICABLES A LA OPERATORIA EN CUOTAS. DIA ARGENTINA SA A CUIT 30-68584975-1, JUAN FRANCISCO SEGUI 4646, CABA, CP: C1425ADF. EL TITULAR DE DATOS PERSONALES TIENE LA FACULTAD DE EJERCER EL DERECHO DE ACCESO A LOS MISMOS EN FORMA GRATUITA A INTERVALOS NO INFERIORES A SEIS MESES, SALVO QUE SE ACREDITE UN INTERÉS LEGITIMO AL EFECTO, CONFORME LO ESTABLECIDO EN EL ARTICULO 14, INCISO 3 DE LA LEY N.º 25.326. LA AGENCIA DE ACCESO A LA INFORMACIÓN PUBLICA, TIENE LA ATRIBUCIÓN DE ATENDER LAS DENUNCIAS Y RECLAMOS QUE SE INTERPONGAN CON RELACIÓN AL INCUMPLIMIENTO DE LAS NORMAS SOBRE PROTECCIÓN DE DATOS PERSONALES. PARA CONTACTAR A LA AGENCIA DE ACCESO A LA INFORMACIÓN PUBLICA: AV. PTE. GRAL. JULIO A. ROCA 710, PISO 2 - CIUDAD AUTONOMA DE BUENOS AIRES, HTTPS://WWW.ARGENTINA.GOB.AR/AAIP, CORREO ELECTRÓNICO: INFO@AAIP.GOB.AR . SI DESEA DEJAR DE RECIBIR MENSAJES VÍA E-MAIL CON PUBLICIDAD INGRESE EN WWW.VISA.COM.AR, OPCIÓN VISA HOME / SOCIOS / + SERVICIOS / SERVICIO DE MENSAJES / SELECCIÓN DE MENSAJES Y HAGA CLICK EN DESACTIVAR EN EL AVISO DE NOVEDADES VISA."
+    },
+    {
+        "id":69,
+        "supermercado":"Dia",
+        "categoria":"Día",
+        "subCategoria":"Lunes",
+        "imagen":"",
+        "descuento":"20% Dto Tope $5.000 por transacción (Aplica online & Aplica tienda)",
+        "descripcion":"Para compras realizadas unicamente los dias Lunes y Viernes",
+        "masInfo":"CARTERA DE CONSUMO.VIGENCIA DESDE EL 01/10/2024 HASTA EL 31/10/2024 AMBAS FECHAS INCLUSIVE. PARA COMPRAS REALIZADAS ÚNICAMENTE LOS DIAS LUNES Y VIERNES EN LAS SUCURSALES DE SUPERMERCADOS DIA UBICADAS EN EL TERRITORIO DE LA REPÚBLICA ARGENTINA CON LAS TARJETAS DE CREDITO VISA Y MASTERCARD EMITIDAS POR BANCO COLUMBIA. 20% DE AHORRO EN COMPRAS EN UN PAGO, TOPE DE REINTEGRO $7000 (SIETE MIL PESOS) POR TRANSACCION. EJEMPLO: COMPRA REALIZADA EN 1 PAGO DE $1000 RECIBIRÁ UN REINTEGRO DE $200. LA BONIFICACIONES SE VERÁN REFLEJADAS HASTA EN LOS 2 RESÚMENES SIGUIENTES AL QUE REFLEJE LA/S TRANSACCIÓN/ES. BANCO COLUMBIA S.A. NO SE RESPONSABILIZA POR LAS TRANSACCIONES PRESENTADAS FUERA DE TÉRMINO POR LOS ESTABLECIMIENTOS ADHERIDOS. BANCO COLUMBIA S.A. NO SE RESPONSABILIZA POR LA CALIDAD Y FUNCIONAMIENTO DE PRODUCTOS PUBLICADOS. LOS BENEFICIOS DE LAS PROMOCIONES SE OTORGARÁN SIEMPRE QUE LAS TARJETAS DE CRÉDITO SE ENCUENTREN HABILITADAS, Y LA CUENTA NO SE ENCUENTRE EN MORA Y/O BLOQUEADA POR MOTIVOS ADMINISTRATIVOS."
+    },
+    {
+        "id":70,
+        "supermercado":"Dia",
+        "categoria":"Día",
+        "subCategoria":"Lunes",
+        "imagen":"",
+        "descuento":"10% Dto Tope : $1.000 por transaccion. (Aplica tienda)",
+        "descripcion":"Del 01/03/2023 al 31/10/2024",
+        "masInfo":"VALIDA PARA TODAS LAS TIENDAS DIA DEL PAÍS EXCEPTO LAS FRANQUICIAS TRADICIONALES (*). PROMOCIÓN ACUMULABLE CON LOS DESCUENTO DE FIDELIZACIÓN. EL DESCUENTO NO SE REALIZA EN LA LÍNEA DE CAJAS SINO QUE SE REINTEGRARÁ EN LA TARJETA DENTRO DE LOS 10 DÍAS HÁBILES DESDE LA FECHA DE COMPRA. ANSES LIMITARÁ SU RESPONSABILIDAD EXCLUSIVAMENTE A LA PROMOCIÓN, PUBLICIDAD Y DIFUSIÓN DE PRODUCTOS Y/O SERVICIOS OFERTADOS POR LOS COMERCIOS ADHERIDOS AL PROGRAMA DE BENEFICIOS ANSES. ANSES NO ES INTERMEDIARIO DE LA OFERTA Y NO SERÁ RESPONSABLE POR LOS DAÑOS Y PERJUICIOS QUE PUDIERAN SUFRIR LOS BENEFICIARIOS DEL PROGRAMA. ANSES PONDRÁ A DISPOSICIÓN DEL COMERCIO ADHERIDO UNA HERRAMIENTA EXCLUSIVAMENTE PROMOCIONAL PARA LA PROMOCIÓN DE SUS PRODUCTOS Y/O SERVICIOS; Y PARA LA VALIDACIÓN DE SUS CLIENTES COMO BENEFICIARIOS DEL PROGRAMA. ANSES NO SERÁ RESPONSABLE POR LA APLICACIÓN DE LOS DESCUENTOS PROMOCIONADOS. DICHA RESPONSABILIDAD SERÁ EXCLUSIVA DE LAS ADMINISTRADORAS DE MEDIOS DE PAGO ELECTRÓNICO Y/O BANCOS , SEGÚN LA MODALIDAD DE DESCUENTO EN LA QUE LOS COMERCIOS ADHERIDOS SE HUBIESEN ADHERIDO AL PROGRAMA. DIA ARGENTINA S.A., AV. RIVADAVIA 8875 1° PISO - CABA. (*) FRANQUICIAS TRADICIONALES NO INCLUIDAS: SAN MARTIN 399 - CALLE 158 N° 589/91 ENTRE 7 Y 8 - SAN PABLO 670 - MINISTRO SOJO 3228 - MANUEL BELGRANO 110 - URUGUAY 125. (**) EXCLUSIONES: PRESTACIONES DE PAGO ÚNICO, A SABER: SUCESIONES MAYORES A $1000 O HABERES DEVENGADOS POR SUCESIÓN (HABERES DEPOSITADOS CORRESPONDIENTES AL ACERVO HEREDITARIO DEL TITULAR FALLECIDO); ;RVP ANEXO III (AQUELLAS CUENTAS DE CAPITALIZACIÓN CUYOS BENEFICIARIOS HAYAN OPTADO POR LA RENTA VITALICIA PREVISIONAL; ;CAPRECOM (PRESTACIÓN COMPLEMENTARIA PERSONAL DE COMUNICACIONES CN N° 07/99) ; ; AAFF 614/13 (ASIGNACIONES FAMILIARES DERIVADAS POR OFICIO JUDICIAL; ;SUBSIDIO DE CONTENCIÓN FAMILIAR I (COBRO DE SUBSIDIO POR FALLECIMIENTO DEL TITULAR POR TERCEROS) ; ;SUBSIDIO DE CONTENCIÓN FAMILIAR II (COBRO DE SUBSIDIO POR FALLECIMIENTO DEL TITULAR POR TERCEROS); ;IAF PROVINCIAS NO TRANSFERIDAS ( BENEFICIOS CORRESPONDIENTES A PROVINCIAS CON RÉGIMEN PREVISIONAL PROVINCIAL)"
+    },
+    {
+        "id":71,
+        "supermercado":"Dia",
+        "categoria":"Día",
+        "subCategoria":"Lunes",
+        "imagen":"",
+        "descuento":"25% Dto Tope: $5.000 por acción y persona (Aplica tienda)",
+        "descripcion":"Vigencia: 14/10 y 15/10",
+        "masInfo":"Promoción válida los días lunes 14 y martes 15 de octubre del 2024, para compras realizadas a través de la funcionalidad 'Pago Clave DNI' y/o QR de la aplicación CUENTA DNI en supermercados e hipermercados adheridos. La nómina de adheridos se podrá consultar en WWW.BANCOPROVINCIA.COM.AR. Bonificación del 25%. Tope de reintegro unificado $5.000.- por acción y por persona. El tope aplicará considerando el total de compras realizadas por cuenta durante la acción semanal de la promoción, en todos los locales adheridos a la misma. El reintegro se verá reflejado en los movimientos de la cuenta asociada a Cuenta DNI dentro de los diez (10) días hábiles siguientes de realizada la compra. Válida únicamente para venta minorista, se excluyen de la promoción las bebidas con alcohol y electrodomésticos. No acumulable con otras promociones y/o descuentos vigentes. La promoción no aplica a compras realizadas con CUENTA DNI mediante la lectura del código QR de Mercado Pago u otras billeteras digitales, ni las abonadas con tarjeta de crédito VISA y/o MASTERCARD y/o VISA DÉBITO o transferencias a través de la aplicación. El descuento promocionado aplicará sobre el precio contado en concordancia con Resolución 51 y 240 /2017 Ministerio de Producción de la Nación Secretaría de Comercio. Ejemplos representativos: (1) Quien realice una compra de $1.000.- recibirá un reintegro de $250.- (2) Quien realice, en los días de la promoción, una compra de $15.000.- en 'comercio A' y una compra de $7.000.- en 'comercio B', recibirá un reintegro de $5.000.- Para más información comuníquese al 0810 666 2364. Banco de la Provincia de Buenos Aires. CUIT 33-99924210-9 Calle 7 N°726. La Plata. Buenos Aires. www.bancoprovincia.com.ar. CARTERA DE CONSUMO."
+        },
+
+        {
+            "id": 72,
+            "supermercado":"Dia",
+            "categoria":"Día",
+            "subCategoria":"Martes",
+            "imagen":"",
+            "descuento":"25% Dto Tope : $3.000 por dia (Aplica online)",
+            "descripcion":"Del 01/07/2024 al 31/10/2024",
+            "masInfo":"1.BENEFICIO: 25% (VEINTICINCO POR CIENTO) DE REINTEGRO EN COMPRAS REALIZADAS CON TARJETAS MASTERCARD PREX EMITIDAS EN LA REPÚBLICA ARGENTINA LOS DÍAS MARTES A TRAVÉS DE WWW.DIAONLINE.SUPERMERCADOSDIA.COM.AR Y APP DIA. 2. PROMOCIÓN VÁLIDA PARA LOS DÍAS MARTES DE ENERO A OCTUBRE DE 2024. 3. EL REINTEGRO APLICARÁ ÚNICAMENTE A LA PRIMERA TRANSACCIÓN DEL DÍA PROMOCIONADO, Y TENDRÁ UN TOPE DE $3.000.- (PESOS TRES MIL). VÁLIDO 1 (UNA) VEZ POR USUARIO, POR MARTES. 4. EL REINTEGRO SE VERÁ REFLEJADO EN EL ESTADO DE CUENTA DENTRO DE LOS (5) CINCO DÍAS HÁBILES SIGUIENTES A LA FECHA DE COMPRA. 5. EL BENEFICIO ES VÁLIDO EXCLUSIVAMENTE PARA CONSUMOS DE TIPO FAMILIAR, Y APLICARÁ A COMPRAS CON ENVÍO EXPRESS, CON ENVÍO PROGRAMADO Y CON RETIRO EN TIENDA. 6. SERÁ CONDICIÓN PARA LA APLICACIÓN DEL REINTEGRO QUE, AL MOMENTO DEL PAGO CON LA TARJETA MASTERCARD PREX EN EL SITIO WEB, EL USUARIO ELIJA “TARJETA DE DÉBITO” COMO FORMA DE PAGO DE SU COMPRA. 7. PREX NO ES RESPONSABLE DE MANERA ALGUNA POR LOS PRODUCTOS O SERVICIOS A LOS CUALES SE ACCEDE A TRAVÉS DE LA PROMOCIÓN. COMO ASÍ, TAMPOCO ES RESPONSABLE POR LA DEMORA DE ENTREGA DE LOS PRODUCTOS Y/O SERVICIOS. 8. LA MERA PARTICIPACIÓN EN LA PROMOCIÓN IMPLICA CONOCIMIENTO Y ACEPTACIÓN DE ESTAS BASES Y CONDICIONES. EN CONSECUENCIA, PREX NO SERÁ RESPONSABLE, EN NINGÚN CASO, DE RECLAMOS QUE TUVIERE COMO FUNDAMENTO LA FALTA DE INFORMACIÓN O EL MANEJO DE INFORMACIÓN DESACTUALIZADA. 9. TODOS LOS RECLAMOS RELEVANTES A LA PROMOCIÓN DEBEN REALIZARSE CON EL TICKET DE LA OPERACIÓN, PROPORCIONADO POR EL COMERCIO."
+        },
+        {
+            "id":73,
+            "supermercado":"Dia",
+            "categoria":"Día",
+            "subCategoria":"Martes",
+            "imagen":"",
+            "descuento":"25% Dto y 30% Dto $5.000 por mes (clientes comunes) o $6.000 por mes (clientes plan sueldo) (Aplica tienda % aplica online)",
+            "descripcion":"Del 01/02/2024 al 31/12/2024. 'Tarjeta de Débito.'",
+            "masInfo":"CARTERA DE CONSUMO. LA PRESENTE ACCIÓN PROMOCIONAL ES ORGANIZADA POR BANCO DEL SOL S.A., CUIT N° 30-67793756-0, CON DOMICILIO EN AV. LEANDRO N. ALEM 1058, PB, CIUDAD AUTÓNOMA DE BUENOS AIRES (EN ADELANTE «EL BANCO” O “BDS»). PROMOCIÓN EXCLUSIVA PARA CLIENTES DE BDS QUE SE HAYAN REGISTRADO A TRAVÉS DE LA APLICACIÓN DEL BANCO Y QUE REALICEN COMPRAS CON LA TARJETA DE DÉBITO EMITIDA POR EL BANCO, LOS DÍAS MARTES DESDE LAS 00:00HS DEL 01/10/2024, HASTA LAS 23:59HS DEL 31/12/2024, AMBAS INCLUSIVE (EN ADELANTE EL “PLAZO”), EN COMERCIOS ADHERIDOS. LA PROMOCIÓN CONSISTIRÁ, PARA LA CARTERA GENERAL, EN UN DESCUENTO DEL 25% (VEINTICINCO POR CIENTO), EL CUAL SE REALIZARÁ POR REINTEGRO, CON UN TOPE MENSUAL DE $ 5.000 (CINCO MIL PESOS) POR CLIENTE POR MES. POR EJEMPLO, SI UN CLIENTE REALIZA UNA COMPRA DE $40.000 (CUARENTA MIL PESOS), RECIBIRÁ UN REINTEGRO DE $5.000 (CINCO MIL PESOS. NO ACUMULABLE CON OTROS BENEFICIOS Y/O PROMOCIONES VIGENTES. NO APLICA SOBRE PRODUCTOS INCLUIDOS EN PROGRAMAS GUBERNAMENTALES. QUEDAN EXCLUIDOS DE PARTICIPAR, AQUELLOS CLIENTES CUYAS CUENTAS SE ENCUENTREN EN MORA Y/O BLOQUEADAS POR CUALQUIER MOTIVO. LA PROMOCIÓN NO APLICA A PAGOS A TRAVÉS DE BILLETERAS VIRTUALES, PLATAFORMAS DE PAGO Y/O PORTALES DE PAGO ONLINE. EN CASO DE CONSULTAS O RECLAMOS, DEBERÁN COMUNICARSE A TRAVÉS DE LOS CANALES DE CONTACTO DISPONIBLES POR EL BANCO. LOS PRESENTES TÉRMINOS Y CONDICIONES SE ENCUENTRAN DISPONIBLES EN HTTPS://WWW.BANCODELSOL.COM"
+
+        },
+        {
+            "id":74,
+            "supermercado":"Dia",
+            "categoria":"Día",
+            "subCategoria":"Martes",
+            "imagen":"",
+            "descuento":"20% Dto Tope : $3.000 por compra (Aplica Tienda)",
+            "descripcion":"Del 01/05/2023 al 31/10/2024 . Tarjeta de débito.",
+            "masInfo":"PROMOCIONES VÁLIDAS PARA COMPRAS REALIZADAS ENTRE EL 01/01/2024 Y EL 31/10/2024. EL BENEFICIO EN LAS SUCURSALES DE SUPERMERCADOS DIA ES EXCLUSIVO PARA USUARIOS DE TARJETAS CABAL DÉBITO EMITIDAS POR BANCO CREDICOOP CL, EXCEPTO AGROCABAL Y CABAL MAYORISTA, PARA COMPRAS EFECTUADAS LOS DÍAS MARTES. EL PORCENTAJE DE AHORRO SERÁ DEL 20%, Y EL REINTEGRO TENDRÁ UN TOPE DE $ 3.000. EJEMPLO: EN UN CONSUMO DE $ 20.000.- DE PRODUCTOS INCLUIDOS EN LA PROMOCIÓN, SE REINTEGRARÁN $ 3.000.- (TOPE MÁXIMO DE REINTEGRO). BENEFICIOS VÁLIDOS PARA CONSUMOS DE TIPO FAMILIAR. NO PARTICIPAN DE LAS PRESENTES PROMOCIONES LOS PRODUCTOS DEL RUBRO ELECTRO NI LOS CONSUMOS REALIZADOS A TRAVÉS DE BILLETERAS VIRTUALES Y/O POS MÓVILES. SERÁ CONDICIÓN ESENCIAL PARA PARTICIPAR DE LAS MISMAS QUE, AL MOMENTO DE EFECTUAR EL REINTEGRO, LA CUENTA BANCARIA VINCULADA A LA TARJETA Y DE LA CUAL SE REALICE EL DÉBITO DE LAS COMPRAS CORRESPONDIENTES SE ENCUENTRE ABIERTA. MÁS INFORMACIÓN EN WWW.BANCOCREDICOOP.COOP. PROMOCIONES APLICABLES A LA CARTERA DE CONSUMO. BANCO CREDICOOP COOP. LTDO., RECONQUISTA 484, (1003) CABA. CUIT: 30-57142135-2. CREDICOOP RESPONDE 0810-888-4500. DIA ARGENTINA S.A., AV. RIVADAVIA 8875, PISO 1 (1407) CABA, CUIT: 30-68584975-1, AT. CLIENTE 0810-222-5316."
+        },
+        {
+            "id":75,
+            "supermercado":"Dia",
+            "categoria":"Día",
+            "subCategoria":"Martes",
+            "imagen":"",
+            "descuento":"10% Dto Tope : $1.000 por transaccion.(Aplica tienda)",
+            "descripcion":"Del 01/03/2023 al 31/10/2024",
+            "masInfo":"VALIDA PARA TODAS LAS TIENDAS DIA DEL PAÍS EXCEPTO LAS FRANQUICIAS TRADICIONALES (*). PROMOCIÓN ACUMULABLE CON LOS DESCUENTO DE FIDELIZACIÓN. EL DESCUENTO NO SE REALIZA EN LA LÍNEA DE CAJAS SINO QUE SE REINTEGRARÁ EN LA TARJETA DENTRO DE LOS 10 DÍAS HÁBILES DESDE LA FECHA DE COMPRA. ANSES LIMITARÁ SU RESPONSABILIDAD EXCLUSIVAMENTE A LA PROMOCIÓN, PUBLICIDAD Y DIFUSIÓN DE PRODUCTOS Y/O SERVICIOS OFERTADOS POR LOS COMERCIOS ADHERIDOS AL PROGRAMA DE BENEFICIOS ANSES. ANSES NO ES INTERMEDIARIO DE LA OFERTA Y NO SERÁ RESPONSABLE POR LOS DAÑOS Y PERJUICIOS QUE PUDIERAN SUFRIR LOS BENEFICIARIOS DEL PROGRAMA. ANSES PONDRÁ A DISPOSICIÓN DEL COMERCIO ADHERIDO UNA HERRAMIENTA EXCLUSIVAMENTE PROMOCIONAL PARA LA PROMOCIÓN DE SUS PRODUCTOS Y/O SERVICIOS; Y PARA LA VALIDACIÓN DE SUS CLIENTES COMO BENEFICIARIOS DEL PROGRAMA. ANSES NO SERÁ RESPONSABLE POR LA APLICACIÓN DE LOS DESCUENTOS PROMOCIONADOS. DICHA RESPONSABILIDAD SERÁ EXCLUSIVA DE LAS ADMINISTRADORAS DE MEDIOS DE PAGO ELECTRÓNICO Y/O BANCOS , SEGÚN LA MODALIDAD DE DESCUENTO EN LA QUE LOS COMERCIOS ADHERIDOS SE HUBIESEN ADHERIDO AL PROGRAMA. DIA ARGENTINA S.A., AV. RIVADAVIA 8875 1° PISO - CABA. (*) FRANQUICIAS TRADICIONALES NO INCLUIDAS: SAN MARTIN 399 - CALLE 158 N° 589/91 ENTRE 7 Y 8 - SAN PABLO 670 - MINISTRO SOJO 3228 - MANUEL BELGRANO 110 - URUGUAY 125. (**) EXCLUSIONES: PRESTACIONES DE PAGO ÚNICO, A SABER: SUCESIONES MAYORES A $1000 O HABERES DEVENGADOS POR SUCESIÓN (HABERES DEPOSITADOS CORRESPONDIENTES AL ACERVO HEREDITARIO DEL TITULAR FALLECIDO); ;RVP ANEXO III (AQUELLAS CUENTAS DE CAPITALIZACIÓN CUYOS BENEFICIARIOS HAYAN OPTADO POR LA RENTA VITALICIA PREVISIONAL; ;CAPRECOM (PRESTACIÓN COMPLEMENTARIA PERSONAL DE COMUNICACIONES CN N° 07/99) ; ; AAFF 614/13 (ASIGNACIONES FAMILIARES DERIVADAS POR OFICIO JUDICIAL; ;SUBSIDIO DE CONTENCIÓN FAMILIAR I (COBRO DE SUBSIDIO POR FALLECIMIENTO DEL TITULAR POR TERCEROS) ; ;SUBSIDIO DE CONTENCIÓN FAMILIAR II (COBRO DE SUBSIDIO POR FALLECIMIENTO DEL TITULAR POR TERCEROS); ;IAF PROVINCIAS NO TRANSFERIDAS ( BENEFICIOS CORRESPONDIENTES A PROVINCIAS CON RÉGIMEN PREVISIONAL PROVINCIAL)"
+        },
+        {
+            "id":76,
+            "supermercado":"Dia",
+            "categoria":"Día",
+            "subCategoria":"Martes",
+            "imagen":"",
+            "descuento":"25% Dto Tope: $5.000 por acción y persona Vigencia: 14/10 y 15/10 (Aplica tienda)",
+            "masInfo":"Promoción válida los días lunes 14 y martes 15 de octubre del 2024, para compras realizadas a través de la funcionalidad 'Pago Clave DNI' y/o QR de la aplicación CUENTA DNI en supermercados e hipermercados adheridos. La nómina de adheridos se podrá consultar en WWW.BANCOPROVINCIA.COM.AR. Bonificación del 25%. Tope de reintegro unificado $5.000.- por acción y por persona. El tope aplicará considerando el total de compras realizadas por cuenta durante la acción semanal de la promoción, en todos los locales adheridos a la misma. El reintegro se verá reflejado en los movimientos de la cuenta asociada a Cuenta DNI dentro de los diez (10) días hábiles siguientes de realizada la compra. Válida únicamente para venta minorista, se excluyen de la promoción las bebidas con alcohol y electrodomésticos. No acumulable con otras promociones y/o descuentos vigentes. La promoción no aplica a compras realizadas con CUENTA DNI mediante la lectura del código QR de Mercado Pago u otras billeteras digitales, ni las abonadas con tarjeta de crédito VISA y/o MASTERCARD y/o VISA DÉBITO o transferencias a través de la aplicación. El descuento promocionado aplicará sobre el precio contado en concordancia con Resolución 51 y 240 /2017 Ministerio de Producción de la Nación Secretaría de Comercio. Ejemplos representativos: (1) Quien realice una compra de $1.000.- recibirá un reintegro de $250.- (2) Quien realice, en los días de la promoción, una compra de $15.000.- en 'comercio A' y una compra de $7.000.- en 'comercio B', recibirá un reintegro de $5.000.- Para más información comuníquese al 0810 666 2364. Banco de la Provincia de Buenos Aires. CUIT 33-99924210-9 Calle 7 N°726. La Plata. Buenos Aires. www.bancoprovincia.com.ar. CARTERA DE CONSUMO."
+        },
+        {
+            "id":77,
+            "supermercado":"Dia",
+            "categoria":"Día",
+            "subCategoria":"Miercoles",
+            "imagen":"",
+            "descuento":"30% Dto Tope : $10.000 en la primera compra (Aplica online)",
+            "descripcion":"Comprando con crédito vía MODO los miércoles.",
+            "masInfo":"PROMOCIÓN VÁLIDA PARA LAS COMPRAS REALIZADAS LOS DÍAS MIÉRCOLES COMPRENDIDOS DESDE EL 01/07/2024 HASTA EL 31/12/2024 PARA COMPRAS ABONADAS EN UN PAGO CON TARJETAS DE CRÉDITO VISA Y MASTERCARD DEL BANCO NACIÓN VÍA MODO EN EL SITIO WWW.DIAONLINE.COM.AR. TOPE DE REINTEGRO: $ 10.000 POR CUENTA, APLICABLE EN LA PRIMERA TRANSACCIÓN REALIZABLE DURANTE LA VIGENCIA DE LA PROMOCIÓN. EXCLUYE TARJETAS CORPORATIVAS Y/O PREPAGAS. EL DESCUENTO SE VERÁ COMO UN AJUSTE DE CRÉDITO EN EL RESUMEN DE CUENTA DONDE SE VISUALICE EL IMPORTE DE LA COMPRA O EN HASTA DOS RESÚMENES POSTERIORES PARA COMPRAS. EXCLUSIVO CARTERA DE CONSUMO Y PARA LAS COMPRAS DE LA CANASTA FAMILIAR. EXCLUYE VERSIONES CORPORATIVA. EL BANCO NACIÓN NO SE RESPONSABILIZA POR LA CALIDAD DE LOS PRODUCTOS ADQUIRIDOS. CONSULTÁ CONDICIONES Y COMERCIOS ADHERIDOS EN WWW.BNA.COM.AR. SE EXCLUYE EL RUBRO ELECTRO. DIA ARGENTINA S.A CON DOMICILIO LEGAL EN AV. RIVADAVIA 8875 PISO 1, CABA Y BANCO DE LA NACIÓN ARGENTINA CON DOMICILIO LEGAL EN MITRE 326, CABA"
+        },
+        {
+            "id":78,
+            "supermercado":"Dia",
+            "categoria":"Día",
+            "subCategoria":"Miercoles",
+            "imagen":"",
+            "descuento":"15% Dto Minimo de Compra : $15.000 por usuario. Sin Tope (Aplica tienda)",
+            "descripcion":"Para compras realizadas unicamente los dias Miercoles",
+            "masInfo":"BENEFICIO VÁLIDO EN MERCADO PAGO DE ARGENTINA DEL 01/10/2024 AL 31/10/2024, INCLUYENDO AMBAS FECHAS, PARA PAGOS REALIZADOS A TRAVÉS DEL SERVICIO DE GESTIÓN DE PAGOS DE MERCADO PAGO. EL BENEFICIO CONSISTE EN 15% EN PRODUCTOS O SERVICIOS SELECCIONADOS, CON UN PAGO MÍNIMO DE $ 15.000. DESCUENTO CUMULATIVO CON OTRAS PROMOCIONES Y/O BENEFICIOS VIGENTES EN LOS COMERCIOS. APLICA UNICAMENTE 1 DESCUENTO POR USUSARIO POR MIERCOLES QUE SE EJECUTARÁ EN LA PRIMERA COMPRA DEL DÍA. MERCADO PAGO NO ES UNA INSTITUCIÓN FINANCIERA. LOS FONDOS EN CUENTAS DE PAGO NO SON INGRESOS GARANTIZADOS. MERCADOLIBRE S.R.L. ARIAS 3751 PISO 7MO, 1430 CIUDAD AUTÓNOMA DE BUENOS AIRES, ARGENTINA."
+        },
+        {
+            "id":79,
+            "supermercado":"Dia",
+            "categoria":"Día",
+            "subCategoria":"Jueves",
+            "imagen":"",
+            "descuento":"20% Dto Tope : $2.000 por Transaccion (Aplica Online)",
+            "descripcion":"Tarjeta Prepaga. Del 01/06/2024 al 31/12/2024",
+            "masInfo":"PROMOCION VALIDA DEL 01 DE JUNIO DE 2024 AL 31 DE DICIEMBRE DE 2024 INCLUSIVE O HASTA AGOTAR STOCK, PAGANDO CON TARJETA VISA [PREPAGA EN COMPRAS REALIZADAS EN WWW.DIAONLINE.COM.AR . DESCUENTO DEL 20% EN LAS COMPRAS ABONADAS CON TARJETAS PREPAGAS Y REALIZADAS LOS DIAS LUNES Y JUEVES EN WWW.DIAONLINE.COM.AR CON TOPE DE $2.000 POR TRANSACCION. PROMOCION VALIDA PARA CREDENCIALES VISA PREPAGAS CONSULTE CON SU BANCO EMISOR OTROS CARGOS Y/O COMISIONES QUE RESULTAN APLICABLES A LA OPERATORIA EN CUOTAS. DIA ARGENTINA SA A CUIT 30-68584975-1, JUAN FRANCISCO SEGUI 4646, CABA, CP: C1425ADF. EL TITULAR DE DATOS PERSONALES TIENE LA FACULTAD DE EJERCER EL DERECHO DE ACCESO A LOS MISMOS EN FORMA GRATUITA A INTERVALOS NO INFERIORES A SEIS MESES, SALVO QUE SE ACREDITE UN INTERÉS LEGITIMO AL EFECTO, CONFORME LO ESTABLECIDO EN EL ARTICULO 14, INCISO 3 DE LA LEY N.º 25.326. LA AGENCIA DE ACCESO A LA INFORMACIÓN PUBLICA, TIENE LA ATRIBUCIÓN DE ATENDER LAS DENUNCIAS Y RECLAMOS QUE SE INTERPONGAN CON RELACIÓN AL INCUMPLIMIENTO DE LAS NORMAS SOBRE PROTECCIÓN DE DATOS PERSONALES. PARA CONTACTAR A LA AGENCIA DE ACCESO A LA INFORMACIÓN PUBLICA: AV. PTE. GRAL. JULIO A. ROCA 710, PISO 2 - CIUDAD AUTONOMA DE BUENOS AIRES, HTTPS://WWW.ARGENTINA.GOB.AR/AAIP, CORREO ELECTRÓNICO: INFO@AAIP.GOB.AR . SI DESEA DEJAR DE RECIBIR MENSAJES VÍA E-MAIL CON PUBLICIDAD INGRESE EN WWW.VISA.COM.AR, OPCIÓN VISA HOME / SOCIOS / + SERVICIOS / SERVICIO DE MENSAJES / SELECCIÓN DE MENSAJES Y HAGA CLICK EN DESACTIVAR EN EL AVISO DE NOVEDADES VISA."
+        },
+        {
+            "id":80,
+            "supermercado":"Dia",
+            "categoria":"Día",
+            "subCategoria":"Jueves",
+            "imagen":"",
+            "descuento":"25% Dto Tope : $15.000 Mensual (Aplica online)",
+            "descripcion":"Del 101/09/2024 al 31/10/2024 Tarjeta Visa Credito. Comprando los dias Jueves.",
+            "masInfo":"CARTERA DE CONSUMO. PROMOCIÓN DEL 25% DE AHORRO EN COMPRAS REALIZADAS EN EL PAÍS, EN UN PAGO SOBRE EL PRECIO DE CONTADO. TOPE DE REINTEGRO: $15.000 EN TOTAL POR MES. INCLUYE COMPRAS CON TARJETAS ADICIONALES. VÁLIDA PARA TODOS LOS JUEVES COMPRENDIDOS ENTRE EL 01/09/2024 AL 31/10/2024, PARA COMPRAS REALIZADAS CON TARJETA GALICIA VISA CREDITO. PROMOCIÓN VALIDA ÚNICAMENTE PARA COMPRAS REALIZADAS EN EL SITIO WEB: WWW.DIAONLINE.COM.AR. PARA TARJETAS GALICIA VISA CRÉDITO APLICA SOLO PARA LAS COMPRAS REALIZADAS LOS JUEVES, DURANTE LA VIGENCIA DE LA PROMOCIÓN. EL IMPORTE AHORRADO SE ACREDITARÁ DENTRO DE LOS 10 DÍAS HÁBILES POSTERIORES A LA COMPRA EN LA CAJA DE AHORRO COMÚN. PARA ACCEDER A LA PROMOCIÓN, EL PARTICIPANTE DEBERÁ TENER ABIERTA UNA CAJA DE AHORRO COMÚN EN EL BANCO, EN DONDE SE ACREDITARÁ EL MONTO DEL REINTEGRO. SI EL CLIENTE TUVIERA MÁS DE UNA CUENTA, EL CRÉDITO SE REALIZARÁ EN CUALQUIERA DE ELLAS A ELECCIÓN DEL BANCO. PROMOCIÓN VÁLIDA ÚNICAMENTE PARA COMPRAS REALIZADAS EN 1 PAGO. DICHA PROMOCIÓN NO ES ACUMULABLE CON OTRAS PROMOCIONES VIGENTES. EL BENEFICIO NO APLICA A LAS CATEGORÍAS: TECNOLOGÍA, BAZAR, TEXTIL Y ELECTRO. EJEMPLO: EN UNA COMPRA DE $1000 EN UN PAGO: EL IMPORTE DEL AHORRO ES DE $250. LA PROMOCIÓN NO APLICA A PAGOS A TRAVÉS DE BILLETERAS VIRTUALES (EXCEPTO MODO), MPOS Y/O PLATAFORMAS DE PAGO ONLINE. MODO ES MARCA REGISTRADA POR PLAY DIGITAL S.A., CUIT 30-71682943-6, CON DOMICILIO EN AV. DEL LIBERTADOR 7208, TORRE II, PISO 4, CABA (“PDSA”) Y ES UN PROVEEDOR DE SERVICIOS TECNOLÓGICOS DE BANCO DE GALICIA Y BUENOS AIRES S.A.U. SÓLO PODRÁN PARTICIPAR DE LA PROMOCIÓN AQUELLOS CLIENTES QUE AL MOMENTO DE COMPRAR SE ENCUENTREN AL DÍA CON SUS PRODUCTOS. BANCO GALICIA SOLO ES EL MEDIO DE PAGO PARA LA ADQUISICIÓN DEL PRODUCTO/SERVICIO CARTERA DE CONSUMO. PROMOCIÓN DEL 30% DE AHORRO EN COMPRAS REALIZADAS EN EL PAÍS, EN UN PAGO SOBRE EL PRECIO DE CONTADO, PARA CLIENTES EMINENT. TOPE DE REINTEGRO: 20.000 EN TOTAL POR MES. INCLUYE COMPRAS CON TARJETAS ADICIONALES. VÁLIDA PARA TODOS LOS JUEVES COMPRENDIDOS ENTRE EL 01/09/2024 AL 31/10/2024, PARA COMPRAS REALIZADAS CON TARJETA GALICIA VISA CREDITO. PROMOCIÓN VALIDA ÚNICAMENTE PARA COMPRAS REALIZADAS EN EL SITIO WEB: WWW.DIAONLINE.COM.AR. PARA TARJETAS GALICIA VISA CRÉDITO APLICA SOLO PARA LAS COMPRAS REALIZADAS LOS JUEVES, DURANTE LA VIGENCIA DE LA PROMOCIÓN. EL IMPORTE AHORRADO SE ACREDITARÁ DENTRO DE LOS 10 DÍAS HÁBILES POSTERIORES A LA COMPRA EN LA CAJA DE AHORRO COMÚN. PARA ACCEDER A LA PROMOCIÓN, EL PARTICIPANTE DEBERÁ TENER ABIERTA UNA CAJA DE AHORRO COMÚN EN EL BANCO, EN DONDE SE ACREDITARÁ EL MONTO DEL REINTEGRO. SI EL CLIENTE TUVIERA MÁS DE UNA CUENTA, EL CRÉDITO SE REALIZARÁ EN CUALQUIERA DE ELLAS A ELECCIÓN DEL BANCO. PROMOCIÓN VÁLIDA ÚNICAMENTE PARA COMPRAS REALIZADAS EN 1 PAGO. DICHA PROMOCIÓN NO ES ACUMULABLE CON OTRAS PROMOCIONES VIGENTES. EL BENEFICIO NO APLICA A LAS CATEGORÍAS: TECNOLOGÍA, BAZAR, TEXTIL Y ELECTRO. EJEMPLO: EN UNA COMPRA DE $1000 EN UN PAGO: EL IMPORTE DEL AHORRO ES DE $300. LA PROMOCIÓN NO APLICA A PAGOS A TRAVÉS DE BILLETERAS VIRTUALES (EXCEPTO MODO), MPOS Y/O PLATAFORMAS DE PAGO ONLINE. MODO ES MARCA REGISTRADA POR PLAY DIGITAL S.A., CUIT 30-71682943-6, CON DOMICILIO EN AV. DEL LIBERTADOR 7208, TORRE II, PISO 4, CABA (“PDSA”) Y ES UN PROVEEDOR DE SERVICIOS TECNOLÓGICOS DE BANCO DE GALICIA Y BUENOS AIRES S.A.U. SÓLO PODRÁN PARTICIPAR DE LA PROMOCIÓN AQUELLOS CLIENTES QUE AL MOMENTO DE COMPRAR SE ENCUENTREN AL DÍA CON SUS PRODUCTOS. BANCO GALICIA SOLO ES EL MEDIO DE PAGO PARA LA ADQUISICIÓN DEL PRODUCTO/SERVICIO."
+        },
+        {
+            "id":81,
+            "supermercado":"Dia",
+            "categoria":"Día",
+            "subCategoria":"Jueves",
+            "imagen":"",
+            "descuento":"30% Dto Tope : $20.000 Mensual (Aplica online)",
+            "descripcion":"Del 01/09/2024 al 31/10/2024 . Visa Credito Eminent. Comprando los dias Jueves.",
+            "masInfo":"CARTERA DE CONSUMO. PROMOCIÓN DEL 25% DE AHORRO EN COMPRAS REALIZADAS EN EL PAÍS, EN UN PAGO SOBRE EL PRECIO DE CONTADO. TOPE DE REINTEGRO: $15.000 EN TOTAL POR MES. INCLUYE COMPRAS CON TARJETAS ADICIONALES. VÁLIDA PARA TODOS LOS JUEVES COMPRENDIDOS ENTRE EL 01/09/2024 AL 31/10/2024, PARA COMPRAS REALIZADAS CON TARJETA GALICIA VISA CREDITO. PROMOCIÓN VALIDA ÚNICAMENTE PARA COMPRAS REALIZADAS EN EL SITIO WEB: WWW.DIAONLINE.COM.AR. PARA TARJETAS GALICIA VISA CRÉDITO APLICA SOLO PARA LAS COMPRAS REALIZADAS LOS JUEVES, DURANTE LA VIGENCIA DE LA PROMOCIÓN. EL IMPORTE AHORRADO SE ACREDITARÁ DENTRO DE LOS 10 DÍAS HÁBILES POSTERIORES A LA COMPRA EN LA CAJA DE AHORRO COMÚN. PARA ACCEDER A LA PROMOCIÓN, EL PARTICIPANTE DEBERÁ TENER ABIERTA UNA CAJA DE AHORRO COMÚN EN EL BANCO, EN DONDE SE ACREDITARÁ EL MONTO DEL REINTEGRO. SI EL CLIENTE TUVIERA MÁS DE UNA CUENTA, EL CRÉDITO SE REALIZARÁ EN CUALQUIERA DE ELLAS A ELECCIÓN DEL BANCO. PROMOCIÓN VÁLIDA ÚNICAMENTE PARA COMPRAS REALIZADAS EN 1 PAGO. DICHA PROMOCIÓN NO ES ACUMULABLE CON OTRAS PROMOCIONES VIGENTES. EL BENEFICIO NO APLICA A LAS CATEGORÍAS: TECNOLOGÍA, BAZAR, TEXTIL Y ELECTRO. EJEMPLO: EN UNA COMPRA DE $1000 EN UN PAGO: EL IMPORTE DEL AHORRO ES DE $250. LA PROMOCIÓN NO APLICA A PAGOS A TRAVÉS DE BILLETERAS VIRTUALES (EXCEPTO MODO), MPOS Y/O PLATAFORMAS DE PAGO ONLINE. MODO ES MARCA REGISTRADA POR PLAY DIGITAL S.A., CUIT 30-71682943-6, CON DOMICILIO EN AV. DEL LIBERTADOR 7208, TORRE II, PISO 4, CABA (“PDSA”) Y ES UN PROVEEDOR DE SERVICIOS TECNOLÓGICOS DE BANCO DE GALICIA Y BUENOS AIRES S.A.U. SÓLO PODRÁN PARTICIPAR DE LA PROMOCIÓN AQUELLOS CLIENTES QUE AL MOMENTO DE COMPRAR SE ENCUENTREN AL DÍA CON SUS PRODUCTOS. BANCO GALICIA SOLO ES EL MEDIO DE PAGO PARA LA ADQUISICIÓN DEL PRODUCTO/SERVICIO CARTERA DE CONSUMO. PROMOCIÓN DEL 30% DE AHORRO EN COMPRAS REALIZADAS EN EL PAÍS, EN UN PAGO SOBRE EL PRECIO DE CONTADO, PARA CLIENTES EMINENT. TOPE DE REINTEGRO: 20.000 EN TOTAL POR MES. INCLUYE COMPRAS CON TARJETAS ADICIONALES. VÁLIDA PARA TODOS LOS JUEVES COMPRENDIDOS ENTRE EL 01/09/2024 AL 31/10/2024, PARA COMPRAS REALIZADAS CON TARJETA GALICIA VISA CREDITO. PROMOCIÓN VALIDA ÚNICAMENTE PARA COMPRAS REALIZADAS EN EL SITIO WEB: WWW.DIAONLINE.COM.AR. PARA TARJETAS GALICIA VISA CRÉDITO APLICA SOLO PARA LAS COMPRAS REALIZADAS LOS JUEVES, DURANTE LA VIGENCIA DE LA PROMOCIÓN. EL IMPORTE AHORRADO SE ACREDITARÁ DENTRO DE LOS 10 DÍAS HÁBILES POSTERIORES A LA COMPRA EN LA CAJA DE AHORRO COMÚN. PARA ACCEDER A LA PROMOCIÓN, EL PARTICIPANTE DEBERÁ TENER ABIERTA UNA CAJA DE AHORRO COMÚN EN EL BANCO, EN DONDE SE ACREDITARÁ EL MONTO DEL REINTEGRO. SI EL CLIENTE TUVIERA MÁS DE UNA CUENTA, EL CRÉDITO SE REALIZARÁ EN CUALQUIERA DE ELLAS A ELECCIÓN DEL BANCO. PROMOCIÓN VÁLIDA ÚNICAMENTE PARA COMPRAS REALIZADAS EN 1 PAGO. DICHA PROMOCIÓN NO ES ACUMULABLE CON OTRAS PROMOCIONES VIGENTES. EL BENEFICIO NO APLICA A LAS CATEGORÍAS: TECNOLOGÍA, BAZAR, TEXTIL Y ELECTRO. EJEMPLO: EN UNA COMPRA DE $1000 EN UN PAGO: EL IMPORTE DEL AHORRO ES DE $300. LA PROMOCIÓN NO APLICA A PAGOS A TRAVÉS DE BILLETERAS VIRTUALES (EXCEPTO MODO), MPOS Y/O PLATAFORMAS DE PAGO ONLINE. MODO ES MARCA REGISTRADA POR PLAY DIGITAL S.A., CUIT 30-71682943-6, CON DOMICILIO EN AV. DEL LIBERTADOR 7208, TORRE II, PISO 4, CABA (“PDSA”) Y ES UN PROVEEDOR DE SERVICIOS TECNOLÓGICOS DE BANCO DE GALICIA Y BUENOS AIRES S.A.U. SÓLO PODRÁN PARTICIPAR DE LA PROMOCIÓN AQUELLOS CLIENTES QUE AL MOMENTO DE COMPRAR SE ENCUENTREN AL DÍA CON SUS PRODUCTOS. BANCO GALICIA SOLO ES EL MEDIO DE PAGO PARA LA ADQUISICIÓN DEL PRODUCTO/SERVICIO."
+        },
+        {
+            "id":82,
+            "supermercado":"Dia",
+            "categoria":"Día",
+            "subCategoria":"Jueves",
+            "imagen":"",
+            "descuento":"3 cuotas sin interés Pagando con Visa y Mastercard (Aplica online & Aplica tienda)",
+            "descripcion":"Del 05/09/2024 al 01/12/2024",
+            "masInfo":"CARTERA DE CONSUMO. TASA NOMINAL ANUAL, EN ADELANTE 'TNA': 0,00%, TASA EFECTIVA ANUAL, EN ADELANTE 'TEA': 0,00%, COSTO FINANCIERO TOTAL EFECTIVO ANUAL, EN ADELANTE 'CFTEA': 0,00%.'CFTEA'+IVA: 0,00%. PROMOCIÓN DE HASTA 3 CUOTAS SIN INTERÉS EN EL PRECIO DE CONTADO, PARA COMPRAS REALIZADAS EN EL PAÍS. VÁLIDA PARA LOS DÍAS COMPRENDIDOS ENTRE EL 05/09/2024 Y EL 01/12/2024, PARA COMPRAS REALIZADAS CON TARJETA VISA, TARJETA MASTERCARD. PROMOCIÓN VALIDA ÚNICAMENTE EN LOS COMERCIOS ADHERIDOS Y EN PRODUCTOS SELECCIONADOS. DICHA PROMOCIÓN NO ES ACUMULABLE CON OTRAS PROMOCIONES VIGENTES. EJEMPLO: UNA COMPRA DE $1000 Y SE PAGA EN 3 CUOTAS: EL VALOR DE CADA CUOTA SERÁ DE $333.33. NO APLICA PARA COMPRAS REALIZADAS CON TARJETAS DE CREDITO VISA BUSINESS, VISA RURAL Y TARJETAS DE DÉBITO. LA PROMOCIÓN NO APLICA A PAGOS A TRAVÉS DE BILLETERAS VIRTUALES (EXCEPTO MODO, GOOGLE PAY Y APPLE PAY), MPOS Y/O PLATAFORMAS DE PAGO ONLINE. SÓLO PODRÁN PARTICIPAR DE LA PROMOCIÓN AQUELLOS CLIENTES QUE AL MOMENTO DE COMPRAR SE ENCUENTREN AL DÍA CON SUS PRODUCTOS. BANCO GALICIA SOLO ES EL MEDIO DE PAGO PARA LA ADQUISICIÓN DEL PRODUCTO/SERVICIO. TASA NOMINAL ANUAL 'TNA': 0,00%, TASA EFECTIVA ANUAL 'TEA': 0,00%, COSTO FINANCIERO TOTAL EFECTIVO ANUAL 'CFTEA': 0,00%.'CFTEA'+IVA: 0,00%."
+        },
+        {
+            "id":83,
+            "supermercado":"Dia",
+            "categoria":"Día",
+            "descuento":"20% Dto Tope : $4.000 por dia (Aplica tienda)",
+            "imagen":"",
+            "subCategoria":"Jueves",
+            "descripcion":"Del 01/07/2024 al 31/10/2024",
+            "masInfo":"1. BENEFICIO: 20% (VEINTE POR CIENTO) DE REINTEGRO EN COMPRAS REALIZADAS CON TARJETAS FÍSICAS MASTERCARD PREX EMITIDAS EN LA REPÚBLICA ARGENTINA LOS DÍAS JUEVES, EXCLUSIVO PARA RESIDENTES DE LA REPÚBLICA ARGENTINA. 2. PROMOCIÓN VÁLIDA EXCLUSIVAMENTE PARA LOS DÍAS JUEVES COMPRENDIDOS ENTRE EL 1° Y EL 31 DE OCTUBRE DE 2024, EN LAS SUCURSALES DE SUPERMERCADOS DIA DE TODA LA REPÚBLICA ARGENTINA. 3. EL REINTEGRO APLICARÁ ÚNICAMENTE A LA PRIMERA TRANSACCIÓN DEL DÍA PROMOCIONADO, Y TENDRÁ UN TOPE DE $4.000.- (PESOS CUATRO MIL). VÁLIDO 1 (UNA) VEZ POR USUARIO, POR JUEVES. 4. EL REINTEGRO SE VERÁ REFLEJADO EN EL ESTADO DE CUENTA DENTRO DE LOS (5) CINCO DÍAS HÁBILES SIGUIENTES A LA FECHA DE COMPRA. 5. EL BENEFICIO ES VÁLIDO EXCLUSIVAMENTE PARA CONSUMOS DE TIPO FAMILIAR. 6. EL BENEFICIO NO APLICARÁ A PAGOS REALIZADOS CON LECTOR DE QR. 7. PREX NO ES RESPONSABLE DE MANERA ALGUNA POR LOS PRODUCTOS O SERVICIOS A LOS CUALES SE ACCEDE A TRAVÉS DE LA PROMOCIÓN. COMO ASÍ, TAMPOCO ES RESPONSABLE POR LA DEMORA DE ENTREGA DE LOS PRODUCTOS Y/O SERVICIOS. 8. LA MERA PARTICIPACIÓN EN LA PROMOCIÓN IMPLICA CONOCIMIENTO Y ACEPTACIÓN DE ESTAS BASES Y CONDICIONES. EN CONSECUENCIA, PREX NO SERÁ RESPONSABLE, EN NINGÚN CASO, DE RECLAMOS QUE TUVIERE COMO FUNDAMENTO LA FALTA DE INFORMACIÓN O EL MANEJO DE INFORMACIÓN DESACTUALIZADA. 9. TODOS LOS RECLAMOS RELEVANTES A LA PROMOCIÓN DEBEN REALIZARSE CON EL TICKET DE LA OPERACIÓN, PROPORCIONADO POR EL COMERCIO."       
+         },
+         {
+            "id":84,
+            "supermercado":"Dia",
+            "categoria":"Día",
+            "descuento":"20% Dto Tope $5.000 por transacción (Aplica tienda & Aplica online",
+            "subCategoria":"Viernes",
+            "imagen":"",
+            "descripcion":"Para compras realizadas unicamente los dias Lunes y Viernes",
+            "masInfo":"CARTERA DE CONSUMO.VIGENCIA DESDE EL 01/10/2024 HASTA EL 31/10/2024 AMBAS FECHAS INCLUSIVE. PARA COMPRAS REALIZADAS ÚNICAMENTE LOS DIAS LUNES Y VIERNES EN LAS SUCURSALES DE SUPERMERCADOS DIA UBICADAS EN EL TERRITORIO DE LA REPÚBLICA ARGENTINA CON LAS TARJETAS DE CREDITO VISA Y MASTERCARD EMITIDAS POR BANCO COLUMBIA. 20% DE AHORRO EN COMPRAS EN UN PAGO, TOPE DE REINTEGRO $7000 (SIETE MIL PESOS) POR TRANSACCION. EJEMPLO: COMPRA REALIZADA EN 1 PAGO DE $1000 RECIBIRÁ UN REINTEGRO DE $200. LA BONIFICACIONES SE VERÁN REFLEJADAS HASTA EN LOS 2 RESÚMENES SIGUIENTES AL QUE REFLEJE LA/S TRANSACCIÓN/ES. BANCO COLUMBIA S.A. NO SE RESPONSABILIZA POR LAS TRANSACCIONES PRESENTADAS FUERA DE TÉRMINO POR LOS ESTABLECIMIENTOS ADHERIDOS. BANCO COLUMBIA S.A. NO SE RESPONSABILIZA POR LA CALIDAD Y FUNCIONAMIENTO DE PRODUCTOS PUBLICADOS. LOS BENEFICIOS DE LAS PROMOCIONES SE OTORGARÁN SIEMPRE QUE LAS TARJETAS DE CRÉDITO SE ENCUENTREN HABILITADAS, Y LA CUENTA NO SE ENCUENTRE EN MORA Y/O BLOQUEADA POR MOTIVOS ADMINISTRATIVOS."
+
+         },
+         {
+            "id":85,
+            "supermercado":"Dia",
+            "categoria":"Día",
+            "subCategoria":"Viernes",
+            "descuento":"25% Dto Tope: $10.000 por mes (Aplica tienda & Aplica online)",
+            "imagen":"",
+            "descripcion":"Vigencia: 09/08/2024 al 31/10/2024. Pagando con crédito",
+            "masInfo":"PROMOCIÓN OFRECIDA POR ALAU TECNOLOGÍA S.A.U, CUIT 30-71542170-0 CON DOMICILIO EN NICARAGUA 4677, CABA, ARGENTINA (“UALÁ”), VÁLIDO EN ARGENTINA DESDE EL 09/08/2024 HASTA EL 31/10/2024 (EL “PLAZO DE VIGENCIA”) PARA COMPRAS REALIZADAS EXCLUSIVAMENTE LOS DÍAS VIERNES EN TODAS LAS SUCURSALES FÍSICAS Y/O EN EL SITIO WEB: HTTPS://DIAONLINE.SUPERMERCADOSDIA.COM.AR/ (LOS “LOCALES ADHERIDOS”) DE DIA ARGENTINA S.A - CUIT 30-68584975-1 (“DIA”) CON LA TARJETA DE CRÉDITO MASTERCARD UALÁ OFRECIDA POR WILOBANK S.A.U. -CUIT 30715654632, CON DOMICILIO EN NICARAGUA 4677, PISO 1°, CABA, ARGENTINA (“UILO”) A TRAVÉS DE LA APLICACIÓN MÓVIL UALÁ (“APP”). SERÁ REQUISITO NECESARIO PARA ACCEDER A LA PROMOCIÓN: (A) CONTAR CON UNA CUENTA DE PAGO ABIERTA Y OPERATIVA (“CUENTA UALÁ”) EN LA APP; (B) TENER UNA CAJA DE AHORROS EN PESOS (LA “CAJA DE AHORRO”) OFRECIDA POR UILO. SE OTORGARÁ UN 25% DE REINTEGRO SOBRE EL MONTO TOTAL DE LAS COMPRAS REALIZADAS DENTRO DEL PLAZO DE VIGENCIA EN LOS LOCALES ADHERIDOS, CON UN TOPE DE REINTEGRO DE $10.000 POR MES POR CUENTA UALÁ. EL REINTEGRO SE DISPONIBILIZARÁ EN LA CUENTA UALÁ DEL USUARIO DENTRO DE LOS 30 DÍAS CORRIDOS POSTERIORES A LA FECHA DE COMPRA. PROMOCIÓN NO ACUMULABLE CON OTRAS PROMOCIONES Y/O BENEFICIOS VIGENTE. DIA ES EL ÚNICO RESPONSABLE POR LA PRESTACIÓN, CORRECTO FUNCIONAMIENTO Y/O GARANTÍA DEL PRODUCTO Y/O DEL SERVICIO ADQUIRIDO POR EL USUARIO, CUALQUIER RECLAMO DEBERÁ DIRIGIRSE CONTRA ELLOS. LOS PRODUCTOS BANCARIOS SON OFRECIDOS POR UILO, ENTIDAD FINANCIERA DEBIDAMENTE AUTORIZADA POR EL BCRA, QUE OPERA A TRAVÉS DE LA APP COMO CANAL DE BANCA MÓVIL. EL TITULAR DE LA CAJA DE AHORRO EN UILO PODRÁ REALIZAR LAS OPERACIONES HABILITADAS A TRAVÉS DEL CANAL. LOS DEPÓSITOS EN LA CAJA DE AHORROS CUENTAN CON GARANTÍA LIMITADA PARA SU DEVOLUCIÓN, DE CONFORMIDAD CON LA LEY 24.485 Y LAS NORMAS DEL BCRA. LA TARJETA DE CRÉDITO SE ENCUENTRA SUJETA A APROBACIÓN CREDITICIA. LAS OPERACIONES BANCARIAS NO CUENTAN CON RESPALDO DEL ACCIONISTA DE CAPITAL EXTRANJERO EN EXCESO DE SU INTEGRACIÓN ACCIONARIA (LEY 25.738); TAMPOCO LO HACEN OTRAS ENTIDADES QUE UTILICEN LA MARCA. UALÁ ES UN PROVEEDOR DE SERVICIOS DE PAGO, PARA MÁS INFORMACIÓN Y CONDICIONES O LIMITACIONES APLICABLES, CONSULTE EN WWW.UALA.COM.AR/LEGALES.”"
+         },
+         {
+            "id":86,
+            "supermercado":"Dia",
+            "categoria":"Día",
+            "subCategoria":"Viernes",
+            "descuento":"3 cuotas sin interés Pagando con Visa y Mastercard (Aplica tienda, Aplica online)",
+            "descripcion":"Del 05/09/2024 al 01/12/2024",
+            "imagen":"",
+            "masInfo":"CARTERA DE CONSUMO. TASA NOMINAL ANUAL, EN ADELANTE 'TNA': 0,00%, TASA EFECTIVA ANUAL, EN ADELANTE 'TEA': 0,00%, COSTO FINANCIERO TOTAL EFECTIVO ANUAL, EN ADELANTE 'CFTEA': 0,00%.'CFTEA'+IVA: 0,00%. PROMOCIÓN DE HASTA 3 CUOTAS SIN INTERÉS EN EL PRECIO DE CONTADO, PARA COMPRAS REALIZADAS EN EL PAÍS. VÁLIDA PARA LOS DÍAS COMPRENDIDOS ENTRE EL 05/09/2024 Y EL 01/12/2024, PARA COMPRAS REALIZADAS CON TARJETA VISA, TARJETA MASTERCARD. PROMOCIÓN VALIDA ÚNICAMENTE EN LOS COMERCIOS ADHERIDOS Y EN PRODUCTOS SELECCIONADOS. DICHA PROMOCIÓN NO ES ACUMULABLE CON OTRAS PROMOCIONES VIGENTES. EJEMPLO: UNA COMPRA DE $1000 Y SE PAGA EN 3 CUOTAS: EL VALOR DE CADA CUOTA SERÁ DE $333.33. NO APLICA PARA COMPRAS REALIZADAS CON TARJETAS DE CREDITO VISA BUSINESS, VISA RURAL Y TARJETAS DE DÉBITO. LA PROMOCIÓN NO APLICA A PAGOS A TRAVÉS DE BILLETERAS VIRTUALES (EXCEPTO MODO, GOOGLE PAY Y APPLE PAY), MPOS Y/O PLATAFORMAS DE PAGO ONLINE. SÓLO PODRÁN PARTICIPAR DE LA PROMOCIÓN AQUELLOS CLIENTES QUE AL MOMENTO DE COMPRAR SE ENCUENTREN AL DÍA CON SUS PRODUCTOS. BANCO GALICIA SOLO ES EL MEDIO DE PAGO PARA LA ADQUISICIÓN DEL PRODUCTO/SERVICIO. TASA NOMINAL ANUAL 'TNA': 0,00%, TASA EFECTIVA ANUAL 'TEA': 0,00%, COSTO FINANCIERO TOTAL EFECTIVO ANUAL 'CFTEA': 0,00%.'CFTEA'+IVA: 0,00%."
+         },
+         {
+            "id": 87,
+            "supermercado":"Dia",
+            "categoria":"Día",
+            "subCategoria":"Viernes",
+            "imagen":"",
+            "descuento":"20% Dto Tope $10.000 por transacción (Aplica tienda)",
+            "descripcion":"Del 01/07/2024 al 31/10/2024. Pagando con Visa Contactless",
+            "masInfo":"CARTERA DE CONSUMO. VÁLIDO EN ARGENTINA DEL 1/7/24 AL 31/10/24, DÍAS VIERNES, EXCLUSIVO PARA PAGOS CONTACTLESS CON TARJETAS VISA DÉBITO Y VISA CRÉDITO DE BANCO MACRO. NO VÁLIDO TARJETA EMPRESA/AGRO/MAESTRO NI PARA COMPRA ONLINE. EL DESCUENTO APLICARÁ AL CIERRE DEL RESUMEN EN EL QUE SE REGISTRE LA OPERACIÓN O EN LOS DOS SIGUIENTES. SUJETO A CONDICIONES DE CONTRATACIÓN DE BANCO MACRO S.A. ESTABLECIMIENTOS/PRODUCTOS NO SON PROMOCIONADOS/GARANTIZADOS POR BANCO MACRO.MÁS INFORMACIÓN EN WWW.MACRO.COM.AR/BENEFICIOS, AL 08105552355, AL 08105557353 SELECTA O EN SUCURSALES."
+         },
+         {
+            "id": 88,
+            "supermercado":"Dia",
+            "categoria":"Día",
+            "subCategoria":"Sabado",
+            "imagen":"",
+            "descuento":"3 cuotas sin interés Pagando con Visa y Mastercard (Aplica tienda & Aplica online",
+            "descripcion":"Del 05/09/2024 al 01/12/2024",
+            "masInfo":"CARTERA DE CONSUMO. TASA NOMINAL ANUAL, EN ADELANTE 'TNA': 0,00%, TASA EFECTIVA ANUAL, EN ADELANTE 'TEA': 0,00%, COSTO FINANCIERO TOTAL EFECTIVO ANUAL, EN ADELANTE 'CFTEA': 0,00%.'CFTEA'+IVA: 0,00%. PROMOCIÓN DE HASTA 3 CUOTAS SIN INTERÉS EN EL PRECIO DE CONTADO, PARA COMPRAS REALIZADAS EN EL PAÍS. VÁLIDA PARA LOS DÍAS COMPRENDIDOS ENTRE EL 05/09/2024 Y EL 01/12/2024, PARA COMPRAS REALIZADAS CON TARJETA VISA, TARJETA MASTERCARD. PROMOCIÓN VALIDA ÚNICAMENTE EN LOS COMERCIOS ADHERIDOS Y EN PRODUCTOS SELECCIONADOS. DICHA PROMOCIÓN NO ES ACUMULABLE CON OTRAS PROMOCIONES VIGENTES. EJEMPLO: UNA COMPRA DE $1000 Y SE PAGA EN 3 CUOTAS: EL VALOR DE CADA CUOTA SERÁ DE $333.33. NO APLICA PARA COMPRAS REALIZADAS CON TARJETAS DE CREDITO VISA BUSINESS, VISA RURAL Y TARJETAS DE DÉBITO. LA PROMOCIÓN NO APLICA A PAGOS A TRAVÉS DE BILLETERAS VIRTUALES (EXCEPTO MODO, GOOGLE PAY Y APPLE PAY), MPOS Y/O PLATAFORMAS DE PAGO ONLINE. SÓLO PODRÁN PARTICIPAR DE LA PROMOCIÓN AQUELLOS CLIENTES QUE AL MOMENTO DE COMPRAR SE ENCUENTREN AL DÍA CON SUS PRODUCTOS. BANCO GALICIA SOLO ES EL MEDIO DE PAGO PARA LA ADQUISICIÓN DEL PRODUCTO/SERVICIO. TASA NOMINAL ANUAL 'TNA': 0,00%, TASA EFECTIVA ANUAL 'TEA': 0,00%, COSTO FINANCIERO TOTAL EFECTIVO ANUAL 'CFTEA': 0,00%.'CFTEA'+IVA: 0,00%."
+         },
+         {
+            "id":89,
+            "supermercado":"Dia",
+            "categoria":"Día",
+            "subCategoria":"Sabado",
+            "imagen":"",
+            "descuento":"3 cuotas sin interés TARJETAS VISA, MASTERCARD, AMERICAN EXPRESS Y CABAL (Aplica Tienda)",
+            "descripcion":"Todos los dias Sabados del 01/09/2024 AL 31/10/2024",
+            "masInfo":"CARTERA DE CONSUMO. PROMOCIÓN VÁLIDA PARA TODOS LOS DÍAS SÁBADO DEL 01/09/2024 AL 31/10/2024 EN TODAS LAS TIENDAS DIA. PLAN 3 CUOTAS SIN INTERÉS CON LAS TARJETAS VISA, MASTERCARD, AMERICAN EXPRESS Y CABAL EMITIDAS EN LA REPÚBLICA ARGENTINA. EXCLUYE TARJETAS MASTERCARD CENCOSUD. VÁLIDO PARA COMPRAS CON TARJETA FÍSICA. DIA ARGENTINA S.A., DOMICILIO AV. RIVADAVIA 8875 1° PISO, CIUDAD AUTÓNOMA DE BUENOS AIRES, CUIT: 30-68584975-1. TEM: 0,00% - TNA: 0,00% - TEA: 0,00% - CFTNA: 0,00%"
+         },
+         {
+            "id":90,
+            "supermercado":"Dia",
+            "categoria":"Día",
+            "subCategoria":"Domingo",
+            "imagen":"",
+            "descuento":"3 cuotas sin interés Pagando con Visa y Mastercard (Aplica Tienda & Aplica online",
+            "descripcion":"Del 05/09/2024 al 01/12/2024",
+            "masInfo":"CARTERA DE CONSUMO. TASA NOMINAL ANUAL, EN ADELANTE 'TNA': 0,00%, TASA EFECTIVA ANUAL, EN ADELANTE 'TEA': 0,00%, COSTO FINANCIERO TOTAL EFECTIVO ANUAL, EN ADELANTE 'CFTEA': 0,00%.'CFTEA'+IVA: 0,00%. PROMOCIÓN DE HASTA 3 CUOTAS SIN INTERÉS EN EL PRECIO DE CONTADO, PARA COMPRAS REALIZADAS EN EL PAÍS. VÁLIDA PARA LOS DÍAS COMPRENDIDOS ENTRE EL 05/09/2024 Y EL 01/12/2024, PARA COMPRAS REALIZADAS CON TARJETA VISA, TARJETA MASTERCARD. PROMOCIÓN VALIDA ÚNICAMENTE EN LOS COMERCIOS ADHERIDOS Y EN PRODUCTOS SELECCIONADOS. DICHA PROMOCIÓN NO ES ACUMULABLE CON OTRAS PROMOCIONES VIGENTES. EJEMPLO: UNA COMPRA DE $1000 Y SE PAGA EN 3 CUOTAS: EL VALOR DE CADA CUOTA SERÁ DE $333.33. NO APLICA PARA COMPRAS REALIZADAS CON TARJETAS DE CREDITO VISA BUSINESS, VISA RURAL Y TARJETAS DE DÉBITO. LA PROMOCIÓN NO APLICA A PAGOS A TRAVÉS DE BILLETERAS VIRTUALES (EXCEPTO MODO, GOOGLE PAY Y APPLE PAY), MPOS Y/O PLATAFORMAS DE PAGO ONLINE. SÓLO PODRÁN PARTICIPAR DE LA PROMOCIÓN AQUELLOS CLIENTES QUE AL MOMENTO DE COMPRAR SE ENCUENTREN AL DÍA CON SUS PRODUCTOS. BANCO GALICIA SOLO ES EL MEDIO DE PAGO PARA LA ADQUISICIÓN DEL PRODUCTO/SERVICIO. TASA NOMINAL ANUAL 'TNA': 0,00%, TASA EFECTIVA ANUAL 'TEA': 0,00%, COSTO FINANCIERO TOTAL EFECTIVO ANUAL 'CFTEA': 0,00%.'CFTEA'+IVA: 0,00%."
+         },
+         {
+            "id":91,
+            "supermercado":"Dia",
+            "categoria":"Día",
+            "subCategoria":"Domingo",
+            "imagen":"",
+            "descuento":"10% en 2 o 3 cuotas s/ interés Tope : $1.500 por transaccion (Aplica Tienda)",
+            "descripcion":"Del 01/07/2024 al 31/10/2024",
+            "masInfo":"PROMOCIÓN DOMINGOS EN “TIENDAS DIA” DE LA PROVINCIA DE ENTRE RÍOS – DE 2 A 3 CUOTAS SIN INTERÉS, MÁS 10% DE DESCUENTO. SÓLO PARA CLIENTES QUE AL MOMENTO DE OPERAR SE ENCUENTREN AL DÍA CON SUS PRODUCTOS, SIN MOROSIDAD, CON LÍMITE DE COMPRA SUFICIENTE, EN TANTO SU SITUACIÓN DE REVISTA LABORAL/ADMINISTRATIVA RESULTE ADECUADA AL RESTO DE LAS CONDICIONES DE LA OPERATORIA. CARTERA: CONSUMO FAMILIAR. VIGENCIA: ÚNICAMENTE LOS DÍAS “DOMINGO” QUE TRANSCURRAN DEL 01/04/2024 AL 31/12/2024, AMBAS FECHAS INCLUSIVE. TIPO DE PLAN ADMITIDO: PLAN 9. CANTIDAD DE CUOTAS ACEPTADAS: SOLO 2 O 3. ALCANCE Y MODALIDAD DEL DESCUENTO. TOPE: 10% SOBRE EL MONTO TOTAL DE LA AUTORIZACIÓN, VÍA REINTEGRO, QUE SE REFLEJARÁ EN LOS RESÚMENES QUE CONTENGAN LAS CUOTAS EN QUE SE HUBIERA PACTADO LA OPERACIÓN, EN RELACIÓN AL VALOR DE CADA CUOTA LIQUIDADA, CON UN TOPE DE PESOS UN MIL QUINIENTOS ($1.500,00) POR TRANSACCIÓN. EL DESCUENTO SERÁ ACUMULABLE CON OTRAS PROMOCIONES Y/O DESCUENTOS QUE OFREZCA POR SU CUENTA Y CARGO DIA ARGENTINA S.A., Y SERÁ ABIERTO PARA TODOS LOS PRODUCTOS OFRECIDOS EN SUS TIENDAS, SEGÚN SU EXCLUSIVO CRITERIO. TIENDAS DÍA ADHERIDAS: SOLO LAS LOCALIZADAS EN LA PROVINCIA DE ENTRE RÍOS. EXCLUSIONES: LAS OPERACIONES REALIZADAS CON TARJETAS SIDECREER CABAL (BIN 604216), LAS OPERACIONES REALIZADAS CON TARJETAS SIDECREER (BIN 504962) VINCULADAS A PROGRAMAS SOCIO ASISTENCIALES ADMINISTRADOS POR EL MINISTERIO DE DESARROLLO SOCIAL DE ENTRE RÍOS, LAS OPERACIONES REALIZADAS A TRAVÉS DE BILLETERAS VIRTUALES Y/O PLATAFORMAS DE PAGO ONLINE, Y LAS COMPRAS EFECTUADAS EN HTTPS://DIAONLINE.SUPERMERCADOSDIA.COM.AR/. NO ACUMULABLE CON OTRAS PROMOCIONES VIGENTES APLICABLES POR SI.DE.CRE.E.R. S.A. T.N.A.: 0,00%. T.E.A.: 0,00%."
+         },
+         {
+            "id":92,
+            "supermercado":"Dia",
+            "categoria":"Banco",
+            "imagen":"",
+            "descripcion":"Miercoles",
+            "masInfo":"PROMOCIÓN VÁLIDA PARA LAS COMPRAS REALIZADAS LOS DÍAS MIÉRCOLES COMPRENDIDOS DESDE EL 01/07/2024 HASTA EL 31/12/2024 PARA COMPRAS ABONADAS EN UN PAGO CON TARJETAS DE CRÉDITO VISA Y MASTERCARD DEL BANCO NACIÓN VÍA MODO EN EL SITIO WWW.DIAONLINE.COM.AR. TOPE DE REINTEGRO: $ 10.000 POR CUENTA, APLICABLE EN LA PRIMERA TRANSACCIÓN REALIZABLE DURANTE LA VIGENCIA DE LA PROMOCIÓN. EXCLUYE TARJETAS CORPORATIVAS Y/O PREPAGAS. EL DESCUENTO SE VERÁ COMO UN AJUSTE DE CRÉDITO EN EL RESUMEN DE CUENTA DONDE SE VISUALICE EL IMPORTE DE LA COMPRA O EN HASTA DOS RESÚMENES POSTERIORES PARA COMPRAS. EXCLUSIVO CARTERA DE CONSUMO Y PARA LAS COMPRAS DE LA CANASTA FAMILIAR. EXCLUYE VERSIONES CORPORATIVA. EL BANCO NACIÓN NO SE RESPONSABILIZA POR LA CALIDAD DE LOS PRODUCTOS ADQUIRIDOS. CONSULTÁ CONDICIONES Y COMERCIOS ADHERIDOS EN WWW.BNA.COM.AR. SE EXCLUYE EL RUBRO ELECTRO. DIA ARGENTINA S.A CON DOMICILIO LEGAL EN AV. RIVADAVIA 8875 PISO 1, CABA Y BANCO DE LA NACIÓN ARGENTINA CON DOMICILIO LEGAL EN MITRE 326, CABA"
+         },
+         {
+            "id":92,
+            "supermercado":"Dia",
+            "categoria":"Banco",
+            "imagen":"",
+            "descripcion":"Jueves",
+            "masInfo":"CARTERA DE CONSUMO. PROMOCIÓN DEL 25% DE AHORRO EN COMPRAS REALIZADAS EN EL PAÍS, EN UN PAGO SOBRE EL PRECIO DE CONTADO. TOPE DE REINTEGRO: $15.000 EN TOTAL POR MES. INCLUYE COMPRAS CON TARJETAS ADICIONALES. VÁLIDA PARA TODOS LOS JUEVES COMPRENDIDOS ENTRE EL 01/09/2024 AL 31/10/2024, PARA COMPRAS REALIZADAS CON TARJETA GALICIA VISA CREDITO. PROMOCIÓN VALIDA ÚNICAMENTE PARA COMPRAS REALIZADAS EN EL SITIO WEB: WWW.DIAONLINE.COM.AR. PARA TARJETAS GALICIA VISA CRÉDITO APLICA SOLO PARA LAS COMPRAS REALIZADAS LOS JUEVES, DURANTE LA VIGENCIA DE LA PROMOCIÓN. EL IMPORTE AHORRADO SE ACREDITARÁ DENTRO DE LOS 10 DÍAS HÁBILES POSTERIORES A LA COMPRA EN LA CAJA DE AHORRO COMÚN. PARA ACCEDER A LA PROMOCIÓN, EL PARTICIPANTE DEBERÁ TENER ABIERTA UNA CAJA DE AHORRO COMÚN EN EL BANCO, EN DONDE SE ACREDITARÁ EL MONTO DEL REINTEGRO. SI EL CLIENTE TUVIERA MÁS DE UNA CUENTA, EL CRÉDITO SE REALIZARÁ EN CUALQUIERA DE ELLAS A ELECCIÓN DEL BANCO. PROMOCIÓN VÁLIDA ÚNICAMENTE PARA COMPRAS REALIZADAS EN 1 PAGO. DICHA PROMOCIÓN NO ES ACUMULABLE CON OTRAS PROMOCIONES VIGENTES. EL BENEFICIO NO APLICA A LAS CATEGORÍAS: TECNOLOGÍA, BAZAR, TEXTIL Y ELECTRO. EJEMPLO: EN UNA COMPRA DE $1000 EN UN PAGO: EL IMPORTE DEL AHORRO ES DE $250. LA PROMOCIÓN NO APLICA A PAGOS A TRAVÉS DE BILLETERAS VIRTUALES (EXCEPTO MODO), MPOS Y/O PLATAFORMAS DE PAGO ONLINE. MODO ES MARCA REGISTRADA POR PLAY DIGITAL S.A., CUIT 30-71682943-6, CON DOMICILIO EN AV. DEL LIBERTADOR 7208, TORRE II, PISO 4, CABA (“PDSA”) Y ES UN PROVEEDOR DE SERVICIOS TECNOLÓGICOS DE BANCO DE GALICIA Y BUENOS AIRES S.A.U. SÓLO PODRÁN PARTICIPAR DE LA PROMOCIÓN AQUELLOS CLIENTES QUE AL MOMENTO DE COMPRAR SE ENCUENTREN AL DÍA CON SUS PRODUCTOS. BANCO GALICIA SOLO ES EL MEDIO DE PAGO PARA LA ADQUISICIÓN DEL PRODUCTO/SERVICIO CARTERA DE CONSUMO. PROMOCIÓN DEL 30% DE AHORRO EN COMPRAS REALIZADAS EN EL PAÍS, EN UN PAGO SOBRE EL PRECIO DE CONTADO, PARA CLIENTES EMINENT. TOPE DE REINTEGRO: 20.000 EN TOTAL POR MES. INCLUYE COMPRAS CON TARJETAS ADICIONALES. VÁLIDA PARA TODOS LOS JUEVES COMPRENDIDOS ENTRE EL 01/09/2024 AL 31/10/2024, PARA COMPRAS REALIZADAS CON TARJETA GALICIA VISA CREDITO. PROMOCIÓN VALIDA ÚNICAMENTE PARA COMPRAS REALIZADAS EN EL SITIO WEB: WWW.DIAONLINE.COM.AR. PARA TARJETAS GALICIA VISA CRÉDITO APLICA SOLO PARA LAS COMPRAS REALIZADAS LOS JUEVES, DURANTE LA VIGENCIA DE LA PROMOCIÓN. EL IMPORTE AHORRADO SE ACREDITARÁ DENTRO DE LOS 10 DÍAS HÁBILES POSTERIORES A LA COMPRA EN LA CAJA DE AHORRO COMÚN. PARA ACCEDER A LA PROMOCIÓN, EL PARTICIPANTE DEBERÁ TENER ABIERTA UNA CAJA DE AHORRO COMÚN EN EL BANCO, EN DONDE SE ACREDITARÁ EL MONTO DEL REINTEGRO. SI EL CLIENTE TUVIERA MÁS DE UNA CUENTA, EL CRÉDITO SE REALIZARÁ EN CUALQUIERA DE ELLAS A ELECCIÓN DEL BANCO. PROMOCIÓN VÁLIDA ÚNICAMENTE PARA COMPRAS REALIZADAS EN 1 PAGO. DICHA PROMOCIÓN NO ES ACUMULABLE CON OTRAS PROMOCIONES VIGENTES. EL BENEFICIO NO APLICA A LAS CATEGORÍAS: TECNOLOGÍA, BAZAR, TEXTIL Y ELECTRO. EJEMPLO: EN UNA COMPRA DE $1000 EN UN PAGO: EL IMPORTE DEL AHORRO ES DE $300. LA PROMOCIÓN NO APLICA A PAGOS A TRAVÉS DE BILLETERAS VIRTUALES (EXCEPTO MODO), MPOS Y/O PLATAFORMAS DE PAGO ONLINE. MODO ES MARCA REGISTRADA POR PLAY DIGITAL S.A., CUIT 30-71682943-6, CON DOMICILIO EN AV. DEL LIBERTADOR 7208, TORRE II, PISO 4, CABA (“PDSA”) Y ES UN PROVEEDOR DE SERVICIOS TECNOLÓGICOS DE BANCO DE GALICIA Y BUENOS AIRES S.A.U. SÓLO PODRÁN PARTICIPAR DE LA PROMOCIÓN AQUELLOS CLIENTES QUE AL MOMENTO DE COMPRAR SE ENCUENTREN AL DÍA CON SUS PRODUCTOS. BANCO GALICIA SOLO ES EL MEDIO DE PAGO PARA LA ADQUISICIÓN DEL PRODUCTO/SERVICIO."
+         },
+         {
+            "id":93,
+            "supermercado":"Dia",
+            "categoria":"Banco",
+            "imagen":"",
+            "descripcion":"Jueves",
+            "masInfo":"CARTERA DE CONSUMO. PROMOCIÓN DEL 25% DE AHORRO EN COMPRAS REALIZADAS EN EL PAÍS, EN UN PAGO SOBRE EL PRECIO DE CONTADO. TOPE DE REINTEGRO: $15.000 EN TOTAL POR MES. INCLUYE COMPRAS CON TARJETAS ADICIONALES. VÁLIDA PARA TODOS LOS JUEVES COMPRENDIDOS ENTRE EL 01/09/2024 AL 31/10/2024, PARA COMPRAS REALIZADAS CON TARJETA GALICIA VISA CREDITO. PROMOCIÓN VALIDA ÚNICAMENTE PARA COMPRAS REALIZADAS EN EL SITIO WEB: WWW.DIAONLINE.COM.AR. PARA TARJETAS GALICIA VISA CRÉDITO APLICA SOLO PARA LAS COMPRAS REALIZADAS LOS JUEVES, DURANTE LA VIGENCIA DE LA PROMOCIÓN. EL IMPORTE AHORRADO SE ACREDITARÁ DENTRO DE LOS 10 DÍAS HÁBILES POSTERIORES A LA COMPRA EN LA CAJA DE AHORRO COMÚN. PARA ACCEDER A LA PROMOCIÓN, EL PARTICIPANTE DEBERÁ TENER ABIERTA UNA CAJA DE AHORRO COMÚN EN EL BANCO, EN DONDE SE ACREDITARÁ EL MONTO DEL REINTEGRO. SI EL CLIENTE TUVIERA MÁS DE UNA CUENTA, EL CRÉDITO SE REALIZARÁ EN CUALQUIERA DE ELLAS A ELECCIÓN DEL BANCO. PROMOCIÓN VÁLIDA ÚNICAMENTE PARA COMPRAS REALIZADAS EN 1 PAGO. DICHA PROMOCIÓN NO ES ACUMULABLE CON OTRAS PROMOCIONES VIGENTES. EL BENEFICIO NO APLICA A LAS CATEGORÍAS: TECNOLOGÍA, BAZAR, TEXTIL Y ELECTRO. EJEMPLO: EN UNA COMPRA DE $1000 EN UN PAGO: EL IMPORTE DEL AHORRO ES DE $250. LA PROMOCIÓN NO APLICA A PAGOS A TRAVÉS DE BILLETERAS VIRTUALES (EXCEPTO MODO), MPOS Y/O PLATAFORMAS DE PAGO ONLINE. MODO ES MARCA REGISTRADA POR PLAY DIGITAL S.A., CUIT 30-71682943-6, CON DOMICILIO EN AV. DEL LIBERTADOR 7208, TORRE II, PISO 4, CABA (“PDSA”) Y ES UN PROVEEDOR DE SERVICIOS TECNOLÓGICOS DE BANCO DE GALICIA Y BUENOS AIRES S.A.U. SÓLO PODRÁN PARTICIPAR DE LA PROMOCIÓN AQUELLOS CLIENTES QUE AL MOMENTO DE COMPRAR SE ENCUENTREN AL DÍA CON SUS PRODUCTOS. BANCO GALICIA SOLO ES EL MEDIO DE PAGO PARA LA ADQUISICIÓN DEL PRODUCTO/SERVICIO CARTERA DE CONSUMO. PROMOCIÓN DEL 30% DE AHORRO EN COMPRAS REALIZADAS EN EL PAÍS, EN UN PAGO SOBRE EL PRECIO DE CONTADO, PARA CLIENTES EMINENT. TOPE DE REINTEGRO: 20.000 EN TOTAL POR MES. INCLUYE COMPRAS CON TARJETAS ADICIONALES. VÁLIDA PARA TODOS LOS JUEVES COMPRENDIDOS ENTRE EL 01/09/2024 AL 31/10/2024, PARA COMPRAS REALIZADAS CON TARJETA GALICIA VISA CREDITO. PROMOCIÓN VALIDA ÚNICAMENTE PARA COMPRAS REALIZADAS EN EL SITIO WEB: WWW.DIAONLINE.COM.AR. PARA TARJETAS GALICIA VISA CRÉDITO APLICA SOLO PARA LAS COMPRAS REALIZADAS LOS JUEVES, DURANTE LA VIGENCIA DE LA PROMOCIÓN. EL IMPORTE AHORRADO SE ACREDITARÁ DENTRO DE LOS 10 DÍAS HÁBILES POSTERIORES A LA COMPRA EN LA CAJA DE AHORRO COMÚN. PARA ACCEDER A LA PROMOCIÓN, EL PARTICIPANTE DEBERÁ TENER ABIERTA UNA CAJA DE AHORRO COMÚN EN EL BANCO, EN DONDE SE ACREDITARÁ EL MONTO DEL REINTEGRO. SI EL CLIENTE TUVIERA MÁS DE UNA CUENTA, EL CRÉDITO SE REALIZARÁ EN CUALQUIERA DE ELLAS A ELECCIÓN DEL BANCO. PROMOCIÓN VÁLIDA ÚNICAMENTE PARA COMPRAS REALIZADAS EN 1 PAGO. DICHA PROMOCIÓN NO ES ACUMULABLE CON OTRAS PROMOCIONES VIGENTES. EL BENEFICIO NO APLICA A LAS CATEGORÍAS: TECNOLOGÍA, BAZAR, TEXTIL Y ELECTRO. EJEMPLO: EN UNA COMPRA DE $1000 EN UN PAGO: EL IMPORTE DEL AHORRO ES DE $300. LA PROMOCIÓN NO APLICA A PAGOS A TRAVÉS DE BILLETERAS VIRTUALES (EXCEPTO MODO), MPOS Y/O PLATAFORMAS DE PAGO ONLINE. MODO ES MARCA REGISTRADA POR PLAY DIGITAL S.A., CUIT 30-71682943-6, CON DOMICILIO EN AV. DEL LIBERTADOR 7208, TORRE II, PISO 4, CABA (“PDSA”) Y ES UN PROVEEDOR DE SERVICIOS TECNOLÓGICOS DE BANCO DE GALICIA Y BUENOS AIRES S.A.U. SÓLO PODRÁN PARTICIPAR DE LA PROMOCIÓN AQUELLOS CLIENTES QUE AL MOMENTO DE COMPRAR SE ENCUENTREN AL DÍA CON SUS PRODUCTOS. BANCO GALICIA SOLO ES EL MEDIO DE PAGO PARA LA ADQUISICIÓN DEL PRODUCTO/SERVICIO."
+         },
+         {
+            "id":94,
+            "supermercado":"Dia",
+            "categoria":"Banco",
+            "imagen":"",
+            "descripcion":"Lunes & Viernes",
+            "masInfo":"CARTERA DE CONSUMO.VIGENCIA DESDE EL 01/10/2024 HASTA EL 31/10/2024 AMBAS FECHAS INCLUSIVE. PARA COMPRAS REALIZADAS ÚNICAMENTE LOS DIAS LUNES Y VIERNES EN LAS SUCURSALES DE SUPERMERCADOS DIA UBICADAS EN EL TERRITORIO DE LA REPÚBLICA ARGENTINA CON LAS TARJETAS DE CREDITO VISA Y MASTERCARD EMITIDAS POR BANCO COLUMBIA. 20% DE AHORRO EN COMPRAS EN UN PAGO, TOPE DE REINTEGRO $7000 (SIETE MIL PESOS) POR TRANSACCION. EJEMPLO: COMPRA REALIZADA EN 1 PAGO DE $1000 RECIBIRÁ UN REINTEGRO DE $200. LA BONIFICACIONES SE VERÁN REFLEJADAS HASTA EN LOS 2 RESÚMENES SIGUIENTES AL QUE REFLEJE LA/S TRANSACCIÓN/ES. BANCO COLUMBIA S.A. NO SE RESPONSABILIZA POR LAS TRANSACCIONES PRESENTADAS FUERA DE TÉRMINO POR LOS ESTABLECIMIENTOS ADHERIDOS. BANCO COLUMBIA S.A. NO SE RESPONSABILIZA POR LA CALIDAD Y FUNCIONAMIENTO DE PRODUCTOS PUBLICADOS. LOS BENEFICIOS DE LAS PROMOCIONES SE OTORGARÁN SIEMPRE QUE LAS TARJETAS DE CRÉDITO SE ENCUENTREN HABILITADAS, Y LA CUENTA NO SE ENCUENTRE EN MORA Y/O BLOQUEADA POR MOTIVOS ADMINISTRATIVOS."
+         },
+         {
+            "id":95,
+            "supermercado":"Dia",
+            "categoria":"Banco",
+            "imagen":"",
+            "descripcion":"Martes",
+            "masInfo":"CARTERA DE CONSUMO. LA PRESENTE ACCIÓN PROMOCIONAL ES ORGANIZADA POR BANCO DEL SOL S.A., CUIT N° 30-67793756-0, CON DOMICILIO EN AV. LEANDRO N. ALEM 1058, PB, CIUDAD AUTÓNOMA DE BUENOS AIRES (EN ADELANTE «EL BANCO” O “BDS»). PROMOCIÓN EXCLUSIVA PARA CLIENTES DE BDS QUE SE HAYAN REGISTRADO A TRAVÉS DE LA APLICACIÓN DEL BANCO Y QUE REALICEN COMPRAS CON LA TARJETA DE DÉBITO EMITIDA POR EL BANCO, LOS DÍAS MARTES DESDE LAS 00:00HS DEL 01/10/2024, HASTA LAS 23:59HS DEL 31/12/2024, AMBAS INCLUSIVE (EN ADELANTE EL “PLAZO”), EN COMERCIOS ADHERIDOS. LA PROMOCIÓN CONSISTIRÁ, PARA LA CARTERA GENERAL, EN UN DESCUENTO DEL 25% (VEINTICINCO POR CIENTO), EL CUAL SE REALIZARÁ POR REINTEGRO, CON UN TOPE MENSUAL DE $ 5.000 (CINCO MIL PESOS) POR CLIENTE POR MES. POR EJEMPLO, SI UN CLIENTE REALIZA UNA COMPRA DE $40.000 (CUARENTA MIL PESOS), RECIBIRÁ UN REINTEGRO DE $5.000 (CINCO MIL PESOS. NO ACUMULABLE CON OTROS BENEFICIOS Y/O PROMOCIONES VIGENTES. NO APLICA SOBRE PRODUCTOS INCLUIDOS EN PROGRAMAS GUBERNAMENTALES. QUEDAN EXCLUIDOS DE PARTICIPAR, AQUELLOS CLIENTES CUYAS CUENTAS SE ENCUENTREN EN MORA Y/O BLOQUEADAS POR CUALQUIER MOTIVO. LA PROMOCIÓN NO APLICA A PAGOS A TRAVÉS DE BILLETERAS VIRTUALES, PLATAFORMAS DE PAGO Y/O PORTALES DE PAGO ONLINE. EN CASO DE CONSULTAS O RECLAMOS, DEBERÁN COMUNICARSE A TRAVÉS DE LOS CANALES DE CONTACTO DISPONIBLES POR EL BANCO. LOS PRESENTES TÉRMINOS Y CONDICIONES SE ENCUENTRAN DISPONIBLES EN HTTPS://WWW.BANCODELSOL.COM"
+         },
+         {
+            "id":96,
+            "supermercado":"Dia",
+            "categoria":"Banco",
+            "imagen":"",
+            "descripcion":"Jueves a Domingo",
+            "masInfo":"CARTERA DE CONSUMO. TASA NOMINAL ANUAL, EN ADELANTE 'TNA': 0,00%, TASA EFECTIVA ANUAL, EN ADELANTE 'TEA': 0,00%, COSTO FINANCIERO TOTAL EFECTIVO ANUAL, EN ADELANTE 'CFTEA': 0,00%.'CFTEA'+IVA: 0,00%. PROMOCIÓN DE HASTA 3 CUOTAS SIN INTERÉS EN EL PRECIO DE CONTADO, PARA COMPRAS REALIZADAS EN EL PAÍS. VÁLIDA PARA LOS DÍAS COMPRENDIDOS ENTRE EL 05/09/2024 Y EL 01/12/2024, PARA COMPRAS REALIZADAS CON TARJETA VISA, TARJETA MASTERCARD. PROMOCIÓN VALIDA ÚNICAMENTE EN LOS COMERCIOS ADHERIDOS Y EN PRODUCTOS SELECCIONADOS. DICHA PROMOCIÓN NO ES ACUMULABLE CON OTRAS PROMOCIONES VIGENTES. EJEMPLO: UNA COMPRA DE $1000 Y SE PAGA EN 3 CUOTAS: EL VALOR DE CADA CUOTA SERÁ DE $333.33. NO APLICA PARA COMPRAS REALIZADAS CON TARJETAS DE CREDITO VISA BUSINESS, VISA RURAL Y TARJETAS DE DÉBITO. LA PROMOCIÓN NO APLICA A PAGOS A TRAVÉS DE BILLETERAS VIRTUALES (EXCEPTO MODO, GOOGLE PAY Y APPLE PAY), MPOS Y/O PLATAFORMAS DE PAGO ONLINE. SÓLO PODRÁN PARTICIPAR DE LA PROMOCIÓN AQUELLOS CLIENTES QUE AL MOMENTO DE COMPRAR SE ENCUENTREN AL DÍA CON SUS PRODUCTOS. BANCO GALICIA SOLO ES EL MEDIO DE PAGO PARA LA ADQUISICIÓN DEL PRODUCTO/SERVICIO. TASA NOMINAL ANUAL 'TNA': 0,00%, TASA EFECTIVA ANUAL 'TEA': 0,00%, COSTO FINANCIERO TOTAL EFECTIVO ANUAL 'CFTEA': 0,00%.'CFTEA'+IVA: 0,00%."
+         },
+         {
+            "id":97,
+            "supermercado":"Dia",
+            "categoria":"Banco",
+            "imagen":"",
+            "descripcion":"Viernes",
+            "masInfo":"CARTERA DE CONSUMO. VÁLIDO EN ARGENTINA DEL 1/7/24 AL 31/10/24, DÍAS VIERNES, EXCLUSIVO PARA PAGOS CONTACTLESS CON TARJETAS VISA DÉBITO Y VISA CRÉDITO DE BANCO MACRO. NO VÁLIDO TARJETA EMPRESA/AGRO/MAESTRO NI PARA COMPRA ONLINE. EL DESCUENTO APLICARÁ AL CIERRE DEL RESUMEN EN EL QUE SE REGISTRE LA OPERACIÓN O EN LOS DOS SIGUIENTES. SUJETO A CONDICIONES DE CONTRATACIÓN DE BANCO MACRO S.A. ESTABLECIMIENTOS/PRODUCTOS NO SON PROMOCIONADOS/GARANTIZADOS POR BANCO MACRO.MÁS INFORMACIÓN EN WWW.MACRO.COM.AR/BENEFICIOS, AL 08105552355, AL 08105557353 SELECTA O EN SUCURSALES."
+         },
+         {
+            "id":98,
+            "supermercado":"Dia",
+            "categoria":"Banco",
+            "imagen":"",
+            "descripcion":"Martes",
+            "masInfo":"PROMOCIÓN VÁLIDA PARA LAS COMPRAS REALIZADAS LOS DÍAS MIÉRCOLES COMPRENDIDOS DESDE EL 01/07/2024 HASTA EL 31/12/2024 PARA COMPRAS ABONADAS EN UN PAGO CON TARJETAS DE CRÉDITO VISA Y MASTERCARD DEL BANCO NACIÓN VÍA MODO EN EL SITIO WWW.DIAONLINE.COM.AR. TOPE DE REINTEGRO: $ 10.000 POR CUENTA, APLICABLE EN LA PRIMERA TRANSACCIÓN REALIZABLE DURANTE LA VIGENCIA DE LA PROMOCIÓN. EXCLUYE TARJETAS CORPORATIVAS Y/O PREPAGAS. EL DESCUENTO SE VERÁ COMO UN AJUSTE DE CRÉDITO EN EL RESUMEN DE CUENTA DONDE SE VISUALICE EL IMPORTE DE LA COMPRA O EN HASTA DOS RESÚMENES POSTERIORES PARA COMPRAS. EXCLUSIVO CARTERA DE CONSUMO Y PARA LAS COMPRAS DE LA CANASTA FAMILIAR. EXCLUYE VERSIONES CORPORATIVA. EL BANCO NACIÓN NO SE RESPONSABILIZA POR LA CALIDAD DE LOS PRODUCTOS ADQUIRIDOS. CONSULTÁ CONDICIONES Y COMERCIOS ADHERIDOS EN WWW.BNA.COM.AR. SE EXCLUYE EL RUBRO ELECTRO. DIA ARGENTINA S.A CON DOMICILIO LEGAL EN AV. RIVADAVIA 8875 PISO 1, CABA Y BANCO DE LA NACIÓN ARGENTINA CON DOMICILIO LEGAL EN MITRE 326, CABA"
+         },
+         {
+            "id":99,
+            "supermercado":"Dia",
+            "categoria":"Banco",
+            "imagen":"",
+            "descripcion":"Lunes & Martes",
+            "masInfo":"PROMOCIÓN VÁLIDA PARA LAS COMPRAS REALIZADAS LOS DÍAS MIÉRCOLES COMPRENDIDOS DESDE EL 01/07/2024 HASTA EL 31/12/2024 PARA COMPRAS ABONADAS EN UN PAGO CON TARJETAS DE CRÉDITO VISA Y MASTERCARD DEL BANCO NACIÓN VÍA MODO EN EL SITIO WWW.DIAONLINE.COM.AR. TOPE DE REINTEGRO: $ 10.000 POR CUENTA, APLICABLE EN LA PRIMERA TRANSACCIÓN REALIZABLE DURANTE LA VIGENCIA DE LA PROMOCIÓN. EXCLUYE TARJETAS CORPORATIVAS Y/O PREPAGAS. EL DESCUENTO SE VERÁ COMO UN AJUSTE DE CRÉDITO EN EL RESUMEN DE CUENTA DONDE SE VISUALICE EL IMPORTE DE LA COMPRA O EN HASTA DOS RESÚMENES POSTERIORES PARA COMPRAS. EXCLUSIVO CARTERA DE CONSUMO Y PARA LAS COMPRAS DE LA CANASTA FAMILIAR. EXCLUYE VERSIONES CORPORATIVA. EL BANCO NACIÓN NO SE RESPONSABILIZA POR LA CALIDAD DE LOS PRODUCTOS ADQUIRIDOS. CONSULTÁ CONDICIONES Y COMERCIOS ADHERIDOS EN WWW.BNA.COM.AR. SE EXCLUYE EL RUBRO ELECTRO. DIA ARGENTINA S.A CON DOMICILIO LEGAL EN AV. RIVADAVIA 8875 PISO 1, CABA Y BANCO DE LA NACIÓN ARGENTINA CON DOMICILIO LEGAL EN MITRE 326, CABA"
+         },
+         {
+            "id":100,
+            "supermercado":"Dia",
+            "categoria":"Banco",
+            "imagen":"",
+            "descripcion":"Domingo",
+            "masInfo":"PROMOCIÓN DOMINGOS EN “TIENDAS DIA” DE LA PROVINCIA DE ENTRE RÍOS – DE 2 A 3 CUOTAS SIN INTERÉS, MÁS 10% DE DESCUENTO. SÓLO PARA CLIENTES QUE AL MOMENTO DE OPERAR SE ENCUENTREN AL DÍA CON SUS PRODUCTOS, SIN MOROSIDAD, CON LÍMITE DE COMPRA SUFICIENTE, EN TANTO SU SITUACIÓN DE REVISTA LABORAL/ADMINISTRATIVA RESULTE ADECUADA AL RESTO DE LAS CONDICIONES DE LA OPERATORIA. CARTERA: CONSUMO FAMILIAR. VIGENCIA: ÚNICAMENTE LOS DÍAS “DOMINGO” QUE TRANSCURRAN DEL 01/04/2024 AL 31/12/2024, AMBAS FECHAS INCLUSIVE. TIPO DE PLAN ADMITIDO: PLAN 9. CANTIDAD DE CUOTAS ACEPTADAS: SOLO 2 O 3. ALCANCE Y MODALIDAD DEL DESCUENTO. TOPE: 10% SOBRE EL MONTO TOTAL DE LA AUTORIZACIÓN, VÍA REINTEGRO, QUE SE REFLEJARÁ EN LOS RESÚMENES QUE CONTENGAN LAS CUOTAS EN QUE SE HUBIERA PACTADO LA OPERACIÓN, EN RELACIÓN AL VALOR DE CADA CUOTA LIQUIDADA, CON UN TOPE DE PESOS UN MIL QUINIENTOS ($1.500,00) POR TRANSACCIÓN. EL DESCUENTO SERÁ ACUMULABLE CON OTRAS PROMOCIONES Y/O DESCUENTOS QUE OFREZCA POR SU CUENTA Y CARGO DIA ARGENTINA S.A., Y SERÁ ABIERTO PARA TODOS LOS PRODUCTOS OFRECIDOS EN SUS TIENDAS, SEGÚN SU EXCLUSIVO CRITERIO. TIENDAS DÍA ADHERIDAS: SOLO LAS LOCALIZADAS EN LA PROVINCIA DE ENTRE RÍOS. EXCLUSIONES: LAS OPERACIONES REALIZADAS CON TARJETAS SIDECREER CABAL (BIN 604216), LAS OPERACIONES REALIZADAS CON TARJETAS SIDECREER (BIN 504962) VINCULADAS A PROGRAMAS SOCIO ASISTENCIALES ADMINISTRADOS POR EL MINISTERIO DE DESARROLLO SOCIAL DE ENTRE RÍOS, LAS OPERACIONES REALIZADAS A TRAVÉS DE BILLETERAS VIRTUALES Y/O PLATAFORMAS DE PAGO ONLINE, Y LAS COMPRAS EFECTUADAS EN HTTPS://DIAONLINE.SUPERMERCADOSDIA.COM.AR/. NO ACUMULABLE CON OTRAS PROMOCIONES VIGENTES APLICABLES POR SI.DE.CRE.E.R. S.A. T.N.A.: 0,00%. T.E.A.: 0,00%."
+         },
+         {
+            "id":101,
+            "supermercado":"Coto",
+            "categoria":"Día",
+            "subCategoria":"Lunes",
+            "descuento":"15% descuento en un pago para todos los JUBILADOS Y PENSIONADOS",
+            "descripcion":"presentando dni",
+            "masInfo":"Con todos los medios de pago. No válido para venta online.",
+            "link":"https://www.coto.com.ar/legales/"
+         },
+         {
+            "id":102,
+            "supermercado":"Coto",
+            "categoria":"Día",
+            "subCategoria":"Lunes",
+            "imagen":"../../assets/img/coto/club-nacion.png",
+            "descuento":"20% descuento en un pago con nuestra tarjeta de crédito tci",
+            "link":"https://www.coto.com.ar/legales/"
+         },
+         {
+            "id":103,
+            "supermercado":"Coto",
+            "categoria":"Día",
+            "subCategoria":"Lunes",
+            "imagen":"../../assets/img/coto/banco-cuidad.png",
+            "descuento":"25% descuento en un pago con tarjetas de crédito Visa, Mastercard y Cabal",
+            "descripcion":"Reembolso máximo $10.000 semanal por cliente.",
+            "link":"https://www.coto.com.ar/legales/"
+         },
+         {
+            "id":104,
+            "supermercado":"Coto",
+            "categoria":"Banco",
+            "subCategoria":"Lunes",
+            "imagen":"",
+            "descuento":"25% ahorro pagando con tu tarjeta prepaga y crédito mastercard",
+            "descripcion":"EXCLUSIVO PARA USUARIOS CON CAJA DE AHORRO A TRAVÉS DE LA APP UALÁ",
+            "masInfo":"Tope de reintegro: $10.000 tarjeta de crédito, $8.000 prepaga.",
+            "link":"https://www.coto.com.ar/legales/"
+         },
+         {
+            "id":105,
+            "supermercado":"Coto",
+            "categoria":"Banco",
+            "subCategoria":"Lunes",
+            "imagen":"",
+            "descuento":"15% descuento para socios Club La Nacion",
+            "link":"https://www.coto.com.ar/legales/"
+         },
+         {
+            "id":106,
+            "supermercado":"Coto",
+            "categoria":"Banco",
+            "subCategoria":"Lunes",
+            "imagen":"",
+            "descuento":"10% descuento programa ciudadania porteña",
+            "descripcion":"Sin tope de reintegro.",
+            "link":"https://www.coto.com.ar/legales/"
+         },
+         {
+            "id":107,
+            "supermercado":"Coto",
+            "categoria":"Día",
+            "subCategoria":"Lunes",
+            "descuento":"10% descuento en un pago con tarjetas de débito y crédito",
+            "descripcion":"Sin tope de reintegro.",
+            "imagen":"",
+            "link":"https://www.coto.com.ar/legales/"
+         },
+         {
+            "id":108,
+            "supermercado":"Coto",
+            "categoria":"Día",
+            "subCategoria":"Lunes",
+            "descuento":"3 CUOTAS SIN INTERÉS Con tarjeta naranja",
+            "link":"https://www.coto.com.ar/legales/"
+         },
+         {
+            "id":109,
+            "supermercado":"Coto",
+            "categoria":"Día",
+            "subCategoria":"Lunes",
+            "descuento":"15% descuento en un pago si sos miembro DE NUESTRA COMUNIDAD",
+            "descripcion":"Sin tope de reintegro. No válido para venta online.",
+            "imagen":"",
+            "link":"https://www.coto.com.ar/legales/"
+         },
+         {
+            "id":110,
+            "supermercado":"Coto",
+            "categoria":"Día",
+            "subCategoria":"Martes",
+            "descuento":"20% ahorro + 5% adicional para clientes Identité y plan sueldo con tarjetas de débito y crédito",
+            "descripcion":"Tope mensual por cliente: $8.000. Tope cuenta sueldo y cartera Identité: $7.000.",
+            "imagen":"",
+            "link":"https://www.coto.com.ar/legales/"
+         },
+         {
+            "id":111,
+            "supermercado":"Coto",
+            "categoria":"Día",
+            "subCategoria":"Martes",
+            "descuento":"30% descuento en un pago con tarjetas de crédito y débito visa",
+            "descripcion":"Tope de reintegro: $20.000.",
+            "imagen":"",
+            "link":"https://www.coto.com.ar/legales/"
+         },
+         {
+            "id":112,
+            "supermercado":"Coto",
+            "categoria":"Día",
+            "subCategoria":"Martes",
+            "descuento":"10% descuento en un pago con tarjetas de débito y crédito",
+            "descripcion":"Sin tope de reintegro.",
+            "link":"https://www.coto.com.ar/legales/"
+         },
+         {
+            "id":113,
+            "supermercado":"Coto",
+            "categoria":"Día",
+            "subCategoria":"Martes",
+            "descuento":"3 CUOTAS SIN INTERÉS Con tarjeta naranja",
+            "imagen":"",
+            "link":"https://www.coto.com.ar/legales/"
+         },
+         {
+            "id":114,
+            "supermercado":"Coto",
+            "categoria":"Día",
+            "subCategoria":"Miercoles",
+            "imagen":"",
+            "descuento":"30% descuento + 3 cuotas sin interés con tarjetas de crédito visa y mastercard del bna a través de la app",
+            "descripcion":"Tope de reintegro unificado: $10.000 por día Miércoles por cliente.",
+            "link":"https://www.coto.com.ar/legales/"
+         },
+         {
+            "id":115,
+            "supermercado":"Coto",
+            "categoria":"Día",
+            "subCategoria":"Miercoles",
+            "imagen":"",
+            "descuento":"15% descuento en un pago si sos miembro DE NUESTRA COMUNIDAD",
+            "descripcion":"Sin tope de reintegro. No válido para venta online.",
+            "link":"https://www.coto.com.ar/legales/"
+         },
+         {
+            "id":116,
+            "supermercado":"Coto",
+            "categoria":"Día",
+            "subCategoria":"Miercoles",
+            "imagen":"",
+            "descuento":"20% descuento para socios Club La Nacion",
+            "descripcion":"Sin tope de reintegro.",
+            "link":"https://www.coto.com.ar/legales/"
+         },
+         {
+            "id":117,
+            "supermercado":"Coto",
+            "categoria":"Día",
+            "subCategoria":"Miercoles",
+            "imagen":"",
+            "descuento":"10% descuento programa ciudadania porteña",
+            "descripcion":"Sin tope de reintegro.",
+            "link":"https://www.coto.com.ar/legales/"
+         },
+         {
+            "id":118,
+            "supermercado":"Coto",
+            "categoria":"Día",
+            "subCategoria":"Miercoles",
+            "imagen":"",
+            "descuento":"10% descuento en un pago con tarjetas de débito y crédito",
+            "descripcion":"Sin tope de reintegro.",
+            "link":"https://www.coto.com.ar/legales/"
+         },
+         {
+            "id":119,
+            "supermercado":"Coto",
+            "categoria":"Día",
+            "subCategoria":"Miercoles",
+            "imagen":"",
+            "descuento":"3 CUOTAS SIN INTERÉS Con tarjeta naranja",
+            "link":"https://www.coto.com.ar/legales/"
+         },
+         {
+            "id":120,
+            "supermercado":"Coto",
+            "categoria":"Día",
+            "subCategoria":"Jueves",
+            "imagen":"",
+            "descuento":"15% descuento en un pago para todos los",
+            "descripcion":"JUBILADOS Y PENSIONADOS presentando dni",
+            "masInfo":"Con todos los medios de pago. No válido para venta online.",
+            "link":"https://www.coto.com.ar/legales/"
+         },
+         {
+            "id":121,
+            "supermercado":"Coto",
+            "categoria":"Día",
+            "subCategoria":"Jueves",
+            "imagen":"",
+            "descuento":"15% descuento en un pago si sos miembro DE NUESTRA COMUNIDAD",
+            "descripcion":"Sin tope de reintegro. No válido para venta online",
+            "link":"https://www.coto.com.ar/legales/"
+         },
+         {
+            "id":222,
+            "supermercado":"Coto",
+            "imagen":"",
+            "subCategoria":"Jueves",
+            "descuento":"10% descuento en un pago con tarjetas de débito y crédito",
+            "descripcion":"Sin tope de reintegro.",
+            "link":"https://www.coto.com.ar/legales/"
+         },
+         {
+            "id":223,
+            "supermercado":"Coto",
+            "imagen":"",
+            "categoria":"Día",
+            "subCategoria":"Jueves",
+            "descuento":"20% ahorro con tarjetas DE DÉBITO VISA",
+            "descripcion":"Tope de reintegro: $5.000.",
+            "link":"https://www.coto.com.ar/legales/"
+         },
+         {
+            "id":224,
+            "supermercado":"Coto",
+            "imagen":"",
+            "categoria":"Día",
+            "subCategoria":"Jueves",
+            "descuento":"20% descuento con tarjetas DE DÉBITO VISA",
+            "descripcion":"Tope de reintegro: $8.000 mensual.",
+            "link":"https://www.coto.com.ar/legales/"
+         },
+         {
+            "id":225,
+            "supermercado":"Coto",
+            "categoria":"Día",
+            "subCategoria":"Jueves",
+            "descuento":"20% descuento en un pago con tarjetas DE crédito VISA y mastercard",
+            "descripcion":"Tope de reintegro: $18.000 mensual.",
+            "imagen":"",
+            "link":"https://www.coto.com.ar/legales/"
+         },
+         {
+            "id":226,
+            "supermercado":"Coto",
+            "categoria":"Día",
+            "subCategoria":"Jueves",
+            "descuento":"20% descuento en un pago con tarjetas de crédito VISA y MASTERCARD",
+            "descripcion":"EXCLUSIVO PARA SANTA FE Y ROSARIO",
+            "masInfo":"Tope de reintegro: $10.000 por cuenta, por mes.",
+            "link":"https://www.coto.com.ar/legales/",
+            "imagen":""
+         },
+         {
+            "id":227,
+            "supermercado":"Coto",
+            "categoria":"Día",
+            "subCategoria":"Jueves",
+            "descuento":"25% descuento con tarjeta VISA débito",
+            "descripcion":"ope de devolución: $5.000 p/ transacción. Clientes Cuenta Comafi Único tope de reintegro $6.000.",
+            "imagen":"",
+            "link":"https://www.coto.com.ar/legales/"
+         },
+         {
+            "id":228,
+            "supermercado":"Coto",
+            "categoria":"Día",
+            "subCategoria":"Jueves",
+            "imagen":"",
+            "descripcion":"EXCLUSIVO JUBILADOS QUE PERCIBAN SUS HABERES EN EL BANCO",
+            "descuento":"20% descuento con tarjetas de débito VISA",
+            "masInfo":"Tope de reintegro $20.000 mensual.",
+            "link":"https://www.coto.com.ar/legales/"
+         },
+         {
+            "id":229,
+            "supermercado":"Coto",
+            "categoria":"Día",
+            "subCategoria":"Jueves",
+            "imagen":"",
+            "descuento":"3 CUOTAS SIN INTERÉS Con tarjeta naranja",
+            "link":"https://www.coto.com.ar/legales/"
+         },
+         {
+            "id":230,
+            "supermercado":"Coto",
+            "categoria":"Día",
+            "subCategoria":"Viernes",
+            "imagen":"",
+            "descuento":"3 CUOTAS SIN INTERÉS Con tarjeta naranja",
+            "link":"https://www.coto.com.ar/legales/"
+         },
+         {
+            "id":231,
+            "supermercado":"Coto",
+            "categoria":"Día",
+            "subCategoria":"Viernes",
+            "imagen":"",
+            "descuento":"15% descuento en un pago con nuestra tarjeta de crédito tci",
+            "link":"https://www.coto.com.ar/legales/"
+         },
+         {
+            "id":231,
+            "supermercado":"Coto",
+            "categoria":"Día",
+            "subCategoria":"Sabado",
+            "imagen":"",
+            "descuento":"3 CUOTAS SIN INTERÉS Con tarjeta naranja",
+            "link":"https://www.coto.com.ar/legales/"
+         },
+         {
+            "id":232,
+            "supermercado":"Coto",
+            "categoria":"Día",
+            "subCategoria":"Sabado",
+            "imagen":"",
+            "descuento":"15% descuento en un pago con nuestra tarjeta de crédito tci",
+            "link":"https://www.coto.com.ar/legales/"
+         },
+         {
+            "id":233,
+            "supermercado":"Coto",
+            "categoria":"Día",
+            "subCategoria":"Domingo",
+            "imagen":"",
+            "descuento":"3 CUOTAS SIN INTERÉS Con tarjeta naranja",
+            "link":"https://www.coto.com.ar/legales/"
+         },
+         {
+            "id":234,
+            "supermercado":"Coto",
+            "categoria":"Día",
+            "subCategoria":"Domingo",
+            "imagen":"",
+            "descuento":"15% descuento en un pago con nuestra tarjeta de crédito tci",
+            "link":"https://www.coto.com.ar/legales/"
+         }
+         
+
+
+  ]
+  

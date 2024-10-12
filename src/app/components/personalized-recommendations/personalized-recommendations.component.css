@@ -1,0 +1,74 @@
+/* General */
+.container {
+    max-width: 1200px;
+  }
+  
+  .titulo{
+    font-family: 'Montserrat';
+  background-color: #f8f9fa;
+  }
+
+  /* Estilo para las tarjetas de productos */
+  .card {
+    border-radius: 10px;
+    transition: transform 0.3s, box-shadow 0.3s;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+  }
+  
+  .card-img-top {
+    height: 150px;
+    object-fit: cover;
+    border-radius: 10px 10px 0 0;
+  }
+  
+  /* Títulos de secciones */
+  .text-success, .text-danger, .text-info {
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  
+  /* Botones de detalle */
+  button {
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  button:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Estilo para las tarjetas de productos */
+.card {
+    border-radius: 10px;
+    transition: transform 0.3s, box-shadow 0.3s;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+  }
+  
+  .card-img-top {
+    height: 150px;
+    object-fit: cover;
+    border-radius: 10px 10px 0 0;
+  }
+  
+  .container {
+    margin-top: 50px;
+  }
+  
+  .text-primary {
+    color: #007bff !important;
+  }
+  
+  .form-select {
+    margin-top: 10px;
+  }
+  

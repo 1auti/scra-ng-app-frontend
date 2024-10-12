@@ -1,0 +1,91 @@
+<div class="container-fluid py-5 bg-light">
+  <h1 class="text-center mb-5">Estadísticas de Supermercados</h1>
+
+  <div class="row mb-4">
+    <div class="col-md-4">
+      <select class="form-select" [(ngModel)]="categoriaSeleccionada" (ngModelChange)="onCategoriaChange()">
+        <option value="">Selecciona una categoría</option>
+        <option *ngFor="let categoria of categorias" [value]="categoria">{{categoria}}</option>
+      </select>
+    </div>
+    <div class="col-md-4">
+      <select class="form-select" [(ngModel)]="subcategoriaSeleccionada" (ngModelChange)="onSubcategoriaChange()" [disabled]="!categoriaSeleccionada">
+        <option value="">Selecciona una subcategoría</option>
+        <option *ngFor="let subcategoria of subcategorias[categoriaSeleccionada]" [value]="subcategoria">{{subcategoria}}</option>
+      </select>
+    </div>
+    <div class="col-md-4">
+      <select class="form-select" [(ngModel)]="tipoSeleccionado" (ngModelChange)="onTipoChange()" [disabled]="!subcategoriaSeleccionada">
+        <option value="">Selecciona un tipo</option>
+        <option *ngFor="let tipo of tipos[subcategoriaSeleccionada]" [value]="tipo">{{tipo}}</option>
+      </select>
+    </div>
+  </div>
+  
+  <div class="row g-4">
+    <div class="col-md-6">
+      <div class="card shadow-sm">
+        <div class="card-body">
+          <h2 class="card-title h4 mb-3">Cantidad de Productos</h2>
+          <canvas #graficoCantidadProductos></canvas>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class="card shadow-sm">
+        <div class="card-body">
+          <h2 class="card-title h4 mb-3">Variedad de Marcas</h2>
+          <canvas #graficoVariedadMarcas></canvas>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class="card shadow-sm">
+        <div class="card-body">
+          <h2 class="card-title h4 mb-3">Precios</h2>
+          <canvas #graficoPrecios></canvas>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class="card shadow-sm">
+        <div class="card-body">
+          <h2 class="card-title h4 mb-3">Promociones</h2>
+          <canvas #graficoPromociones></canvas>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row mt-5">
+    <div class="col-12">
+      <div class="card shadow-sm">
+        <div class="card-body">
+          <h2 class="card-title h4 mb-3">Tabla de Comparación</h2>
+          <div class="table-responsive">
+            <table class="table table-hover">
+              <thead class="table-light">
+                <tr>
+                  <th>Supermercado</th>
+                  <th>Cantidad de Productos</th>
+                  <th>Variedad de Marcas</th>
+                  <th>Precio Promedio</th>
+                  <th>Número de Promociones</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr *ngFor="let supermercado of supermercados">
+                  <td><strong>{{ supermercado.nombre }}</strong></td>
+                  <td>{{ supermercado.cantidadProductos }}</td>
+                  <td>{{ supermercado.variedadMarcas.length }}</td>
+                  <td>{{ supermercado.precioPromedio | currency:'USD':'symbol':'1.2-2' }}</td>
+                  <td><span class="badge bg-primary">{{ supermercado.promociones.length }}</span></td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

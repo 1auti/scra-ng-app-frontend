@@ -1,0 +1,98 @@
+/* Estilos generales */
+body {
+    background-color: #f8f9fa;
+    color: #333;
+    font-family: 'Montserrat';
+  }
+  
+  .container-fluid {
+    padding: 3rem 1.5rem;
+  }
+  
+  /* Título principal */
+  h1.text-center {
+    color: #ffffff;
+    font-weight: 200;
+    margin-bottom: 2rem;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+  }
+  
+  /* Tarjetas de gráficos */
+  .card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  }
+  
+  .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+  }
+  
+  .card-body {
+    padding: 1.5rem;
+  }
+  
+  .card-title {
+    color: #ffffff;
+    font-weight: 100;
+    margin-bottom: 1rem;
+  }
+  
+  /* Gráficos */
+  .grafico {
+    width: 100%;
+    height: 300px;
+    margin: 0 auto;
+  }
+  
+  .grafico canvas {
+    width: 100% !important;
+    height: 100% !important;
+  }
+  
+  /* Tabla de comparación */
+  .tabla-comparacion {
+    margin-top: 2rem;
+  }
+  
+  .table {
+    background-color: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .table thead {
+    background-color: #0056b3;
+    color: #fff;
+  }
+  
+  .table th, .table td {
+    text-align: center;
+    vertical-align: middle;
+    padding: 1rem;
+    border-color: #e9ecef;
+  }
+  
+  .table tbody tr:hover {
+    background-color: #f1f3f5;
+  }
+  
+  /* Badge para número de promociones */
+  .badge {
+    font-size: 0.9em;
+    padding: 0.5em 0.7em;
+    border-radius: 20px;
+  }
+  
+  /* Responsive */
+  @media (max-width: 768px) {
+    .grafico {
+      height: 250px;
+    }
+    
+    .table th, .table td {
+      padding: 0.75rem;
+    }
+  }

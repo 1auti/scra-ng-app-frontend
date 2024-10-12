@@ -1,0 +1,42 @@
+<!-- sidebar.component.html -->
+<div class="sidebar" [class.active]="isActive">
+    <button class="close-btn" (click)="toggleSidebar()">
+      <i class="fa-solid fa-times"></i>
+    </button>
+    <nav>
+      <ul class="menu-level-1">
+        <li *ngFor="let item of menuItems">
+          <a href="#" (click)="toggleMenu(item)">
+            <i *ngIf="item.icon" class="fa-solid {{ item.icon }}"></i>
+            {{ item.name }}
+            <i *ngIf="item.children" class="fa-solid" [ngClass]="{'fa-chevron-down': !item.expanded, 'fa-chevron-up': item.expanded}"></i>
+          </a>
+          <ul *ngIf="item.children && item.expanded" class="menu-level-2">
+            <li *ngFor="let subItem of item.children">
+              <a href="#" (click)="toggleMenu(subItem)">
+                <i *ngIf="subItem.icon" class="fa-solid {{ subItem.icon }}"></i>
+                {{ subItem.name }}
+                <i *ngIf="subItem.children" class="fa-solid" [ngClass]="{'fa-chevron-down': !subItem.expanded, 'fa-chevron-up': subItem.expanded}"></i>
+              </a>
+              <ul *ngIf="subItem.children && subItem.expanded" class="menu-level-3">
+                <li *ngFor="let subSubItem of subItem.children">
+                  <a href="#" (click)="toggleMenu(subSubItem)">
+                    <i *ngIf="subSubItem.icon" class="fa-solid {{ subSubItem.icon }}"></i>
+                    {{ subSubItem.name }}
+                    <i *ngIf="subSubItem.children" class="fa-solid" [ngClass]="{'fa-chevron-down': !subSubItem.expanded, 'fa-chevron-up': subSubItem.expanded}"></i>
+                  </a>
+                  <ul *ngIf="subSubItem.children && subSubItem.expanded" class="menu-level-4">
+                    <li *ngFor="let level4Item of subSubItem.children">
+                      <a href="#">
+                        {{ level4Item.name }}
+                      </a>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
+  </div>

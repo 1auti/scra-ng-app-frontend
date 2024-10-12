@@ -1,0 +1,19 @@
+<h2 class="text-center mb-4" style=" font-family: 'Montserrat'">Historial de Precios</h2>
+<div class="container mt-5">
+ 
+  <div class="row">
+    <div class="col-md-8">
+      <canvas id="priceChart" class="chart"  width="1500" height="1000"></canvas>
+    </div>
+    <div class="col-md-4">
+      <h3 class="mb-4" style="margin-top: 10px;">Seleccionar Productos</h3>
+      <div class="form-check" *ngFor="let product of availableProducts; let i = index">
+        <input class="form-check-input" type="checkbox" [id]="'product' + i" 
+               [(ngModel)]="product.selected" (change)="onProductSelectionChange()">
+        <label class="form-check-label" [for]="'product' + i">
+          {{product.name}}
+        </label>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,46 @@
+{
+    "sucursales":[
+        {
+            "id":1,
+            "supermercado": "Dia" ,
+            "provincia": "Capital Federal",
+            "localidad": "Nueva Pompeya",
+            "direccion": "Fernandez De La Cruz 1030"
+        },
+        {
+            "id":2,
+            "supermercado": "Jumbo" ,
+            "provincia": "Corrientes",
+            "localidad": "Corrientes",
+            "direccion": "Libertad 5301"
+        },
+        {
+            "id":3,
+            "supermercado": "Coto" ,
+            "provincia": "Capital Federal",
+            "localidad": "Balvanera",
+            "direccion": "Av Rivadavia 2089"
+        },
+        {
+            "id":4,
+            "supermercado": "Dia" ,
+            "provincia": "Buenos Aires",
+            "localidad": "Glew",
+            "direccion": "Cl Patria Y Vias F.Gral Roca"
+        },
+        {
+            "id":5,
+            "supermercado": "Jumbo" ,
+            "provincia": "Blas Parera 714",
+            "localidad": "Parana",
+            "direccion": "Entre rios"
+        },
+        {
+            "id":6,
+            "supermercado": "Coto" ,
+            "provincia": "Capital Federal",
+            "localidad": "Palermo",
+            "direccion": "El Salvador 5675"
+        }
+    ]
+}

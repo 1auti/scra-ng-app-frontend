@@ -1,0 +1,61 @@
+<div class="container">
+  <!-- Sección de bienvenida con el botón explorar -->
+  <section class="animated-background-section">
+    <div class="content">
+      <h1>Supermercados Online</h1>
+      <p>Encuentra los mejores precios en nuestros supermercados asociados.</p>
+      <button class="explore-btn" (click)="scrollToFeatures()">Explorar</button>
+    </div>
+  </section>
+
+  <!-- Sección con las funcionalidades, que se muestra después de tocar el botón -->
+  <div #featuresSection class="features-section" style="display: none;">
+    <div class="card text-white bg-danger" (click)="navigateToStats()">
+      <div class="card-header">
+        <i class="fas fa-chart-bar"></i> Estadísticas del Supermercado
+      </div>
+      <div class="card-body">
+        <p>Ver las estadísticas del supermercado.</p>
+      </div>
+    </div>
+
+    <div class="card text-white bg-success" (click)="navigateToPriceHistory()">
+      <div class="card-header">
+        <i class="fas fa-dollar-sign"></i> Historial de Precios de los productos
+      </div>
+      <div class="card-body">
+        <p>Ver el historial de Precios de los productos.</p>
+      </div>
+    </div>
+
+    <div class="card text-white bg-primary" (click)="navigateToSucursales()">
+      <div class="card-header">
+        <i class="fas fa-store"></i> Sucursales
+      </div>
+      <div class="card-body">
+        <p>Ver las sucursales disponibles.</p>
+      </div>
+    </div>
+
+    <div class="card text-white bg-warning" (click)="navigateToRecomendaciones()">
+      <div class="card-header">
+        <i class="fas fa-star"></i> Recomendaciones personalizadas
+      </div>
+      <div class="card-body">
+        <p>Ver recomendaciones personalizadas...</p>
+      </div>
+    </div>
+
+    <div class="card text-white bg-ligth" (click)="navigateToPromocionPago()">
+      <div class="card-header">
+        <i class="fas fa-money-bill-wave"></i> Promociones de Pago
+      </div>
+      <div class="card-body">
+        <p>Ver promociones de pago</p>
+      </div>
+    </div>
+
+    <!-- El footer al final -->
+    <app-footer></app-footer>
+  </div>
+</div>

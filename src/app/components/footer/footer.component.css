@@ -1,0 +1,61 @@
+.footer {
+    background-color: #000000;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    position: relative;
+    width: 100%;
+  }
+  
+  .footer h4 {
+    color: #fff;
+    font-size: 18px;
+    margin-bottom: 15px;
+  }
+  
+  .footer-logos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px; /* Espacio entre logos */
+    flex-wrap: wrap;
+  }
+  
+  .logo-supermercado {
+    width: 100px;
+    height: auto;
+    transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
+  }
+  
+  .logo-supermercado:hover {
+    transform: scale(1.2); /* Aumenta el tamaño al hacer hover */
+    opacity: 0.8; /* Reduce la opacidad un poco */
+  }
+  
+  .arrow-container {
+    position: fixed;
+    bottom: 20px; /* Ajusta según la altura que desees respecto al borde inferior */
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1000; /* Para asegurarte de que el botón esté sobre el contenido */
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .arrow-container button {
+    background-color: transparent;
+    border: none;
+    outline: none;
+  }
+  
+  .arrow-container i {
+    color: #000;
+    font-size: 2rem;
+    transition: transform 0.3s ease;
+  }
+  
+  .arrow-container i:hover {
+    transform: scale(1.2); /* Aumenta el tamaño al hacer hover */
+  }
+  
+  

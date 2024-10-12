@@ -1,0 +1,78 @@
+<div class="container-fluid mt-4">
+    <h2>Comparación de Productos</h2>
+    
+    <!-- Buscador y categorías -->
+    <div class="mb-3">
+      <div class="input-group">
+        <input type="text" class="form-control" placeholder="Buscar productos o categorías" [(ngModel)]="searchTerm" (input)="searchProducts()">
+        <div class="input-group-append">
+          <button class="btn btn-outline-secondary" type="button">Buscar</button>
+        </div>
+      </div>
+      <div class="mt-2">
+        <button *ngFor="let category of categories" 
+                class="btn btn-sm mr-2" 
+                [class.btn-primary]="selectedCategory === category"
+                [class.btn-outline-primary]="selectedCategory !== category"
+                (click)="selectCategory(category)">
+          {{ category | titlecase }}
+        </button>
+        <button class="btn btn-sm btn-outline-secondary" (click)="selectCategory('')">Todos</button>
+      </div>
+    </div>
+  
+    <div class="row">
+      <!-- Lista de productos -->
+      <div class="col-md-4">
+        <h4>Productos disponibles</h4>
+        <ul class="list-group">
+          <li class="list-group-item" *ngFor="let product of filteredProducts">
+            <div class="d-flex justify-content-between align-items-center">
+              <div class="form-check">
+                <input class="form-check-input" type="checkbox" [id]="'product-' + product.id" 
+                       (change)="toggleProductSelection(product)" [checked]="isProductSelected(product)">
+                <label class="form-check-label" [for]="'product-' + product.id">
+                  {{ product.name }} ({{ product.category | titlecase }})
+                </label>
+              </div>
+              <span class="badge bg-primary rounded-pill">{{ product.price | currency }}</span>
+            </div>
+            <button class="btn btn-sm btn-outline-info mt-2" (click)="toggleProductDetails(product)">
+              {{ product.showDetails ? 'Ver menos' : 'Ver más' }}
+            </button>
+            <div *ngIf="product.showDetails" class="mt-2">
+              <p><strong>Marca:</strong> {{ product.brand }}</p>
+              <p><strong>Descripción:</strong> {{ product.description }}</p>
+              <p><strong>Tienda:</strong> {{ product.store }}</p>
+            </div>
+          </li>
+        </ul>
+      </div>
+  
+      <!-- Productos seleccionados -->
+      <div class="col-md-8">
+        <h4>Productos seleccionados</h4>
+        <div class="row row-cols-1 row-cols-md-2 g-4">
+          <div class="col" *ngFor="let product of selectedProducts">
+            <div class="card h-100">
+              <div class="row g-0">
+                <div class="col-md-4">
+                  <img [src]="product.image" class="img-fluid rounded-start" [alt]="product.name">
+                </div>
+                <div class="col-md-8">
+                  <div class="card-body">
+                    <h5 class="card-title">{{ product.name }}</h5>
+                    <p class="card-text"><strong>Precio:</strong> {{ product.price | currency }}</p>
+                    <p class="card-text"><strong>Tienda:</strong> {{ product.store }}</p>
+                    <p class="card-text"><strong>Categoría:</strong> {{ product.category | titlecase }}</p>
+                    <p class="card-text"><strong>Marca:</strong> {{ product.brand }}</p>
+                    <p class="card-text"><small class="text-muted">{{ product.description }}</small></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
